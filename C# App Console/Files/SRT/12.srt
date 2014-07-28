@@ -1,0 +1,4054 @@
+﻿1
+00:00:05,390 --> 00:00:35,390
+<font color="#00ff00"><i>Diterjemahkan oleh<font color="#0000ff"> <b>WoNgKEre</b></font>
+Yogyakarta, May 2013</i></font>
+
+2
+00:00:40,640 --> 00:00:42,631
+<i> Houston, ini Excursion </ i>
+
+3
+00:00:42,840 --> 00:00:45,593
+<i> Kami lihat pembakaran
+orbit-penyisipan baik. Ganti </ i>
+
+4
+00:00:46,000 --> 00:00:46,989
+<i> Excursion, disini Houston </ i>
+
+5
+00:00:47,200 --> 00:00:49,668
+...  <i> Kami terima dan mengerti </ i>
+<i> Pembakaran 0-1 bagus </ i >
+
+6
+00:00:50,280 --> 00:00:53,272
+<i> Houston, Bisakah kalian mengkonfirmasi </ i>
+<i> dari cakupan KU antena </ i>
+
+7
+00:00:53,600 --> 00:00:54,919
+<i> untuk mendaratkan pendarat </ i>
+
+8
+00:00:55,200 --> 00:00:56,599
+<i> INCO, ini adalah direktur penerbangan </ i>
+
+9
+00:00:56,800 --> 00:00:59,598
+<i> Bagaimana KU kami </ i>
+<i> untuk untuk sistem rilis pendarat? </ i>
+
+10
+00:00:59,800 --> 00:01:00,596
+<i> Penerbangan, ini adalah INCO </ i>
+
+11
+00:01:00,800 --> 00:01:03,917
+<i> Seharusnya kita punya cakupan KU yang baik </ i>
+<i> untuk rilis L.D.S. </ i>
+
+12
+00:01:04,120 --> 00:01:07,510
+<i> Bahkan, kita mencakup semua arah </ i>
+<i> pendaratan  dan mengunci udara egress </ i>.
+
+13
+00:01:48,200 --> 00:01:51,476
+<i> Houston, tumpukan turun </ i>
+<i> ke minus Z-L-V </ i>
+
+14
+00:01:52,400 --> 00:01:54,960
+<i>Properti penerbangan, </ i>
+<i> RCS margin baik </ i>
+
+15
+00:01:55,160 --> 00:01:57,993
+<i> Diterima. Sistem kontrol </ i>
+<i> jumlah propelan baik </ i>
+
+16
+00:01:58,200 --> 00:02:00,919
+<i> Penerbangan, EECOM </ i>
+<i> Pendaratan umbilical terkunci </ i>
+
+17
+00:02:01,120 --> 00:02:03,111
+<. i> Diterima. Pendaratan pada daya internal </ i>
+
+18
+00:02:18,040 --> 00:02:20,793
+De-orbit pembakar TIG
+dalam lima, empat...
+
+19
+00:02:21,200 --> 00:02:23,760
+Tiga, dua, satu.
+
+20
+00:02:25,800 --> 00:02:26,949
+De-orbit pembakar berlangsung.
+
+21
+00:02:34,240 --> 00:02:36,800
+<i> Penerbangan, Pertemuan </ i>
+<i> Excursion September manuver nominal </ i>
+
+22
+00:02:37,280 --> 00:02:39,999
+<i>Pendarat, ini adalah Houston </ i>
+<i> Kami tunjukkan. nominal de-orbit </ i>
+
+23
+00:02:40,200 --> 00:02:41,349
+Terlihat cukup bagus terakhir ini.
+
+24
+00:03:02,320 --> 00:03:03,799
+Elang telah mendarat...
+
+25
+00:03:05,120 --> 00:03:05,632
+Lagi.
+
+26
+00:03:08,120 --> 00:03:10,156
+Begitulah! Ya!
+
+27
+00:03:10,520 --> 00:03:12,511
+Houston, kami telah
+mendarat di M.E.T. ..
+
+28
+00:03:12,880 --> 00:03:14,552
+182 hari, 11 jam,
+
+29
+00:03:14,760 --> 00:03:16,512
+53 menit, 37 detik.
+
+30
+00:03:17,280 --> 00:03:18,235
+<i> Excursion, Houston </ i>
+
+31
+00:03:18,440 --> 00:03:19,873
+<i> Konfigurasi ulang </ i>
+
+32
+00:03:20,080 --> 00:03:21,308
+<i> DAP nominal, B-1 </ i>
+
+33
+00:03:21,520 --> 00:03:23,351
+Diterima , Houston.
+Memilih butir 30.
+
+34
+00:03:23,560 --> 00:03:24,197
+Aku di sana.
+
+35
+00:03:25,240 --> 00:03:26,514
+Set P.E.T. hitungan mundur.
+
+36
+00:03:28,040 --> 00:03:29,996
+Ini adalah satu jam
+sampai waktunya pesta.
+
+37
+00:03:51,520 --> 00:03:53,636
+<i> Memerintahkan kamera untuk menyebar </ i>
+
+38
+00:03:57,840 --> 00:04:00,354
+<i> Penerbangan, EVA penguncian</ i>
+<i> depressurization udara lengkap </ i>
+
+39
+00:04:00,560 --> 00:04:02,118
+<i> Pintu terbuka </ i>
+
+40
+00:04:06,000 --> 00:04:08,639
+<i> Comm memeriksa IFM. uplink </ i>
+<i> Apakah kalian mengikuti? </ i>
+
+41
+00:04:09,440 --> 00:04:10,873
+<i> Kami bersamamu, Patrick </ i>
+
+42
+00:04:21,320 --> 00:04:23,788
+<i> Houston, Excursion </ i>
+<i> Menyebarkan dua rover </ i>
+
+43
+00:04:24,280 --> 00:04:28,034
+<i> Kami pastikan dua telemetri rover </ i>
+<i> pergi menyebar</ i>
+
+44
+00:04:28,400 --> 00:04:29,310
+<i> Excursion, ini. adalah Houston. </ i>
+
+45
+00:04:29,840 --> 00:04:32,912
+<i> Apakah kau menerima sinyal rover </ i>
+<i> melalui pendarat uplink </ i>
+
+46
+00:04:33,360 --> 00:04:36,636
+<i> Itu jelas, Houston. Kami berharap </ i>
+<i> video yang sangat baik dari rover satu </ i>
+
+47
+00:04:40,520 --> 00:04:42,078
+<i> Bukan untuk satu bangsa... </ i>
+
+48
+00:04:42,960 --> 00:04:44,518
+<i> tidak untuk satu orang... </ i>
+
+49
+00:04:45,200 --> 00:04:46,838
+<i> tidak untuk satu keyakinan... </ i>
+
+50
+00:04:47,560 --> 00:04:49,471
+<i> tetapi untuk semua umat manusia </ i>
+
+51
+00:04:56,400 --> 00:04:57,230
+<i> Patrick Ross, </ i>
+
+52
+00:04:57,440 --> 00:05:02,036
+<i> anak seorang senator, bintang sepak bola di Yale, </ i>
+<i> dan sekarang manusia pertama di Mars </ i>
+
+53
+00:05:02,360 --> 00:05:05,272
+<i> Seorang pahlawan yang sempurna </ i>
+< i> untukwaktu yang tidak sempurna </ i>
+
+54
+00:05:05,720 --> 00:05:06,675
+<i> Patrick, ini adalah Excursion </ i>
+
+55
+00:05:06,880 --> 00:05:09,917
+<i> Aku ingin kau memeriksa rover dua </ i>
+<i> situs pengeboran berikutnya untuk ku </ i>
+
+56
+00:05:10,840 --> 00:05:13,877
+<i> Patrick, akan Anda melihat </ i>
+<i> di O-2 utama mu... </ i>
+
+57
+00:05:14,080 --> 00:05:16,036
+<i> Dan tingkatkan tenaga pada DCM mu </ i>
+
+58
+00:05:17,240 --> 00:05:19,196
+<i> Semua parameter terlihat baik </ i>
+
+59
+00:05:23,160 --> 00:05:24,195
+<i> Struktur di sekitar adalah liat </ i>
+
+60
+00:05:25,000 --> 00:05:28,310
+< i> Bagian atas tanah adalah batuan </ i>
+<i> bit Bor menunjukkan tanda-tanda dan keausan </ i>
+
+61
+00:05:30,040 --> 00:05:32,270
+Itu akan bertahan. Satu bidang lagi.
+
+62
+00:05:32,480 --> 00:05:34,357
+Sektor 112, oke?
+
+63
+00:05:35,160 --> 00:05:36,957
+Mungkin telah menjadi
+tempat tidur kanal.
+
+64
+00:05:40,760 --> 00:05:43,832
+<i> Delapan tahun pelatihan, </ i>
+<i> dan aku adalah penggali Mars </ i>
+
+65
+00:05:46,600 --> 00:05:48,989
+Kau punya 1 jam, 30 menit
+ waktu permukaan yang tersisa.
+
+66
+00:05:49,640 --> 00:05:50,516
+Dan terus menghitung.
+
+67
+00:05:53,880 --> 00:05:57,156
+<i> Sampel akhir dimuat </ i>
+<i> Mempersiapkan untuk penguncian udara. </ i>
+
+68
+00:05:57,600 --> 00:06:00,160
+<i> Dalam dunia yang penuh dengan kekerasan, </ i>
+<i> kelaparan dan perselisihan... </ i>
+
+69
+00:06:00,360 --> 00:06:02,999
+<i> ada kesempatan </ i>
+<i> umat manusia untuk melampaui... </ i>
+
+70
+00:06:03,200 --> 00:06:05,714
+<i> Perjuangan kecil dalam</ i>
+<i> kehidupan sehari-harinya. </ i>
+
+71
+00:06:05,960 --> 00:06:09,509
+<i> Perjalanan Excursion ke Mars </ i>
+<i> adalah salah satu kesempatan itu.< / i>
+
+72
+00:06:09,720 --> 00:06:11,915
+<i> Hari ini, Amerika merasa bangga </ i>
+
+73
+00:06:12,120 --> 00:06:14,111
+Aku katakan kepada mereka
+agar tidak pergi!
+
+74
+00:06:18,040 --> 00:06:20,349
+<i> Tiga, dua, satu... </ i>
+
+75
+00:07:19,240 --> 00:07:20,878
+Mari kita pergi dari sini.
+
+76
+00:07:27,600 --> 00:07:30,433
+Oh, Tuhan.
+Itu luar biasa.
+
+77
+00:07:30,960 --> 00:07:33,758
+<i> Prestasi yang luar biasa </ i>
+<i> Yang sekali lagi membuktikan... </ i>
+
+78
+00:07:33,960 --> 00:07:37,396
+<i> bahwa jika kita bisa naik keatas </ i>
+<i> menjadi partisan politik ... </ i>
+
+79
+00:07:37,640 --> 00:07:40,712
+<i> Amerika dapat naik ke langit </ i>
+
+80
+00:07:41,520 --> 00:07:44,114
+Terima kasih, Bapak Presiden.
+Kredit bagi ke kru saya.
+
+81
+00:07:44,760 --> 00:07:48,275
+<i> Terbang ke rumah aman, nak </ i>
+<i> doa kami bersamamu dan... </ i>
+
+82
+00:07:48,520 --> 00:07:49,714
+<i> Tuhan memberkati mu </ i>
+
+83
+00:07:50,760 --> 00:07:52,113
+Terima kasih, Bapak Presiden.
+
+84
+00:07:54,960 --> 00:07:57,394
+<i> Penerbangan, Navigasi. Kami ingin kru </ i>
+<i> lulus tracker bintang... </ i>
+
+85
+00:07:57,600 --> 00:08:01,434
+<i> dan melakukan keselarasan IMU </ i>
+<i> sebelum kita memperbarui vektor negara </ i>
+
+86
+00:08:03,240 --> 00:08:06,789
+<i> CAPCOM, biarkan awak tahu Navigasi </ i>
+<i> dan memperbaiki pada posisi bintang .. . </ i>
+
+87
+00:08:07,000 --> 00:08:08,752
+<i> dan penyelarasan </ i>
+<i> unit interior... </ i>
+
+88
+00:08:08,960 --> 00:08:11,554
+<i> sebelum meletakkan </ i>
+<i > vektor baru keatas layar</ i>
+
+89
+00:08:23,400 --> 00:08:27,029
+Houston, ini adalah Excursion.
+Kami memiliki vektor baru di layar.
+
+90
+00:08:27,640 --> 00:08:30,313
+<i> Excursion, Houston. Kami terima. </ i>
+<i> Telah menerima vektor yang diperbarui </ i>
+
+91
+00:08:31,040 --> 00:08:32,996
+...  <i> Datang di TIG </ i>
+<i> untuk transfer pembakaran orbit. </ i>
+
+92
+00:08:33,200 --> 00:08:33,712
+<i> Diterima</ i>
+
+93
+00:08:44,120 --> 00:08:45,314
+<i> Excursion, kalian siap berangkat </ i>
+
+94
+00:08:46,640 --> 00:08:49,393
+Terima kasih, Huston.
+Tiga puluh detik mentransfer orbit TIG.
+
+95
+00:08:50,040 --> 00:08:52,031
+Kami pulang sayang.
+
+96
+00:08:53,160 --> 00:08:54,434
+Ya, pak!
+
+97
+00:09:14,800 --> 00:09:16,870
+<i> Excursion, Houston </ i>
+
+98
+00:09:17,080 --> 00:09:20,356
+<i> Orbit transfer terbakar di 20, 19... </ i>
+
+99
+00:09:21,200 --> 00:09:23,509
+<i> 18, 17... </ i>
+
+100
+00:09:24,280 --> 00:09:26,589
+<i> 16, 15... </ i>
+
+101
+00:09:27,520 --> 00:09:31,069
+<i> 14, 13, 12... </ i>
+
+102
+00:09:31,920 --> 00:09:34,115
+<i> 11, 10... </ i>
+
+103
+00:09:34,880 --> 00:09:37,030
+<i> sembilan, delapan... </ i>
+
+104
+00:09:37,680 --> 00:09:38,556
+<i> tujuh... </ i>
+
+105
+00:09:38,960 --> 00:09:39,995
+<i> enam... </ i>
+
+106
+00:09:40,360 --> 00:09:41,395
+<i> lima... </ i>
+
+107
+00:09:41,920 --> 00:09:42,830
+<i> empat... </ i>
+
+108
+00:09:43,240 --> 00:09:44,195
+<i> tiga... </ i>
+
+109
+00:09:44,760 --> 00:09:45,795
+<i> dua... </ i>
+
+110
+00:09:46,000 --> 00:09:47,069
+<i> satu </ i>
+
+111
+00:09:52,480 --> 00:09:55,517
+<i> Excursion, ini panggilan Houston </ i>
+<i> Apakah kalian mendengar kami.? Ganti </ i>
+
+112
+00:09:57,400 --> 00:09:59,789
+<i> Excursion, ini adalah Houston </ i>
+<i> Apakah kalian menerima? </ i>
+
+113
+00:10:00,720 --> 00:10:01,630
+<i> Selama tiga menit terakhir... </ i>
+
+114
+00:10:01,880 --> 00:10:04,394
+<i> Setiap usaha untuk berkomunikasi </ i>
+<i> dengan Excursion telah gagal </ i>
+
+115
+00:10:05,200 --> 00:10:07,236
+Aku bilang jangan pergi ke Mars!
+
+116
+00:10:08,240 --> 00:10:09,958
+Aku bilang jangan pergi!
+
+117
+00:10:10,960 --> 00:10:13,520
+<i> G.C., Penerbangan. Periksa semua  </ i>
+<i> stasiun relay pada jaringan </ i>
+
+118
+00:10:13,720 --> 00:10:15,915
+<i> Siapkan TDRs cadangan </ i>
+<i> dalam keadaan siaga </ i>
+
+119
+00:10:16,520 --> 00:10:19,239
+<I > Penerbangan ke semua operator </ i>
+<i> Tarik data kalian dari pembakar </ i>
+
+120
+00:10:19,440 --> 00:10:22,000
+...  <i> Kembalilah ke kamar </ i>
+<i> Verifikasi menunjukkan tidak ada anomali </ i>
+
+121
+00:10:22,200 --> 00:10:24,555
+<i> Demi Tuhan, seseorang </ i>
+<i> katakan dia tidak meledak </ i>
+
+122
+00:10:35,640 --> 00:10:37,119
+Houston, ini adalah Excursion.
+
+123
+00:10:37,960 --> 00:10:40,076
+Kami memiliki kerusakan
+di K.U. band antena.
+
+124
+00:10:40,280 --> 00:10:41,713
+Kehilangan telemetri dan komunikasi.
+
+125
+00:10:42,680 --> 00:10:45,956
+Aku melakukan sedikit I.F.M.
+Tampaknya baik-baik saja sekarang.
+
+126
+00:10:47,040 --> 00:10:48,519
+Awak Excursion baik-baik saja.
+
+127
+00:10:49,320 --> 00:10:51,390
+Menuju tempat pertemuan
+dengan Big Blue.
+
+128
+00:10:52,000 --> 00:10:55,151
+Sungguh menyenangkan pulang ke rumah.
+Ganti dan keluar.
+
+129
+00:11:39,880 --> 00:11:43,111
+Kerentanan Percobaan Extraterrestrial...
+
+130
+00:11:43,320 --> 00:11:45,151
+Memiliki satu tujuan utama:
+
+131
+00:11:45,800 --> 00:11:48,109
+Yaitu untuk menemukan
+sarana membela diri...
+
+132
+00:11:48,320 --> 00:11:51,676
+Melawan spesies asing yang
+pernah kembali ke Bumi.
+
+133
+00:11:52,200 --> 00:11:54,919
+Sekarang, seperti yang kalian tahu, Tuan-tuan,
+Eve diciptakan kembali
+
+134
+00:11:55,120 --> 00:11:56,712
+dari embrio beku laboratorium.
+
+135
+00:11:56,920 --> 00:11:59,354
+Dia adalah duplikat
+genetik asli Sil.
+
+136
+00:12:00,280 --> 00:12:02,874
+Sekarang, kami harus
+melindungi Eve..
+
+137
+00:12:03,080 --> 00:12:05,913
+Dari setiap kontak langsung
+dengan jenis kelamin laki-laki...
+
+138
+00:12:06,120 --> 00:12:09,237
+Itulah sebabnya mengapa, Tuan-tuan,
+berada di dalam sana.
+
+139
+00:12:10,120 --> 00:12:10,632
+Jadi...
+
+140
+00:12:13,600 --> 00:12:14,555
+Melanjutkan.
+
+141
+00:12:29,680 --> 00:12:30,351
+Bantuan!
+
+142
+00:12:37,800 --> 00:12:39,677
+Laura! Tolong!
+
+143
+00:12:46,680 --> 00:12:48,238
+Oke, itu sudah cukup.
+Bawa dia.
+
+144
+00:13:12,640 --> 00:13:13,959
+Bingo, Dr Baker!
+
+145
+00:13:14,760 --> 00:13:15,670
+Berhasil!
+
+146
+00:13:16,080 --> 00:13:18,469
+Lihatlah bekas luka yang indah.
+
+147
+00:13:18,800 --> 00:13:20,916
+Sangat indah.
+
+148
+00:13:30,840 --> 00:13:32,512
+Apa yang terjadi, Dr Baker?
+
+149
+00:13:35,040 --> 00:13:38,999
+Masalah kita singkatnya:
+racun bekerja sekali...
+
+150
+00:13:39,520 --> 00:13:43,229
+Tapi menjadi tidak berguna
+ketika biologi alien beradaptasi.
+
+151
+00:13:43,800 --> 00:13:46,837
+Kau telah melenceng dari tujuan...
+Ini lab binatang ...
+
+152
+00:13:47,040 --> 00:13:49,918
+Situasi hidup yang cocok
+untuk seorang Ratu!
+
+153
+00:13:50,240 --> 00:13:53,789
+Aku sarankan kau habiskan lebih banyak waktu
+untuk menemukan cara untuk 86 sialan.
+
+154
+00:13:54,880 --> 00:13:59,158
+Kolonel, Kau dipersilakan untuk menggantikan
+aku kapan saja kau suka.
+
+155
+00:14:05,680 --> 00:14:06,635
+Maaf, Tuan-tuan.
+
+156
+00:14:07,840 --> 00:14:11,116
+Beritahu Dr Baker kita
+harus melanjutkan pengujian.
+
+157
+00:14:12,320 --> 00:14:13,389
+Siap pak.
+
+158
+00:14:28,880 --> 00:14:30,711
+Mengapa kau lakukan ini padaku?
+
+159
+00:14:32,200 --> 00:14:33,633
+Maafkan aku, Eve.
+
+160
+00:14:34,600 --> 00:14:36,158
+Aku telah menjelaskan kepada mu
+mengapa kita harus melakukan ini...
+
+161
+00:14:36,360 --> 00:14:38,555
+Apa yang terjadi
+dengan Sil pertama.
+
+162
+00:14:40,400 --> 00:14:42,072
+Dan mengapa kau dipersiapkan.
+
+163
+00:14:42,280 --> 00:14:44,350
+Bertahan hidup dari sesuatu.
+Aku tahu.
+
+164
+00:14:50,640 --> 00:14:52,437
+Aku menonton TV ini...
+
+165
+00:14:52,640 --> 00:14:54,471
+Dan aku melihat semua tempat
+yang tidak pernah akan aku datangi...
+
+166
+00:14:54,840 --> 00:14:57,115
+Dan melihat semua orang
+tidak akan pernah aku temui.
+
+167
+00:14:58,600 --> 00:14:59,749
+Begitukah diriku di hadapanmu ?
+
+168
+00:15:00,640 --> 00:15:02,312
+Binatang laboratorium?
+
+169
+00:15:04,280 --> 00:15:06,589
+Aku ingin kau mengerti bahwa alasan
+ku mengambil pekerjaan ini...
+
+170
+00:15:06,800 --> 00:15:10,713
+Adalah untuk memastikan bahwa percobaan ini
+dilakukan dengan memperhatikan mu.
+
+171
+00:15:16,000 --> 00:15:18,036
+Hanya jangan lupa
+bahwa aku juga manusia.
+
+172
+00:15:23,120 --> 00:15:24,792
+<i> Gigi utama masuk </ i>
+
+173
+00:15:25,720 --> 00:15:28,075
+<i> Dukungan kendaraan darat </ i>
+<i> dengan dokter bedah penerbangan dan tim medis... </ i>
+
+174
+00:15:28,280 --> 00:15:30,350
+<i > dalam kru kendaraan penyelamat</ i>
+<i> dalam rute perjalanan </ i>
+
+175
+00:15:31,120 --> 00:15:33,634
+Terima kasih, Houston.
+Sungguh menyenangkan berada di rumah.
+
+176
+00:15:41,640 --> 00:15:43,153
+- Terima kasih.
+- Terima kasih kembali.
+
+177
+00:15:43,960 --> 00:15:48,431
+Pada pemeriksaan awal, kalian bertiga
+berada dalam kondisi kesehatan yang luar biasa...
+
+178
+00:15:48,880 --> 00:15:52,031
+Meskipun, tentu saja, aku akan
+melakukan tes darah yang lebih spesifik.
+
+179
+00:15:52,480 --> 00:15:56,314
+Ada beberapa orang di sini
+yang ingin pemeriksaan lebih lanjut.
+
+180
+00:15:59,440 --> 00:16:02,637
+Anak-anak, ada hal cukup baik di luar sana untuk
+menyembuhkan apa yang melanda ku.
+
+181
+00:16:04,800 --> 00:16:07,473
+Kau di karantina, Mr Gamble.
+
+182
+00:16:07,680 --> 00:16:10,148
+Tidak ada aktivitas seksual
+sedikitnya selama sepuluh hari.
+
+183
+00:16:10,880 --> 00:16:13,440
+- Dan itu berarti untuk kalian semua.
+- Oh, kau bercanda.
+
+184
+00:16:14,000 --> 00:16:15,513
+Tidak, aku tidak bercanda.
+
+185
+00:16:34,560 --> 00:16:37,154
+<i> Kembali ketika Presiden Kennedy </ i>
+<i> memulai program luar angkasa... </ i>
+
+186
+00:16:37,600 --> 00:16:39,989
+Aku hanyalah asisten
+muda di atas bukit.
+
+187
+00:16:40,200 --> 00:16:43,112
+Tidak butuh waktu lama bagiku untuk
+menyadari bahwa ia adalah visioner...
+
+188
+00:16:43,600 --> 00:16:45,158
+Dan aku berbagi
+visi tersebut.
+
+189
+00:16:45,720 --> 00:16:47,392
+Kemudian, ketika aku
+menjadi senator...
+
+190
+00:16:47,600 --> 00:16:51,275
+Aku bertekad untuk mendorong program
+kami lebih jauh ke ruang angkasa.
+
+191
+00:16:51,880 --> 00:16:54,952
+Dan hari ini, visi
+Jack Kennedy...
+
+192
+00:16:55,160 --> 00:16:58,869
+Dikelola oleh komitmen
+bisnis Amerika.
+
+193
+00:16:59,520 --> 00:17:02,273
+Tapi aku suka berpikir
+bahwa jiwanya diwujudkan...
+
+194
+00:17:02,480 --> 00:17:04,755
+Pada pria muda seperti
+Patrick Ross.
+
+195
+00:17:05,800 --> 00:17:08,951
+- Ketika Patrick berusia lima tahun...
+- Apa yang terjadi dengan Patrick?
+
+196
+00:17:09,320 --> 00:17:13,313
+Aku tidak tahu, tapi dia kehilangan
+ciuman dari ayahnya sendiri.
+
+197
+00:17:13,840 --> 00:17:15,637
+Dia belum merasa
+baik malam ini.
+
+198
+00:17:15,840 --> 00:17:18,559
+Sejujurnya, aku belum
+merasa begitu baik.
+
+199
+00:17:18,760 --> 00:17:22,594
+Ya, aku pikir kita semua perlu
+sedikit perhatian dan kasih sayang.
+
+200
+00:17:33,680 --> 00:17:37,832
+Dan dengan bangga aku perkenalkan
+salah satu pemimpin muda terbaik kami,
+
+201
+00:17:38,680 --> 00:17:40,477
+kapten misi Mars,
+
+202
+00:17:41,000 --> 00:17:44,117
+dan anak ku, Patrick Ross.
+
+203
+00:17:57,360 --> 00:17:58,349
+Aku harus pergi.
+
+204
+00:17:59,560 --> 00:18:02,393
+Lincoln suite, lantai atas.
+Cepat.
+
+205
+00:18:12,280 --> 00:18:14,236
+Kapten Ross, semua orang menunggu.
+Lewat sini, Pak.
+
+206
+00:18:27,280 --> 00:18:28,429
+Baik sekali kau mau muncul.
+
+207
+00:18:35,400 --> 00:18:38,153
+Terima kasih semua
+untuk datang malam ini.
+
+208
+00:18:38,760 --> 00:18:39,749
+Terima kasih, ayah,
+
+209
+00:18:39,960 --> 00:18:42,474
+untuk apa aku yakini adalah
+kata-kata yang terlalu baik.
+
+210
+00:18:43,640 --> 00:18:46,757
+Aku telah dipilih atas
+nama kru ku yang baik...
+
+211
+00:18:47,280 --> 00:18:50,113
+Untuk mewakili
+misi ke Mars...
+
+212
+00:18:50,920 --> 00:18:52,512
+Dan gambaran yang
+datang ke pikiran ku...
+
+213
+00:18:53,360 --> 00:18:55,874
+Melihat melalui jendela pesawat...
+
+214
+00:18:57,200 --> 00:18:58,713
+Di dunia biru-putih...
+
+215
+00:18:59,680 --> 00:19:00,795
+Indah...
+
+216
+00:19:02,400 --> 00:19:04,072
+Begitu rapuh, begitu kecil.
+
+217
+00:19:06,760 --> 00:19:08,352
+Dan aku berpikir...
+
+218
+00:19:08,960 --> 00:19:12,555
+Betapa mudahnya  menghancurkan
+semua yang Allah telah menciptakan.
+
+219
+00:19:14,960 --> 00:19:17,030
+Aku berpikir, seperti yang
+kita lihat ke masa depan...
+
+220
+00:19:17,920 --> 00:19:20,036
+Misi terbesar kami mungkin
+ada di sini di rumah.
+
+221
+00:19:44,280 --> 00:19:45,474
+Tidak di kunci.
+
+222
+00:19:49,440 --> 00:19:50,236
+Ayo masuk.
+
+223
+00:19:55,920 --> 00:19:57,797
+Adikku memutuskan untuk
+bergabung dengan kita.
+
+224
+00:20:01,200 --> 00:20:02,792
+Kami berbagi segalanya...
+
+225
+00:20:04,360 --> 00:20:05,076
+Bersama-sama.
+
+226
+00:20:14,440 --> 00:20:18,479
+<i> Parker munuju yang kedua, </ i>
+<i> dan dia berada di sana, berdiri </ i>
+
+227
+00:20:19,240 --> 00:20:21,515
+Denyut 20 persen
+di bawah manusia normal.
+
+228
+00:20:22,160 --> 00:20:24,435
+Apa yang kau harapkan, Brea?
+Dia menonton bisbol.
+
+229
+00:20:33,080 --> 00:20:35,071
+Oh, Tuhan!
+
+230
+00:20:43,320 --> 00:20:44,958
+Kau adalah pahlawan.
+
+231
+00:20:47,440 --> 00:20:48,668
+Oh, Tuhan.
+
+232
+00:20:53,760 --> 00:20:55,034
+Sekarang giliran ku.
+
+233
+00:20:58,240 --> 00:21:00,435
+Ya.
+
+234
+00:21:27,440 --> 00:21:29,874
+<i> Ini dia </ i>
+<i> Parker akan menuju ke tiga </ i>
+
+235
+00:21:31,120 --> 00:21:32,758
+Astaga! Apakah seseorang
+memukul home run?
+
+236
+00:21:47,720 --> 00:21:49,551
+Tuhanku, tolonglah aku!
+
+237
+00:21:56,280 --> 00:21:57,508
+Lepaskan aku!
+
+238
+00:22:00,240 --> 00:22:02,356
+Marcy! Lepaskan dia dariku!
+
+239
+00:22:04,200 --> 00:22:05,918
+Oh, Tuhan!
+
+240
+00:22:07,680 --> 00:22:09,671
+Tolong aku!
+
+241
+00:22:24,440 --> 00:22:26,635
+- Apa yang terjadi?
+- Ya Tuhan!
+
+242
+00:23:12,160 --> 00:23:15,197
+Tadi malam, setelah
+penggalangan dana...
+
+243
+00:23:16,480 --> 00:23:17,799
+Sesuatu telah terjadi.
+
+244
+00:23:20,080 --> 00:23:22,469
+Aku mencoba untuk berpikir tentang hal ini,
+tapi pikiranku kosong.
+
+245
+00:23:24,280 --> 00:23:27,477
+Mereka selalu membuat minuman yang
+kuat  pada saat penggalangan dana.
+
+246
+00:23:29,640 --> 00:23:31,631
+Begitulah cara mereka untuk
+membuka dompet donatur.
+
+247
+00:23:31,840 --> 00:23:34,991
+Billy, kau mengatakannya anak brengsek.
+Aku tidak akan mengambil jawaban tidak.
+
+248
+00:23:40,960 --> 00:23:44,191
+Ada sesuatu yang salah dengan ku,
+Ayah, sejak aku kembali.
+
+249
+00:23:44,960 --> 00:23:47,155
+Apakah kau pikir perjalanan
+ke Mars menyenangkan?
+
+250
+00:23:47,760 --> 00:23:49,478
+Kau tunggu sampai kau
+mencoba kampanye senat.
+
+251
+00:23:50,080 --> 00:23:51,957
+Ayah, dengarkan aku.
+Aku memiliki...
+
+252
+00:23:52,880 --> 00:23:54,711
+Aku memiliki
+semacam gangguan.
+
+253
+00:23:55,400 --> 00:23:59,234
+Berhentilah berpikir tentang rencana utama
+tersebut dan bantulah aku, oke? Aku takut.
+
+254
+00:23:59,840 --> 00:24:03,116
+Terkutuk!
+Berhentilah bertingkah seperti anak manja.
+
+255
+00:24:05,360 --> 00:24:07,396
+Kau adalah Ross.
+Berperilaku seperti Ross.
+
+256
+00:24:10,480 --> 00:24:12,869
+Dan aku akan memberimu
+sebuah nasihat, naki.
+
+257
+00:24:14,280 --> 00:24:17,192
+Tetap simpan penis mu dalam celana
+dan fokuskan mata mu pada hadiah.
+
+258
+00:24:18,200 --> 00:24:22,193
+Oh, aku tahu apa yang kau telah lakukan
+dan terus terang, aku tidak peduli.
+
+259
+00:24:22,400 --> 00:24:25,358
+Tapi aku telah melihat terlalu banyak orang
+muda dengan karir yang menjanjikan...
+
+260
+00:24:25,840 --> 00:24:27,592
+terkencing-kencing di celana.
+
+261
+00:24:30,800 --> 00:24:34,793
+Orang mencintaimu, Patrick.
+mereka mengidolakan mu.
+
+262
+00:24:35,960 --> 00:24:38,428
+Kau akan menjadi Presiden
+Amerika Serikat suatu hari nanti.
+
+263
+00:24:43,160 --> 00:24:46,072
+Sekarang, mari kita
+berjalan melalui galeri.
+
+264
+00:24:47,040 --> 00:24:50,396
+Beberapa rekan ku yang terkenal
+mati-matian untuk mendapatkan tanda tangan mu.
+
+265
+00:24:54,720 --> 00:24:55,630
+Ya, Pak.
+
+266
+00:24:57,040 --> 00:24:59,918
+Ya, sangat penting  berbicara
+dengan Herman Cromwell.
+
+267
+00:25:00,520 --> 00:25:02,078
+Tidak, dia adalah pasien di sana.
+
+268
+00:25:03,720 --> 00:25:07,156
+<i>, Bisakah aku memberikan pesan kepadanya </ i>
+<i> bahwa Dr Orinsky telah menelepon </ i>
+
+269
+00:25:07,400 --> 00:25:09,914
+<i> dari laboratorium di Oldham Space Center </ i>
+<i> di Maryland </ i>
+
+270
+00:25:10,800 --> 00:25:12,756
+<i> Ya, sangat penting </ i>
+<i> berbicara dengan dia </ i>
+
+271
+00:25:12,960 --> 00:25:14,871
+<i> Aku rekan lama nya </ i>
+
+272
+00:25:20,840 --> 00:25:22,478
+Aku tidak bisa percaya ini.
+
+273
+00:25:31,400 --> 00:25:32,833
+Oh, Tuhan!
+
+274
+00:26:53,640 --> 00:26:56,871
+Berhenti! Kiri, kiri...
+
+275
+00:26:57,240 --> 00:26:58,389
+<i> Substansi yang ditemukan </ i>
+
+276
+00:26:58,720 --> 00:27:03,111
+<i> pada luka Dr Orinsky ini </ i>
+<i> adalah kombinasi DNA alien-manusia </ i>
+
+277
+00:27:04,760 --> 00:27:07,558
+<I > DNA ini secara struktural </ i>
+<i> mirip dengan Eve... </ i>
+
+278
+00:27:08,040 --> 00:27:09,519
+tetapi tidak cocok.
+
+279
+00:27:09,720 --> 00:27:11,950
+Jelas, Eve tidak pernah
+meninggalkan kompleks...
+
+280
+00:27:12,160 --> 00:27:16,119
+Yang berarti, Tuan-tuan,
+bahwa ada satu lagi di luar sana.
+
+281
+00:27:16,880 --> 00:27:20,429
+Tidak ada satu pun dari intel kami yang
+menunjukkan bahwa ada kekuatan asing terlibat.
+
+282
+00:27:21,120 --> 00:27:22,872
+Bagaimana kita mulai
+mencari untuk hal ini?
+
+283
+00:27:23,360 --> 00:27:27,194
+Aku akan menyarankan
+prosedur investigasi normal...
+
+284
+00:27:27,400 --> 00:27:31,029
+Untuk mendapatkan daftar kemungkinan
+tersangka dan menguji darah mereka.
+
+285
+00:27:31,600 --> 00:27:35,309
+Terima kasih, Dr Baker. Mungkin kami akan
+meminta kau untuk membantu melacak.
+
+286
+00:27:35,720 --> 00:27:37,517
+<i> Dengan senang hati, tuan-tuan </ i>
+
+287
+00:27:39,280 --> 00:27:40,269
+Panggil Press Lennox.
+
+288
+00:28:18,920 --> 00:28:22,151
+Tuan-tuan dan Nyonya-nyonya,
+kedutaan aman.
+
+289
+00:28:22,960 --> 00:28:24,598
+Para sandera bebas.
+
+290
+00:28:29,880 --> 00:28:30,630
+Press Lennox.
+
+291
+00:28:31,320 --> 00:28:34,312
+Keamanan diplomatik.
+Menyediakan penjaga kedutaan...
+
+292
+00:28:35,320 --> 00:28:36,799
+Dan melindungi terhadap...
+
+293
+00:28:37,520 --> 00:28:39,590
+Penculikan dan pembunuhan...
+
+294
+00:28:40,920 --> 00:28:42,990
+Dan juga, tentu saja,
+layanan khusus...
+
+295
+00:28:43,200 --> 00:28:46,078
+Seperti demonstrasi yang kita
+saksikan di sini hari ini.
+
+296
+00:28:46,440 --> 00:28:49,318
+Permisi, Pak Lennox.
+Seseorang ingin bertemu segera.
+
+297
+00:28:50,960 --> 00:28:53,793
+Asisten ku akan menjawab
+pertanyaan yang mungkin kalian miliki.
+
+298
+00:28:54,000 --> 00:28:55,513
+Terima kasih banyak.
+
+299
+00:28:55,920 --> 00:28:58,070
+Tuan-tuan dan Nyonya-nyonya,
+ada pertanyaan yang bisa ku jawab?
+
+300
+00:28:58,440 --> 00:29:02,513
+Apakah kalian dilengkapi dengan
+kemampuan serangan visi malam?
+
+301
+00:29:04,320 --> 00:29:07,118
+Itu benar-benar, benar-benar hebat.
+
+302
+00:29:08,880 --> 00:29:09,835
+Yah?
+
+303
+00:29:11,240 --> 00:29:12,753
+Jawabannya adalah tidak.
+
+304
+00:29:13,320 --> 00:29:15,276
+Press, alien sialan lain
+yang berkeliaran.
+
+305
+00:29:18,360 --> 00:29:19,429
+Cari orang lain.
+
+306
+00:29:20,120 --> 00:29:22,588
+Ayolah, kawan.
+Negara memanggil mu.
+
+307
+00:29:24,720 --> 00:29:26,472
+Jangan mulai melambaikan bendera.
+
+308
+00:29:26,920 --> 00:29:30,117
+Aku di sektor swasta sekarang.
+Aku punya bisnis untuk dijalankan.
+
+309
+00:29:30,320 --> 00:29:33,630
+Lihatlah aku, Press.
+Kau tahu bagaimana aku dapatkan mata sialan ini.
+
+310
+00:29:34,320 --> 00:29:36,914
+Ini lah pengorbanan yang akan
+ku buat lagi dalam sekejap.
+
+311
+00:29:37,400 --> 00:29:41,518
+Tapi kemudian mungkin kau belum
+belajar arti pengorbanan.
+
+312
+00:29:47,120 --> 00:29:48,394
+Dengar, sobat.
+
+313
+00:29:48,600 --> 00:29:51,672
+Terakhir kali aku berjuang
+dengan alien dia-jalang...
+
+314
+00:29:52,080 --> 00:29:54,036
+Aku hampir saja terbunuh.
+
+315
+00:29:54,600 --> 00:29:57,512
+Jika pemerintah cukup bodoh
+untuk membuat satu lagi...
+
+316
+00:29:58,480 --> 00:30:00,550
+Aku pikir mereka bisa membersihkan
+masalah mereka sendiri.
+
+317
+00:30:00,760 --> 00:30:01,670
+Kami tidak membuat yang satu ini.
+
+318
+00:30:04,000 --> 00:30:05,718
+Jangan masukkan aku ke
+dalam tim  pencarian, oke?
+
+319
+00:30:06,480 --> 00:30:07,549
+Dimana kunci sialan ku?
+
+320
+00:30:08,600 --> 00:30:11,034
+Satu juta dolar, bebas pajak.
+
+321
+00:30:12,600 --> 00:30:13,715
+Yakin tidak mau kembali?
+
+322
+00:30:19,480 --> 00:30:22,711
+Selamat Datang di Biohazard
+Empat Dr Baker!
+
+323
+00:30:25,480 --> 00:30:26,515
+Ayo di sini!
+
+324
+00:30:27,240 --> 00:30:28,275
+Oh, Tuhan.
+
+325
+00:30:30,000 --> 00:30:33,037
+Buka pintu!
+Tolong buka pintu!
+
+326
+00:30:33,560 --> 00:30:35,312
+Bawa dia pergi dari sana!
+
+327
+00:30:35,800 --> 00:30:37,313
+Tolong buka pintu!
+
+328
+00:30:43,240 --> 00:30:44,559
+Apa yang kalian pikir
+kalian lakukan?
+
+329
+00:30:45,040 --> 00:30:47,508
+Kau tahu tidak ada laki-laki diperbolehkan
+masuk ke laboratorium ini. Pergi!
+
+330
+00:30:47,720 --> 00:30:49,870
+- Tenang, Dr Baker.
+- Apakah kau tidak punya rasa hormat?
+
+331
+00:30:50,080 --> 00:30:53,152
+- Keluar sekarang, kalian berdua!
+- Kami dalam keadaan darurat.
+
+332
+00:30:53,360 --> 00:30:54,918
+Oke, kami akan keluar.
+
+333
+00:30:55,280 --> 00:30:57,714
+- Sial benar, baik kami akan keluar.
+- Jangan merendahkan aku.
+
+334
+00:30:57,920 --> 00:30:59,399
+Jangan menggurui aku.
+
+335
+00:30:59,600 --> 00:31:01,989
+Kami tidak menggurui.
+Kami datang bersama.
+
+336
+00:31:02,880 --> 00:31:04,029
+Tutup pintu.
+
+337
+00:31:10,680 --> 00:31:12,750
+Laura, benarkan jika aku salah.
+
+338
+00:31:12,960 --> 00:31:14,951
+Apakah kau terlibat dalam
+omong kosong gila ini?
+
+339
+00:31:15,320 --> 00:31:18,949
+Dr Baker menjalankan fasilitas ini.
+Dia kloning embrio Sil.
+
+340
+00:31:19,280 --> 00:31:23,239
+Oh. Oke, baiklah, bagaimana
+cara aku memanggilnya?
+
+341
+00:31:23,920 --> 00:31:24,591
+Sil Lite?
+
+342
+00:31:25,160 --> 00:31:29,039
+- Namanya Eve.
+- Eve. Sangat alkitabiah.
+
+343
+00:31:29,240 --> 00:31:30,912
+Kami telah memperkecil
+naluri kawin nya.
+
+344
+00:31:31,120 --> 00:31:33,793
+Kami telah benar-benar menghindari
+kehadiran testosteron di laboratorium ini.
+
+345
+00:31:34,000 --> 00:31:36,434
+Setidaknya sampai sekarang.
+Terima kasih atas bantuan mu.
+
+346
+00:31:37,360 --> 00:31:38,554
+Bagaimana jika dia
+keluar dari sana?
+
+347
+00:31:40,440 --> 00:31:43,079
+Dia secara elektronik ditambatkan
+ke kotak kontrol.
+
+348
+00:31:43,280 --> 00:31:47,034
+Satu langkah keluar dari tempat,
+kapsul beracun akan meledak di otaknya.
+
+349
+00:31:48,280 --> 00:31:50,316
+Kau tahu, sungguh senang
+bisa ketemu kau lagi.
+
+350
+00:31:50,520 --> 00:31:53,239
+Dan aku berharap kita bisa bertemu
+dalam keadaan yang lebih baik...
+
+351
+00:31:53,440 --> 00:31:57,672
+Tapi, aku ingat Laura Baker
+memiliki sedikit jiwa lebih.
+
+352
+00:31:58,200 --> 00:32:00,430
+Kau pikir siapa dirimu?
+
+353
+00:32:00,640 --> 00:32:03,677
+Kau datang ke laboratorium ku,
+mempertanyakan motif ku!
+
+354
+00:32:03,880 --> 00:32:04,756
+Apakah kalian berdua selesai?
+
+355
+00:32:06,120 --> 00:32:08,680
+Kami memiliki sialan
+darurat nasional di tangan kami!
+
+356
+00:32:09,200 --> 00:32:11,589
+Sekarang, kalian berdua
+akan bekerja sama.
+
+357
+00:32:11,800 --> 00:32:13,870
+Itu adalah perintah
+langsung dari Pentagon.
+
+358
+00:32:14,080 --> 00:32:17,675
+Kau sudah pernah membunuh satu
+alien sialan sebelumnya. Lakukan lagi.
+
+359
+00:32:24,200 --> 00:32:27,715
+Kau dengar katanya.
+Permainan dimulai.
+
+360
+00:32:30,240 --> 00:32:35,030
+<i> Aku selidiki catatan telepon Orinsky, </ i>
+<i> dan ini adalah tempat terakhir yang ia panggil</ i>
+
+361
+00:32:35,320 --> 00:32:38,630
+<i> Disana ada pasien bernama </ i >
+<i> Herman Cromwell </ i>
+
+362
+00:32:39,240 --> 00:32:41,800
+Ternyata ia mengajar
+Orinsky di Stanford.
+
+363
+00:32:42,240 --> 00:32:44,959
+Dan apa sebenarnya yang
+Cromwell lakukan di sini?
+
+364
+00:32:45,280 --> 00:32:47,077
+Nah, itulah
+bagian yang menarik.
+
+365
+00:32:47,600 --> 00:32:50,398
+Hal ini diklasifikasikan
+informasi rahasia.
+
+366
+00:32:51,080 --> 00:32:53,275
+Aku sedang melakukan penelitian
+pada meteorit Mars.
+
+367
+00:32:54,120 --> 00:32:56,270
+Yang ditemukan
+di Antartika '96?
+
+368
+00:32:58,040 --> 00:33:02,079
+Fosil di meteorit meyakinkan kita
+mungkin ada kehidupan di Mars.
+
+369
+00:33:02,680 --> 00:33:06,639
+Tapi fosil-fosil tersebut tidak mengandung
+bahan organik untuk planet ini. Oh, tidak.
+
+370
+00:33:07,280 --> 00:33:08,838
+Dan apa dasar
+untuk penentuan itu?
+
+371
+00:33:09,040 --> 00:33:11,793
+Berbasis Karbon
+elemen di fosil...
+
+372
+00:33:12,000 --> 00:33:14,878
+Hanya ada
+di galaksi Magellan.
+
+373
+00:33:15,640 --> 00:33:17,915
+Itu adalah 100 juta
+tahun cahaya jauhnya.
+
+374
+00:33:18,640 --> 00:33:19,914
+Nah, bagaimana mereka sampai ke Mars?
+
+375
+00:33:20,880 --> 00:33:22,393
+Dalam perhitungan ku...
+
+376
+00:33:23,000 --> 00:33:25,355
+Mars dikunjungi
+oleh spesies asing...
+
+377
+00:33:25,560 --> 00:33:27,596
+Sekitar satu miliar
+tahun yang lalu.
+
+378
+00:33:28,920 --> 00:33:31,036
+Spesies itu seperti
+wabah kanker.
+
+379
+00:33:31,880 --> 00:33:33,359
+membuat planet tersebut
+berkembang dengan...
+
+380
+00:33:34,040 --> 00:33:36,156
+Sungai dan lautan
+dan tumbuhan dasar...
+
+381
+00:33:36,360 --> 00:33:38,271
+menjadi sebongkah
+batu tidak berguna.
+
+382
+00:33:39,120 --> 00:33:41,270
+Ketika aku mendengar mereka
+akan mengirim misi ke Mars...
+
+383
+00:33:41,480 --> 00:33:43,596
+Aku mendesak pemerintah untuk
+mempertimbangkan kembali.
+
+384
+00:33:44,360 --> 00:33:45,634
+Atas dasar apa?
+
+385
+00:33:46,320 --> 00:33:49,471
+Atas dasar bahwa DNA alien
+mungkin masih ada di planet itu...
+
+386
+00:33:50,200 --> 00:33:52,430
+Bahwa setiap upaya manusia
+untuk melanggar planet ini...
+
+387
+00:33:52,640 --> 00:33:55,473
+Akan menghasilkan
+kontaminasi biologis.
+
+388
+00:33:57,920 --> 00:34:01,629
+Jadi, biar kutebak. Mereka bilang
+untuk mendorong itu ke pantat mu.
+
+389
+00:34:02,160 --> 00:34:04,116
+Mereka membuatku
+dipecat dari Stanford.
+
+390
+00:34:05,400 --> 00:34:09,518
+Tampaknya militer memiliki alasan
+strategis untuk pergi ke Mars.
+
+391
+00:34:10,120 --> 00:34:13,237
+Pelopor masa depan,
+atau omong kosong seperti itu.
+
+392
+00:34:13,880 --> 00:34:16,440
+Pokoknya, mereka melecehkan aku.
+
+393
+00:34:17,120 --> 00:34:20,192
+Aku berkelahi dengan
+jenderal di Pentagon...
+
+394
+00:34:21,080 --> 00:34:22,399
+Dan mematahkan
+rahang sialan nya itu.
+
+395
+00:34:27,400 --> 00:34:29,391
+Itulah sebabnya mereka
+menyekap mu di sini, kan?
+
+396
+00:34:31,640 --> 00:34:34,438
+Mengapa kau berpikir bahwa Dr Orinsky
+yang meneleponmu malam itu mati?
+
+397
+00:34:35,040 --> 00:34:36,917
+Untuk mengatakan
+bahwa aku benar.
+
+398
+00:34:38,480 --> 00:34:40,357
+Spesies apapun yang
+menghancurkan Mars...
+
+399
+00:34:40,560 --> 00:34:43,472
+Para astronot malang itu
+membawanya ke bumi.
+
+400
+00:34:46,000 --> 00:34:48,468
+Semoga Tuhan mengasihani jiwa kita.
+
+401
+00:34:50,520 --> 00:34:52,875
+<i> Aku beritahu satu hal </ i>
+<i> Untuk Jenderal Lee... </ i>
+
+402
+00:34:53,240 --> 00:34:55,629
+<i> Menjadi makanan jalanan</ i>
+< i> di awal besok pagi... </ i>
+
+403
+00:34:56,040 --> 00:34:58,759
+<i> sesuatu yang yakin dapat membuat</ i>
+<i> Bo dan Luke mengangkat kepala keatas </ i>
+
+404
+00:34:58,960 --> 00:35:01,155
+<i > Ku pikir itu ada </ i>
+<i> hubungannya dengan wanita </ ​​i>
+
+405
+00:35:01,840 --> 00:35:05,230
+<i> Atau berburu'.. </ i>
+<i> Atau mungkin roda </ i >
+
+406
+00:35:12,880 --> 00:35:16,759
+Suhu di Mars adalah sekitar
+225 derajat di bawah nol.
+
+407
+00:35:16,960 --> 00:35:19,110
+Jika mereka membawa sampel kedalam
+pesawat, penurunan temperatur...
+
+408
+00:35:19,320 --> 00:35:21,834
+Bisa membuat DNA
+hidup kembali.
+
+409
+00:35:22,200 --> 00:35:24,668
+DNA itu bisa menginfeksi astronot.
+
+410
+00:35:24,880 --> 00:35:27,872
+Ini bukan X Files sialan,
+Brengseeek!
+
+411
+00:35:28,080 --> 00:35:30,594
+Kau berbicara berdasarkan interogasi...
+
+412
+00:35:30,800 --> 00:35:32,552
+Dari orang gila bersertifikat.
+
+413
+00:35:33,320 --> 00:35:35,914
+Kita punya satu
+dokter N.S.E.G. mati...
+
+414
+00:35:36,680 --> 00:35:39,148
+Kita punya seorang pria yang memperingatkan
+pemerintah untuk tidak pergi ke Mars...
+
+415
+00:35:39,360 --> 00:35:41,191
+Mereka membuangnya
+ke rumah sakit jiwa...
+
+416
+00:35:41,960 --> 00:35:45,350
+Dan kesenjangan waktu tujuh menit
+selama penerbangan ruang angkasa.
+
+417
+00:35:45,680 --> 00:35:48,956
+Kita harus melakukan analisis
+darah Sampas, Gamble dan Ross.
+
+418
+00:35:50,360 --> 00:35:53,272
+Sekarang, aku tahu bahwa ada
+karantina seksual sepuluh hari...
+
+419
+00:35:53,480 --> 00:35:57,359
+Pada semua misi antarplanet,
+dan karantina itu berakhir malam ini.
+
+420
+00:35:57,800 --> 00:35:59,836
+Mereka bisa membuat umat
+manusia menuju ke kepunahan.
+
+421
+00:36:01,680 --> 00:36:05,468
+Apakah kau mau bertanggung jawab untuk itu
+jika kita tidak memulai pengujian sekarang?
+
+422
+00:36:10,320 --> 00:36:11,514
+Uji Patrick yang pertama.
+
+423
+00:36:15,320 --> 00:36:15,957
+Ya.
+
+424
+00:36:20,640 --> 00:36:23,154
+Aku telah menunggu
+hingga dirimu  sendirian.
+
+425
+00:36:24,680 --> 00:36:27,911
+Semua wawancara,
+semua gadis berteriak...
+
+426
+00:36:29,440 --> 00:36:30,839
+Semua kehebohan...
+
+427
+00:36:32,080 --> 00:36:32,990
+Pergi.
+
+428
+00:36:33,960 --> 00:36:35,871
+Keluarkan dari pikiranmu.
+
+429
+00:36:40,160 --> 00:36:41,593
+Patrick Ross...
+
+430
+00:36:42,880 --> 00:36:43,869
+Malam ini...
+
+431
+00:36:48,120 --> 00:36:49,269
+Kau adalah milikku.
+
+432
+00:36:51,760 --> 00:36:52,988
+Aku mencintaimu.
+
+433
+00:37:09,600 --> 00:37:10,999
+Ada apa?
+
+434
+00:37:11,240 --> 00:37:13,834
+Aku tidak tahu.
+Kita harus menunda.
+
+435
+00:37:14,040 --> 00:37:16,395
+Oh, tidak. Tidak.
+Jangan malam ini.
+
+436
+00:37:16,600 --> 00:37:18,591
+Ayolah, Missy.
+Aku merasa tidak sehat.
+
+437
+00:37:20,480 --> 00:37:21,629
+Relax.
+
+438
+00:37:22,640 --> 00:37:24,278
+Biarkan aku melakukannya.
+
+439
+00:37:41,480 --> 00:37:42,754
+Tidak ada orang di sini.
+
+440
+00:37:43,960 --> 00:37:45,598
+Kemana dia pergi?
+
+441
+00:37:49,240 --> 00:37:50,878
+Mari kita cari yang lain.
+
+442
+00:37:57,520 --> 00:37:59,192
+Aku merindukanmu di sana.
+
+443
+00:38:00,200 --> 00:38:01,918
+Aku sangat merindukanmu.
+
+444
+00:38:04,320 --> 00:38:05,912
+Sangat indah.
+
+445
+00:38:07,760 --> 00:38:09,637
+Tidak secantik dirimu.
+
+446
+00:38:10,600 --> 00:38:11,794
+Perayu.
+
+447
+00:38:21,400 --> 00:38:22,833
+Tenang, Press.
+Kau akan membuat kita terbunuh.
+
+448
+00:38:23,040 --> 00:38:25,429
+Percayalah, Laura.
+Aku punya perasaan buruk.
+
+449
+00:38:37,960 --> 00:38:39,916
+Tuhan, aku rindu
+bercinta denganmu.
+
+450
+00:38:41,920 --> 00:38:42,670
+Oh, perutku!
+
+451
+00:38:42,880 --> 00:38:44,313
+- Oh, Tuhan!
+- Panggil seseorang!
+
+452
+00:38:44,520 --> 00:38:46,192
+Panggil bantuan!
+
+453
+00:38:47,800 --> 00:38:48,915
+Sampai di sini. Ayo!
+
+454
+00:38:57,120 --> 00:38:58,314
+Tidak, tolong!
+
+455
+00:39:18,240 --> 00:39:18,831
+Oh, Tuhan.
+
+456
+00:39:21,080 --> 00:39:22,593
+Aku akan menggunakan kru penuh.
+
+457
+00:39:23,840 --> 00:39:25,353
+Aku akan memanggil
+mereka ke sini segera.
+
+458
+00:39:26,000 --> 00:39:27,752
+Kita harus mencari yang lain.
+
+459
+00:39:31,080 --> 00:39:32,718
+Oh, mengerikan.
+
+460
+00:39:33,440 --> 00:39:34,555
+Sangat mengerikan.
+
+461
+00:39:49,600 --> 00:39:50,749
+Selanjutnya aku yang
+akan membawanya.
+
+462
+00:39:50,960 --> 00:39:52,109
+Selamat bersenang senang.
+
+463
+00:39:52,440 --> 00:39:53,759
+Ini bagus.
+
+464
+00:39:53,960 --> 00:39:55,632
+Kau pikir aku tinggal
+di kapal tunda.
+
+465
+00:39:55,840 --> 00:39:58,832
+Aku tahu apa yang kau pikirkan.
+Tapi semua itu terkendali sekarang.
+
+466
+00:39:59,040 --> 00:39:59,836
+Oh, benarkah?
+
+467
+00:40:00,040 --> 00:40:02,759
+Ya, geser sedikit
+sebelah sana.
+
+468
+00:40:02,960 --> 00:40:04,359
+Biarkan aku membuka
+pintu ini.
+
+469
+00:40:04,560 --> 00:40:06,790
+Ini dia.
+Hei, gadis.
+
+470
+00:40:33,600 --> 00:40:35,192
+- Apakah itu?
+- Tidak, Sayang, bukan itu.
+
+471
+00:40:35,400 --> 00:40:36,594
+Disana.
+
+472
+00:40:36,800 --> 00:40:38,028
+Tidak, bukan itu.
+
+473
+00:40:40,600 --> 00:40:41,828
+Oh, yang itu.
+
+474
+00:40:44,000 --> 00:40:45,069
+Ada apa?
+
+475
+00:40:47,120 --> 00:40:49,588
+Dennis Gamble, kami ingin kau
+ikut dengan kami.
+
+476
+00:40:51,040 --> 00:40:53,838
+Kawan, seorang saudara tidak bisa mendapatkan barang jarahan.
+Kau mengerti apa yang aku bilang '?
+
+477
+00:40:54,520 --> 00:40:57,557
+Bukan begini caranya memperlakukan pahlawan nasional.
+Ini memalukan.
+
+478
+00:40:57,880 --> 00:41:00,269
+Tentang apa semua ini?
+Dengar, bicaralah padaku.
+
+479
+00:41:02,360 --> 00:41:04,999
+Hei, aku teman pribadi
+Senator Judson Ross, oke?
+
+480
+00:41:05,200 --> 00:41:08,033
+Teman pribadi. Saya akan makan
+lencana kalian untuk sarapan.
+
+481
+00:41:08,240 --> 00:41:09,912
+Lepaskan tangan mu
+dari kepala ku, kawan.
+
+482
+00:41:13,200 --> 00:41:15,156
+Aku menuntut penjelasan.
+
+483
+00:41:17,000 --> 00:41:18,991
+Kita akan mendapatkan hasil tes
+dalam beberapa menit.
+
+484
+00:41:19,280 --> 00:41:22,192
+Mengapa aku diuji?
+N.S.E.G. bilang aku baik-baik saja.
+
+485
+00:41:22,400 --> 00:41:24,709
+Duduklah, Nak.
+Kami akan menjelaskan semuanya nanti.
+
+486
+00:41:24,920 --> 00:41:27,195
+Yah, itu adalah jenis yang
+sulit untuk duduk diam, Pak.
+
+487
+00:41:27,400 --> 00:41:28,833
+Aku belum bercinta
+selama 11 bulan.
+
+488
+00:41:30,160 --> 00:41:31,309
+Itu tidak biasa bagiku.
+
+489
+00:41:32,520 --> 00:41:35,318
+Tenang, Burgess.
+Setiap orang berhak mendapat penjelasan.
+
+490
+00:41:35,520 --> 00:41:36,589
+Kau benar.
+
+491
+00:41:36,800 --> 00:41:40,031
+Dan bagaimanadengan  semua penjaga tersebut?
+Apa yang terjadi di sini?
+
+492
+00:41:40,840 --> 00:41:42,398
+Ini murni tindakan pencegahan.
+
+493
+00:41:43,240 --> 00:41:46,550
+Kita perlu beberapa menit untuk
+analisis darah, jadi santai saja.
+
+494
+00:41:50,240 --> 00:41:51,832
+Beberapa pertanyaan.
+
+495
+00:41:52,040 --> 00:41:56,079
+Apa yang bisa kau ceritakan tentang tujuh
+menit ketika Excursion kehilangan kontak?
+
+496
+00:41:56,280 --> 00:41:56,996
+Aku tidak ingat.
+
+497
+00:41:57,760 --> 00:42:00,558
+Aku tidak tahu apakah aku pingsan,
+aku tidak ingat.
+
+498
+00:42:01,120 --> 00:42:02,599
+Kapan terakhir kali kau berbicara
+dengan Anne Sampas?
+
+499
+00:42:03,480 --> 00:42:05,198
+Saat malam penggalangan dana.
+
+500
+00:42:05,400 --> 00:42:06,276
+Apakah dia
+bertindak aneh?
+
+501
+00:42:06,840 --> 00:42:07,989
+Dia tampak baik-baik
+saja bagi ku.
+
+502
+00:42:09,360 --> 00:42:11,396
+Tentang apa semua ini?
+Sesuatu terjadi padanya?
+
+503
+00:42:12,680 --> 00:42:13,669
+Kau katakan padaku.
+
+504
+00:42:15,120 --> 00:42:16,519
+Apa yang terjadi
+dengan Anne Sampas?
+
+505
+00:42:17,120 --> 00:42:18,519
+Ceritakan apa yang
+terjadi padanya!
+
+506
+00:42:19,360 --> 00:42:20,588
+Anne Sampas sudah mati.
+
+507
+00:42:23,840 --> 00:42:25,159
+Maafkan aku, Dennis.
+
+508
+00:42:34,640 --> 00:42:35,356
+Ya. Laura.
+
+509
+00:42:38,080 --> 00:42:42,790
+Kombinasi DNA tubuh Anne tidak sesuai dengan
+apa yang ku temukan di tubuh Orinsky.
+
+510
+00:42:43,360 --> 00:42:45,715
+Jadi, itu bisa Gamble atau Ross.
+
+511
+00:42:46,280 --> 00:42:47,554
+Hati-hati, Press.
+
+512
+00:42:52,480 --> 00:42:54,038
+Apa penyebab kematiannya?
+
+513
+00:42:54,240 --> 00:42:55,309
+Kami tidak tahu.
+
+514
+00:42:55,520 --> 00:42:56,839
+Ayolah.
+Bagaimana dia mati?
+
+515
+00:42:57,040 --> 00:42:58,598
+Urutan hampir selesai.
+
+516
+00:42:58,800 --> 00:43:01,155
+- Mengapa kau menguji darah ku?
+- Sepuluh detik lagi.
+
+517
+00:43:01,360 --> 00:43:03,715
+- Kau pikir aku membunuh Annie?
+- Pengambilan data on-line.
+
+518
+00:43:03,920 --> 00:43:05,353
+- Apakah itu yang kau pikirkan?
+- Lima detik. Tiga detik.
+
+519
+00:43:05,560 --> 00:43:08,199
+Aku tidak membunuhnya! Aku bersumpah!
+
+520
+00:43:09,040 --> 00:43:12,794
+Komputer mengatakan normal.
+Tidak ada tanda infeksi.
+
+521
+00:43:15,400 --> 00:43:17,470
+- Pulanglah, beristirahat.
+- Dengar, aku ingin jawaban!
+
+522
+00:43:17,680 --> 00:43:20,114
+Pada waktunya.
+Kami akan menghubungimu.
+
+523
+00:43:22,680 --> 00:43:23,317
+Yo, Gamble.
+
+524
+00:43:24,600 --> 00:43:26,113
+Kau tahu di mana Patrick Ross?
+
+525
+00:43:27,520 --> 00:43:28,396
+Tidak.
+
+526
+00:43:30,360 --> 00:43:32,749
+Jika kau melihatnya,
+kabari aku, ya?
+
+527
+00:43:34,680 --> 00:43:35,396
+Tentu.
+
+528
+00:43:44,160 --> 00:43:48,995
+Nah, mari kita lihat apa
+rongga tengkorak katakan.
+
+529
+00:44:18,120 --> 00:44:20,190
+Sekarang aku hanya akan mencapai
+belakang telinganya, dan kita harus...
+
+530
+00:44:46,720 --> 00:44:47,436
+Tuhan.
+
+531
+00:45:21,840 --> 00:45:22,716
+Patrick, tidak!
+
+532
+00:46:50,240 --> 00:46:51,434
+Ingin kencan, tuan?
+
+533
+00:47:01,600 --> 00:47:02,510
+Aku takut, bung.
+
+534
+00:47:02,960 --> 00:47:03,631
+Ini gila.
+
+535
+00:47:04,240 --> 00:47:06,959
+Seluruh kepalanya bisa tumbuh kembali
+seperti  pertunjukan orang aneh.
+
+536
+00:47:07,520 --> 00:47:09,750
+Spesies Alien dapat
+meregenerasi jaringan hidup.
+
+537
+00:47:10,360 --> 00:47:11,759
+Aliens, pria hijau kecil.
+
+538
+00:47:12,280 --> 00:47:13,508
+Aku masih tidak bisa percaya.
+
+539
+00:47:13,720 --> 00:47:16,188
+Jika mereka tahu ada alien
+sana, mengapa mereka mengirimkan kami?
+
+540
+00:47:16,400 --> 00:47:19,198
+N.S.E.G. mendapat peringatan tetapi
+mereka memilih untuk mengabaikannya.
+
+541
+00:47:21,240 --> 00:47:24,994
+Kami pikir ada beberapa DNA asing dalam
+sampel tanah yang kalian kumpulkan.
+
+542
+00:47:27,120 --> 00:47:28,439
+Sesuatu terjadi di sana.
+
+543
+00:47:29,400 --> 00:47:30,469
+Aku tidak ingat persis.
+
+544
+00:47:31,720 --> 00:47:33,119
+Aku hanya tahu
+itu mengerikan.
+
+545
+00:47:33,320 --> 00:47:35,276
+Aku yakin bahwa
+itu mengerikan.
+
+546
+00:47:35,480 --> 00:47:38,153
+Pertanyaannya adalah:
+Bagaimana kita melanjutkan sekarang?
+
+547
+00:47:38,640 --> 00:47:41,837
+Aku suruh orang-orang di luar
+sana untuk mencari anak ini.
+
+548
+00:47:42,040 --> 00:47:44,873
+Dia mungkin di suatu tempat.
+Kita akan menemukannya cepat atau lambat.
+
+549
+00:47:45,360 --> 00:47:47,954
+Jika ia mereproduksi,
+kita punya potensi keturunan.
+
+550
+00:47:48,560 --> 00:47:51,996
+Aku pikir lebih baik berasumsi dia
+mengencani dua pelayan koktail sekaligus.
+
+551
+00:47:52,920 --> 00:47:55,514
+Nah, dalam waktu kurang dari dua minggu,
+keturunannya sudah menjadi remaja...
+
+552
+00:47:55,720 --> 00:47:57,358
+Dan kemudian mereka memasuki
+tahap kepompong.
+
+553
+00:47:57,760 --> 00:47:58,556
+Tahap kepompong?
+
+554
+00:47:59,320 --> 00:48:02,118
+Kepompong yang mengubah
+mereka menjadi dewasa.
+
+555
+00:48:07,600 --> 00:48:10,194
+Hei, sayang.
+Putar balik mobilmu.
+
+556
+00:48:13,520 --> 00:48:16,159
+Hei, jangan pergi.
+Ayolah.
+
+557
+00:48:17,320 --> 00:48:18,833
+Hai, Sayang.
+
+558
+00:48:21,120 --> 00:48:21,870
+Kembalilah sayang....
+
+559
+00:48:22,320 --> 00:48:26,233
+<i> Pembunuh berantai mungkin berkeliaran </ i>
+<i> di wilayah Washington-Maryland </ i>
+
+560
+00:48:26,440 --> 00:48:29,273
+<i> Pihak berwenang telah meminta masyarakat </ i>
+<i> untuk berhati-hati... </ i>
+
+561
+00:48:29,480 --> 00:48:31,596
+<i> Ketika didekati oleh orang asing </ i>
+
+562
+00:48:31,880 --> 00:48:33,074
+Berapa untuk nomor tiga?
+
+563
+00:48:33,280 --> 00:48:33,917
+Dua puluh satu jam.
+
+564
+00:48:34,120 --> 00:48:36,953
+<i> Terima kasih, Linda </ i>
+<i> Dan sekarang untuk berita keuangan </ i>
+
+565
+00:48:37,160 --> 00:48:39,799
+Dua puluh, empat puluh, enam puluh.
+
+566
+00:48:40,080 --> 00:48:41,195
+Terima kasih banyak.
+
+567
+00:48:44,080 --> 00:48:45,149
+Selamat menikmati.
+
+568
+00:48:49,560 --> 00:48:50,390
+Masuklah.
+
+569
+00:49:04,760 --> 00:49:08,753
+Lihat apa yang aku maksud, Laura?
+Begitu sering, denyutnya mengamuk.
+
+570
+00:49:13,920 --> 00:49:16,639
+Lima puluh agen kami tiba di
+luar sana mencari orang ini.
+
+571
+00:49:17,400 --> 00:49:18,674
+Kita tidak menemukan apa-apa.
+
+572
+00:49:19,440 --> 00:49:21,351
+Bung, bagaimana kau bisa
+menyentuh itu begitu saja?
+
+573
+00:49:21,880 --> 00:49:23,438
+Tuntutan pekerjaan.
+
+574
+00:49:27,960 --> 00:49:31,350
+Jadi, kau tidak melihat dan tidak mendengar
+apa-apa, tidak tahu apa-apa?
+
+575
+00:49:31,560 --> 00:49:33,391
+Mereka datang dan mereka pergi.
+Kau tahu apa yang ku maksud?
+
+576
+00:49:33,600 --> 00:49:35,989
+Mereka datang dan mereka pergi.
+
+577
+00:49:36,240 --> 00:49:38,196
+Oh, jangan histeris.
+Duduklah.
+
+578
+00:49:38,400 --> 00:49:40,197
+Mereka datang, mereka pergi.
+Kau mengerti?
+
+579
+00:49:40,440 --> 00:49:42,237
+Oh, ya, aku mengerti.
+Ini dia untukmu.
+
+580
+00:49:42,440 --> 00:49:43,190
+Terima kasih.
+
+581
+00:51:10,760 --> 00:51:12,113
+Kita membuang-buang waktu.
+
+582
+00:51:12,320 --> 00:51:14,788
+Sudah dua hari, dan Lennox belum
+membuat kemajuan apapun.
+
+583
+00:51:15,000 --> 00:51:18,197
+Itu mungkin itu karena kalian
+tidak mengijinkan kami go public.
+
+584
+00:51:18,400 --> 00:51:19,355
+Dr Baker,
+
+585
+00:51:19,560 --> 00:51:22,120
+Kau mengatakan bahwa
+Eve memiliki kemampuan telepati.
+
+586
+00:51:22,320 --> 00:51:23,150
+Beberapa.
+
+587
+00:51:23,360 --> 00:51:24,679
+Bisakah kita mengirimnya ke Patrick?
+
+588
+00:51:24,880 --> 00:51:27,235
+Adalah bodoh untuk membiarkan dia
+keluar dari suasana yang terkendali.
+
+589
+00:51:27,520 --> 00:51:28,589
+Ada bahaya melarikan diri.
+
+590
+00:51:28,800 --> 00:51:31,598
+Kemudian kita akan adai dua alien
+berkeliaran, bukan satu.
+
+591
+00:51:31,800 --> 00:51:34,872
+Jika keduanya kawin, yang dihasilkan
+adalah murni keturunan...
+
+592
+00:51:35,080 --> 00:51:36,877
+Akan menjadi tak terbendung.
+
+593
+00:51:37,080 --> 00:51:40,629
+Bisakah dia memberitahu kita di mana dia
+tanpa meninggalkan laboratorium?
+
+594
+00:51:42,040 --> 00:51:44,190
+Kami telah melihat perubahan
+di bioritme nya...
+
+595
+00:51:44,400 --> 00:51:46,550
+Yang menunjukkan
+koneksi dasar...
+
+596
+00:51:46,760 --> 00:51:48,990
+Tapi setengah gen
+asingnya tidak aktif.
+
+597
+00:51:49,600 --> 00:51:52,433
+Melacak Patrick adalah
+diluar dari ikatannya.
+
+598
+00:51:52,920 --> 00:51:54,831
+ Dormant berarti tertidur.
+
+599
+00:51:55,680 --> 00:51:58,319
+Apakah ada cara
+untuk membangunkannya?
+
+600
+00:51:59,960 --> 00:52:01,951
+Kita bisa menggunakan
+lab siklotron...
+
+601
+00:52:02,160 --> 00:52:05,072
+Membombardir dia dengan radiasi yang
+akan membangkitkan gen dorman nya.
+
+602
+00:52:05,280 --> 00:52:06,633
+Tapi ada masalah.
+
+603
+00:52:06,840 --> 00:52:07,636
+Apa itu?
+
+604
+00:52:07,840 --> 00:52:09,353
+Kita membuatnya lebih alien.
+
+605
+00:52:09,560 --> 00:52:11,437
+Kita meningkatkan kekuatannya,
+kemarahannya.
+
+606
+00:52:11,640 --> 00:52:13,631
+Keinginan kawinnya
+mencapai puncak.
+
+607
+00:52:14,120 --> 00:52:15,633
+Sepadan dengan risikonya.
+Kita akan memperketat keamanan.
+
+608
+00:52:15,840 --> 00:52:17,193
+Dia bukan binatang laboratorium.
+
+609
+00:52:17,840 --> 00:52:19,193
+Dia setengah manusia.
+
+610
+00:52:19,400 --> 00:52:22,119
+Tolonglah, Baker, lindungilah
+hak kami dari alien.
+
+611
+00:52:22,320 --> 00:52:23,389
+Tempatkan dia di siklotron.
+
+612
+00:52:23,720 --> 00:52:24,789
+Dan bagaimana jika aku menolak?
+
+613
+00:52:25,320 --> 00:52:28,630
+Itu adalah hak prerogatif mu.
+Dia tetap kesana.
+
+614
+00:52:28,840 --> 00:52:29,352
+Tuan-tuan.
+
+615
+00:52:45,560 --> 00:52:47,198
+Jangan khawatir, Laura.
+
+616
+00:52:47,400 --> 00:52:48,753
+Aku tahu apa yang
+mereka inginkan.
+
+617
+00:52:48,960 --> 00:52:53,272
+Aku minta maaf. Aku tidak bermaksud bagitu.
+Ini akan sangat menyakitkan bagi mu.
+
+618
+00:52:55,040 --> 00:52:56,234
+Aku ingin membantu.
+
+619
+00:52:57,240 --> 00:53:00,312
+Aku akan meradiasi selama 45 detik
+kemudian mematikannya.
+
+620
+00:53:37,920 --> 00:53:39,478
+Aku terhubung, Laura.
+
+621
+00:53:40,800 --> 00:53:42,358
+Aku melihat apa
+yang dia lihat.
+
+622
+00:53:44,920 --> 00:53:47,229
+<i> Dia melewati jalan kecil </ i>
+
+623
+00:53:47,440 --> 00:53:48,668
+<i> Aku melihat bangunan dua lantai... </ i>
+
+624
+00:53:49,040 --> 00:53:50,792
+<i> seorang pria berjalan dengan anjing kecil. </ i>
+
+625
+00:53:51,560 --> 00:53:52,629
+Mereka berhenti di lampu merah.
+
+626
+00:53:53,160 --> 00:53:54,513
+Oke, teruskani!
+
+627
+00:53:55,160 --> 00:53:56,752
+<i> Aku melihat nama jalan </ i>
+
+628
+00:53:59,520 --> 00:54:00,748
+Gwynn itu Falls dan Warwick!
+
+629
+00:54:01,520 --> 00:54:03,556
+- Persimpangan of Gwynn Falls...
+- Dia di tempat parkir!
+
+630
+00:54:04,080 --> 00:54:05,718
+- Apa?
+<i> - Gwynn itu Falls dan Warwick </ i>
+
+631
+00:54:05,920 --> 00:54:06,909
+Gwynn itu Falls.?
+
+632
+00:54:07,120 --> 00:54:07,870
+Dimana?
+
+633
+00:54:08,080 --> 00:54:09,354
+Itu di Reservoir Hill!
+
+634
+00:54:09,560 --> 00:54:11,118
+Ada sebuah supermarket besar!
+
+635
+00:54:11,320 --> 00:54:14,756
+Dia pergi ke supermarket dekat
+Gwynn itu Falls dan Warwick.
+
+636
+00:54:15,400 --> 00:54:16,879
+Pegangan!
+
+637
+00:54:32,600 --> 00:54:34,511
+- Dia mendekati seorang wanita!
+- Mari kita kejar!
+
+638
+00:54:36,200 --> 00:54:38,350
+Bagaimana kau mendapatkan SIM'?
+
+639
+00:54:46,680 --> 00:54:47,874
+Dimana dia?
+
+640
+00:54:48,440 --> 00:54:50,715
+Lorong satu. Buah dan sayuran!
+
+641
+00:54:50,920 --> 00:54:52,592
+Dia di lorong satu,
+buah dan sayuran.
+
+642
+00:55:24,360 --> 00:55:25,634
+Kami sudah berada di sana.
+Sekarang apa?
+
+643
+00:55:27,240 --> 00:55:28,309
+Ayolah, Press!
+
+644
+00:55:28,680 --> 00:55:30,750
+Ya Tuhan! Ini adalah kau!
+
+645
+00:55:31,480 --> 00:55:33,152
+- Maukah kau menandatangani kotak Flakes untuk ku?
+- Tentu.
+
+646
+00:55:33,840 --> 00:55:34,670
+Kau punya pena?
+
+647
+00:55:35,120 --> 00:55:36,394
+Ya..
+
+648
+00:55:37,720 --> 00:55:38,311
+Siapa namamu?
+
+649
+00:55:39,160 --> 00:55:39,797
+Darlene.
+
+650
+00:55:40,480 --> 00:55:41,310
+"Darlene."
+
+651
+00:55:43,040 --> 00:55:44,234
+Kau tahu sebuah rahasia?
+
+652
+00:55:44,840 --> 00:55:46,956
+Aku pikir Space Flakes
+rasanya seperti sampah.
+
+653
+00:55:48,200 --> 00:55:49,872
+- Baris mana?
+- Sereal!
+
+654
+00:55:51,680 --> 00:55:53,079
+Ayolah, Press.
+
+655
+00:55:53,520 --> 00:55:54,475
+Awas!
+
+656
+00:55:55,120 --> 00:55:56,633
+Dimana sereal sialan?
+
+657
+00:55:56,840 --> 00:55:57,431
+Senang bertemu dengan mu.
+
+658
+00:55:57,640 --> 00:55:58,789
+Benar-benar senang
+bertemu dengan mu.
+
+659
+00:56:04,960 --> 00:56:05,472
+Itu dia!
+
+660
+00:56:05,680 --> 00:56:07,511
+Tolong!
+
+661
+00:56:07,720 --> 00:56:08,789
+Lewat mana?
+
+662
+00:56:10,800 --> 00:56:12,074
+Cepat! Lewat mana?
+
+663
+00:56:12,280 --> 00:56:12,996
+Apa yang dia katakan?
+
+664
+00:56:14,080 --> 00:56:15,638
+Mereka turun beberapa
+anak tangga.
+
+665
+00:56:15,840 --> 00:56:17,956
+Lantai dasar! Cari lantai dasar!
+
+666
+00:56:26,280 --> 00:56:27,315
+<i> Ini gelap </ i>
+
+667
+00:56:28,800 --> 00:56:29,949
+Dia ingin kawin dengan dia!
+
+668
+00:56:37,400 --> 00:56:38,469
+Pergi!
+
+669
+00:56:49,640 --> 00:56:50,550
+Bangun!
+
+670
+00:56:52,520 --> 00:56:53,396
+Diam!
+
+671
+00:56:54,400 --> 00:56:55,549
+Tolong!
+
+672
+00:56:57,480 --> 00:56:58,151
+Menunduk!
+
+673
+00:57:11,760 --> 00:57:12,954
+- Sialan!
+- Tidak!
+
+674
+00:57:15,560 --> 00:57:17,835
+Tolong!
+
+675
+00:57:44,160 --> 00:57:45,195
+Dia mencoba memperkosanya!
+
+676
+00:58:06,040 --> 00:58:07,678
+Bung, jangan tembak!
+
+677
+00:58:08,120 --> 00:58:09,075
+Mengapa kalian tidak pergi motel?
+
+678
+00:58:10,000 --> 00:58:11,149
+Dasar anak-anak.
+
+679
+00:58:14,480 --> 00:58:15,674
+Dia tahu aku merekamnya.
+
+680
+00:58:15,880 --> 00:58:18,678
+Tolong! Tinggalkan aku sendiri!
+Berhenti!
+
+681
+00:58:19,240 --> 00:58:20,719
+Lepaskan aku!
+
+682
+00:58:21,120 --> 00:58:21,632
+Eve...
+
+683
+00:58:22,720 --> 00:58:23,391
+Patrick!
+
+684
+00:58:31,960 --> 00:58:34,235
+Pergilah! Keluar dari sini!
+
+685
+00:58:35,240 --> 00:58:36,195
+Keluar!
+
+686
+00:58:55,880 --> 00:58:57,711
+- Jangan bergerak, angkasawan.
+- Taruh pistol nya.
+
+687
+00:58:58,880 --> 00:58:59,756
+Angkat tangan!
+
+688
+00:59:00,360 --> 00:59:01,395
+Tangkap dia!
+
+689
+00:59:02,560 --> 00:59:03,595
+Ada apa ini?
+
+690
+00:59:04,280 --> 00:59:07,158
+Kau tidak dapat menyangkal terdadap
+apa yang terjadi di sekitar sini.
+
+691
+00:59:08,000 --> 00:59:08,830
+Barang jenis apa?
+
+692
+00:59:09,520 --> 00:59:11,670
+Kau sendiri yang bilang
+Kau merasa aneh.
+
+693
+00:59:12,200 --> 00:59:14,270
+Anda harus ikut tes, bro.
+
+694
+00:59:16,320 --> 00:59:18,880
+Tentu. Aku tidak keberatan
+masuk ke laboratorium.
+
+695
+00:59:34,240 --> 00:59:34,831
+Buka gerbang.
+
+696
+00:59:42,600 --> 00:59:43,794
+Apa yang terjadi?
+
+697
+00:59:44,000 --> 00:59:46,798
+Tingkat estrogen yang memuncak.
+Sepertinya dia terangsang.
+
+698
+00:59:59,400 --> 01:00:00,515
+Biarkan aku keluar!
+
+699
+01:00:03,400 --> 01:00:04,150
+Biarkan aku keluar!
+
+700
+01:00:05,720 --> 01:00:06,675
+Mari kita pergi.
+
+701
+01:00:09,560 --> 01:00:10,993
+Apakah dia sudah diberi
+obat apa pun?
+
+702
+01:00:11,200 --> 01:00:12,315
+Ya, dosis yang biasa.
+
+703
+01:00:12,520 --> 01:00:13,555
+Biarkan aku keluar, Laura!
+
+704
+01:00:13,760 --> 01:00:14,988
+Saya akan dua kali lipat.
+
+705
+01:00:15,360 --> 01:00:16,110
+Biarkan aku keluar!
+
+706
+01:00:18,720 --> 01:00:19,675
+Dengarkan aku, Laura...
+
+707
+01:00:19,920 --> 01:00:20,477
+Laura!
+
+708
+01:01:05,120 --> 01:01:08,192
+Peringatan kode 459. Patrick Ross
+di Biohazard Empat. Tutup compound.
+
+709
+01:01:09,440 --> 01:01:11,078
+Keluar dari sana, Sherry!
+
+710
+01:01:11,280 --> 01:01:13,430
+Patrick, tinggalkan dia!
+
+711
+01:01:13,720 --> 01:01:14,550
+Buka pintu.
+
+712
+01:01:15,560 --> 01:01:18,711
+Aku tahu apa yang kau lalui,
+dan aku bisa membantu mu.
+
+713
+01:01:19,680 --> 01:01:22,240
+- Biarkan aku membantumu.
+- Buka pintu sialan itu.
+
+714
+01:01:23,240 --> 01:01:24,036
+Aku tidak bisa.
+
+715
+01:01:24,600 --> 01:01:25,112
+Aku minta maaf.
+
+716
+01:01:25,320 --> 01:01:26,799
+- Buka!
+- Aku tidak bisa...
+
+717
+01:01:33,680 --> 01:01:34,908
+Menjauh daru dia sekarang!
+
+718
+01:01:44,520 --> 01:01:46,954
+Buktinya tak terbantahkan.
+
+719
+01:01:47,360 --> 01:01:49,954
+Anakmu terinfeksi di kapsul itu.
+
+720
+01:01:51,320 --> 01:01:52,958
+Maafkan aku, Senator.
+
+721
+01:01:56,560 --> 01:01:57,879
+Yesus Tuhan.
+
+722
+01:01:58,880 --> 01:02:01,269
+Yakinlah kita akan selesaikan
+ini diam-diam.
+
+723
+01:02:01,480 --> 01:02:03,869
+Pengobatan, dokter-dokter terbaik.
+
+724
+01:02:04,080 --> 01:02:05,399
+Hal terakhir yang
+diperlukan negara ini
+
+725
+01:02:05,600 --> 01:02:08,512
+adalah tontonan dengan pahlawan
+nasional yang dikompromikan publik.
+
+726
+01:02:09,920 --> 01:02:11,638
+Buang omong kosong mu, Carter.
+
+727
+01:02:13,240 --> 01:02:14,559
+Apa yang akan kita lakukan?
+
+728
+01:02:14,960 --> 01:02:16,188
+Dua imperatif.
+
+729
+01:02:16,400 --> 01:02:19,312
+Kita harus menemukan Patrick
+dan membawanya segera.
+
+730
+01:02:19,520 --> 01:02:23,718
+Kita harus menetralisir kemungkinan
+yang bisa membocorkan ke media.
+
+731
+01:02:23,920 --> 01:02:26,195
+Para jenderal yang sangat prihatin.
+
+732
+01:02:26,760 --> 01:02:29,320
+Mereka akan membunuhnya, bukan?
+
+733
+01:02:30,880 --> 01:02:31,915
+Kita harus menemukan anak mu.
+
+734
+01:02:32,960 --> 01:02:35,633
+Kau dengarkan aku,
+Kau sombong sialan.
+
+735
+01:02:36,080 --> 01:02:37,752
+Jika kau menyentuh
+rambut di kepalanya...
+
+736
+01:02:38,320 --> 01:02:39,992
+Kau akan menyesal
+mengapa kau dilahirkan!
+
+737
+01:02:40,880 --> 01:02:42,950
+Kau membuat sangat sulit
+untuk membantu mu, Senator.
+
+738
+01:02:44,160 --> 01:02:45,878
+Brengsek!
+
+739
+01:02:46,520 --> 01:02:49,318
+Apa kau pikir aku akan melakukannya?
+Berdiri di sini dan membiarkan kau mengadili anakku?
+
+740
+01:02:51,480 --> 01:02:53,869
+Aku akan menelpon Presiden
+sialan jika harus.
+
+741
+01:02:54,080 --> 01:02:55,149
+Dengarkan baik-baik, orang tua.
+
+742
+01:02:55,720 --> 01:02:58,280
+Ini adalah diluar
+kemampuan  Presiden.
+
+743
+01:02:59,120 --> 01:03:00,553
+Kau mau menyelamatkan Patrick?
+
+744
+01:03:01,480 --> 01:03:03,038
+Bantu kami menemukannya.
+
+745
+01:03:54,040 --> 01:03:57,157
+Sial, Bung! Ada apa?
+Aku bahkan tidak bisa tidak bermain dengan alien.
+
+746
+01:03:57,720 --> 01:04:01,156
+Beberapa orang membawa penyakit
+dalam kode genetik mereka.
+
+747
+01:04:01,360 --> 01:04:03,828
+Ada kemungkinan mungkin diteruskan
+kepada anak-anak mereka.
+
+748
+01:04:04,480 --> 01:04:06,994
+Mereka dokter di N.S.E.G.
+bilang aku punya sifat sabit.
+
+749
+01:04:07,920 --> 01:04:09,831
+Ada di dalam tabel mu.
+Kau tidak punya anemia sel sabit,
+
+750
+01:04:10,040 --> 01:04:12,554
+Itulah sebabnya kau bisa pergi ke Mars.
+Tapi kau adalah pembawa.
+
+751
+01:04:13,440 --> 01:04:13,997
+Benar.
+
+752
+01:04:14,560 --> 01:04:17,996
+Aku kira itulah sebabnya
+dia tidak terinfeksi di atas pesawat.
+
+753
+01:04:18,200 --> 01:04:21,317
+Benar. DNA asing tidak dapat mengatasi
+kekurangan genetik manusia.
+
+754
+01:04:21,520 --> 01:04:24,193
+Mereka tidak memiliki pertahanan terhadap penyakit kita,
+dan yang mungkin menjadi jawaban kita.
+
+755
+01:04:25,320 --> 01:04:26,833
+Apa yang bisa
+menjadi jawabannya?
+
+756
+01:04:27,880 --> 01:04:30,917
+DNA Alien menginfeksi kita.
+Sudah saatnya kita menginfeksi mereka.
+
+757
+01:04:32,480 --> 01:04:33,310
+Apa?
+
+758
+01:04:59,520 --> 01:05:00,077
+Patrick...
+
+759
+01:05:02,960 --> 01:05:04,154
+Ayah, apa yang
+kau lakukan di sini?
+
+760
+01:05:06,160 --> 01:05:08,515
+Aku berpikir kau
+akan muncul di sini.
+
+761
+01:05:10,120 --> 01:05:11,838
+Kau selalu mencintai tempat ini
+seperti masih anak anak.
+
+762
+01:05:13,880 --> 01:05:15,154
+Begitu pula ibumu.
+
+763
+01:05:16,360 --> 01:05:18,749
+Aku tidak pernah bisa meyakinkan
+dia untuk menyingkirkan itu.
+
+764
+01:05:20,560 --> 01:05:22,915
+Yeah, aku sering datang ke sini
+ketika aku merayunya.
+
+765
+01:05:24,160 --> 01:05:26,151
+- Dan setelah dia meninggal...
+- Apa yang kau inginkan?
+
+766
+01:05:29,600 --> 01:05:30,430
+Yah...
+
+767
+01:05:31,360 --> 01:05:33,669
+Pertama, aku ingin meminta maaf.
+
+768
+01:05:34,680 --> 01:05:35,749
+Minta maaf untuk apa?
+
+769
+01:05:37,000 --> 01:05:37,876
+Oh, Paddy.
+
+770
+01:05:38,880 --> 01:05:39,756
+Tidak usah repot.
+
+771
+01:05:44,520 --> 01:05:46,078
+Mereka mengatakan
+apa yang terjadi...
+
+772
+01:05:47,760 --> 01:05:50,194
+Bagaimana kau bisa
+terinfeksi di Mars.
+
+773
+01:05:51,000 --> 01:05:54,993
+Maafkan aku, Paddy... karena tidak
+mendengarkan ketika kau minta bantuan.
+
+774
+01:05:55,600 --> 01:05:56,669
+Kau tidak pernah mendengarkan.
+
+775
+01:05:59,120 --> 01:06:00,599
+Aku mendengarkan sekarang.
+
+776
+01:06:12,680 --> 01:06:13,908
+Mereka akan membunuhku.
+
+777
+01:06:15,600 --> 01:06:17,397
+Tidak jika aku bisa membantu.
+
+778
+01:06:18,400 --> 01:06:20,550
+Sekarang, tidak ada cara bagi
+mereka untuk menemukan mu di sini.
+
+779
+01:06:20,760 --> 01:06:22,796
+Properti ini masih tercatat
+atas nama ibumu.
+
+780
+01:06:23,520 --> 01:06:26,239
+Dan aku tak akan menyerahkan
+dirimu ke bajingan Pentagon.
+
+781
+01:06:26,640 --> 01:06:27,390
+Tidak, Pak.
+
+782
+01:06:27,600 --> 01:06:31,991
+Aku akan membawamu ke Johns Hopkins...
+Untuk pengobatan yang terbaik.
+
+783
+01:06:32,720 --> 01:06:34,119
+Kita akan berjalan melalui
+pintu yang sama.
+
+784
+01:06:36,440 --> 01:06:37,509
+Pergilah dengaku, nak.
+
+785
+01:06:37,720 --> 01:06:38,470
+Tidak.
+
+786
+01:06:47,800 --> 01:06:49,597
+Aku tahu kau tidak akan
+melakukannya untukku.
+
+787
+01:06:51,520 --> 01:06:53,476
+Tapi cobalah  pikirkan
+tentang ibumu.
+
+788
+01:06:56,480 --> 01:06:57,879
+Lakukan untuknya.
+
+789
+01:07:07,440 --> 01:07:08,634
+Ayah, bantulah aku.
+
+790
+01:07:12,320 --> 01:07:14,629
+Tidak apa-apa.
+
+791
+01:07:17,840 --> 01:07:18,829
+Tidak apa-apa.
+
+792
+01:07:56,840 --> 01:07:57,716
+Eve...
+
+793
+01:08:13,160 --> 01:08:15,674
+Kami membutuhkan bantuan mu
+lagi untuk menemukan Patrick.
+
+794
+01:08:18,120 --> 01:08:21,032
+Maafkan aku, Laura.
+Aku tidak bisa melakukan itu.
+
+795
+01:09:53,320 --> 01:09:55,788
+Kita bisa memanggil
+Garda Nasional.
+
+796
+01:09:57,440 --> 01:09:59,795
+Maaf, sobat.
+Ini adalah benar-benar sebuah misi pribadi.
+
+797
+01:10:00,000 --> 01:10:01,752
+Yeah, well, aku seoarang pencinta.
+Aku bukan pejuang.
+
+798
+01:10:02,240 --> 01:10:03,309
+Kau belum menjadi salah
+satu dari mereka
+
+799
+01:10:04,080 --> 01:10:05,229
+dalam 11 bulan.
+
+800
+01:10:05,480 --> 01:10:06,913
+Kenapa kau harus
+membawa itu?
+
+801
+01:10:07,120 --> 01:10:10,715
+Oke, aku seorang pencinta. Aku yakin
+tidak ada pemburu hadiah terkutuk.
+
+802
+01:10:12,200 --> 01:10:13,918
+Ini baru terlihat benar.
+
+803
+01:10:14,560 --> 01:10:16,357
+Apa?
+Itu kecil, sesuatu yang kecil?
+
+804
+01:10:17,240 --> 01:10:18,832
+Kau tidak punya
+bazoka di sini?
+
+805
+01:10:19,360 --> 01:10:20,315
+Bazookas?
+
+806
+01:10:20,880 --> 01:10:22,916
+Belum ada yang pernah bilang
+bahwa ukuran tidak penting?
+
+807
+01:10:28,760 --> 01:10:30,990
+Maksudku, kau bisa bicara
+semuanya jika ingin.
+
+808
+01:10:31,200 --> 01:10:34,351
+Aku mengambil ini karena aku ingin
+kembali ke Afrika dengan pantat seseorang.
+
+809
+01:10:37,320 --> 01:10:41,313
+Aku telah menggunakan sample darah
+Dennis sebagai dasar untuk racun ini.
+
+810
+01:10:43,480 --> 01:10:47,189
+Tentu saja, aku tidak tahu
+apakah ini akan bekerja.
+
+811
+01:10:52,320 --> 01:10:55,357
+Ini adalah ide yang menarik.
+Ini mungkin satu-satunya kesempatan yang kita punya.
+
+812
+01:10:55,560 --> 01:10:57,152
+Tapi bagaimana kalau
+itu tidak bekerja?
+
+813
+01:10:57,960 --> 01:10:59,473
+Wah, temanku,
+
+814
+01:11:00,320 --> 01:11:01,070
+Kita kacau.
+
+815
+01:11:22,120 --> 01:11:22,836
+Pergi ke penambatan!
+
+816
+01:11:23,040 --> 01:11:23,916
+<i> Pelanggaran pengurungan </ i>
+
+817
+01:11:25,360 --> 01:11:26,395
+Kami terkunci di sini!
+
+818
+01:11:26,600 --> 01:11:28,795
+<i> Menambatkan Elektronik, </ i>
+<i> persenjataan untuk aktivasi </ i>
+
+819
+01:11:29,000 --> 01:11:31,275
+<i> dalam lima, empat... </ i>
+
+820
+01:11:31,840 --> 01:11:34,195
+<i> tiga, dua , satu </ i>
+
+821
+01:11:36,040 --> 01:11:36,916
+Kita terjebak.
+
+822
+01:11:42,640 --> 01:11:43,311
+Munduri!
+
+823
+01:11:52,000 --> 01:11:54,992
+<i> Pelanggaran Keamanan, kode merah, </ i>
+<i> tingkat empat </ i>
+
+824
+01:11:58,480 --> 01:12:00,038
+Kolonel, banyak
+kegiatan di bawah sana.
+
+825
+01:12:00,240 --> 01:12:02,435
+Jaga jarak.
+Mari kita lihat apa yang terjadi.
+
+826
+01:12:22,040 --> 01:12:22,711
+Tembak!
+
+827
+01:13:08,320 --> 01:13:09,230
+Ayolah.
+
+828
+01:13:09,960 --> 01:13:12,997
+Masuk ke humvees!
+Mari kita pergi! Sekarang!
+
+829
+01:13:20,440 --> 01:13:21,873
+Kau dengar dia! Cepat!
+
+830
+01:13:23,760 --> 01:13:25,591
+Bagaimana dia tahu
+cara mengemudi?
+
+831
+01:13:25,800 --> 01:13:27,995
+Acara favoritnya
+<i> The Dukes of Hazard </ i>
+
+832
+01:13:28,200 --> 01:13:29,997
+Fan-fuckin'-tastic.
+
+833
+01:13:42,640 --> 01:13:43,914
+<i> Burgess, ini Jenderal Metzger </ i>.
+
+834
+01:13:44,120 --> 01:13:47,351
+<i> Jaga jarak mu namun jangan</ i>
+<i>  terlibat dalam pelarian alien </ i>
+
+835
+01:13:47,560 --> 01:13:50,438
+<i> Biarkan Press Lennox  melakukan pekerjaannya </ i>
+<i> Apakah itu jelas </ i>
+
+836
+01:13:50,640 --> 01:13:53,029
+Baik. Mundur, Kapten.
+
+837
+01:13:53,240 --> 01:13:56,471
+Aku tidak ingin mengacaukan pesta
+ini hingga waktu yang tepat.
+
+838
+01:14:47,840 --> 01:14:48,989
+Berhenti di sini.
+
+839
+01:14:50,160 --> 01:14:51,832
+Ambil tabung semprot.
+
+840
+01:15:11,040 --> 01:15:12,553
+Hati-hati dengan benda itu.
+
+841
+01:15:24,880 --> 01:15:26,711
+Yesus Kristus!
+
+842
+01:15:32,240 --> 01:15:34,470
+Selamat datang
+di klinik bersalin...
+
+843
+01:15:34,840 --> 01:15:35,829
+Dari neraka.
+
+844
+01:15:36,040 --> 01:15:38,110
+Keturunan Patrick.
+
+845
+01:15:40,800 --> 01:15:42,870
+Aku akan keatas apakah aku
+dapat menemukan Adam dan Eve.
+
+846
+01:15:43,600 --> 01:15:46,672
+Press, ini bukan salah Eve.
+Dia juga manusia.
+
+847
+01:15:48,360 --> 01:15:49,270
+Seperti mereka.
+
+848
+01:16:58,360 --> 01:17:00,920
+Ada apa?
+DNA ku tidak cukup baik?
+
+849
+01:17:01,560 --> 01:17:04,233
+Kalian membiarkan aku hidup di kapal sehingga
+aku bisa mati dalam gudang sialan ini?
+
+850
+01:17:04,640 --> 01:17:07,518
+Sialan kau!
+Persetan semua kau babi!
+
+851
+01:17:07,920 --> 01:17:10,195
+Aku akan menyemprotkan langsung
+Kunta Kinte kedalam pantat mu!
+
+852
+01:17:11,120 --> 01:17:12,075
+Dennis!
+
+853
+01:17:12,280 --> 01:17:12,951
+Ini berhasil!
+
+854
+01:17:15,280 --> 01:17:17,271
+Skor satu untuk DNA
+manusia, sayang!
+
+855
+01:17:42,760 --> 01:17:44,716
+Mengapa kau tidak mengejar orang-orang?
+Aku akan di sini.
+
+856
+01:17:44,920 --> 01:17:46,399
+Lakukan saja sayang.
+
+857
+01:18:01,160 --> 01:18:01,751
+Mati!
+
+858
+01:18:05,600 --> 01:18:06,555
+Terima kasih.
+
+859
+01:18:07,480 --> 01:18:08,196
+Terima kasih kembali.
+
+860
+01:18:23,360 --> 01:18:25,590
+Eve, menyingkirlah!
+
+861
+01:18:36,680 --> 01:18:38,238
+Apa yang terjadi di sini?
+
+862
+01:18:38,440 --> 01:18:39,475
+Mundur!
+
+863
+01:18:40,160 --> 01:18:41,149
+Oh, Tuhan!
+
+864
+01:18:52,600 --> 01:18:54,556
+Hawa, aku tahu kau berada di dalam sana!
+Tolong bantu kami!
+
+865
+01:18:54,920 --> 01:18:55,955
+Tolonglah, bantu kami!
+
+866
+01:19:50,360 --> 01:19:51,110
+Press!
+
+867
+01:19:53,280 --> 01:19:54,315
+Bangun! Cepat!
+
+868
+01:19:54,840 --> 01:19:55,477
+Cepat!
+
+869
+01:20:12,400 --> 01:20:13,549
+Kau membunuhnya,
+
+870
+01:20:13,760 --> 01:20:15,910
+Kau menjijikkan!
+
+871
+01:20:16,120 --> 01:20:17,553
+Press, gunakan darah ku! Cepat!
+
+872
+01:20:36,200 --> 01:20:37,110
+Bangun!
+
+873
+01:21:48,840 --> 01:21:50,512
+Kapan kau mulai merokok?
+
+874
+01:21:50,800 --> 01:21:51,755
+Barusan.
+
+875
+01:21:53,080 --> 01:21:55,275
+Aku ingin tahu apakah
+hal ini harus dianalisis.
+
+876
+01:21:55,480 --> 01:21:57,038
+Ya, mungkin harus.
+
+877
+01:21:57,240 --> 01:21:59,993
+Kau mungkin berubah
+menjadi predator seksual.
+
+878
+01:22:00,200 --> 01:22:02,839
+- Ya, aku kira itu mungkin.
+- Aku tidak ada masalah.
+
+879
+01:22:03,040 --> 01:22:04,234
+Apakah ada hambatan?
+
+880
+01:22:14,000 --> 01:22:15,228
+- Baiklah, satu, dua, tiga.
+- Up!
+
+881
+01:22:15,840 --> 01:22:16,716
+- Hati hati.
+- Aku mengerti.
+
+882
+01:22:27,640 --> 01:22:30,712
+Oh, sekarang kalian muncul...
+Setelah kami melakukan semua pekerjaan.
+
+883
+01:22:30,920 --> 01:22:32,399
+Aku ingin bicara dengan jenderal.
+
+884
+01:22:32,600 --> 01:22:33,749
+Tahu apa yang aku katakan?
+
+885
+01:22:34,200 --> 01:22:35,235
+Mr Gamble,
+
+886
+01:22:35,920 --> 01:22:37,717
+Aku ingin kau berbaring untuk ku.
+
+887
+01:22:37,920 --> 01:22:41,390
+- Ya, baiklah.
+- Mudah sekali.
+
+888
+01:22:42,680 --> 01:22:44,079
+Sepertinya kau akan
+baik-baik saja.
+
+889
+01:22:44,920 --> 01:22:45,955
+Aku tidak apa apa, saudaraku.
+
+890
+01:22:46,680 --> 01:22:47,556
+Sampai jumpa.
+
+891
+01:22:50,680 --> 01:22:52,113
+Aku dengar kau mengalami
+hari yang berat.
+
+892
+01:22:54,000 --> 01:22:56,116
+- Oh, aku sangat senang kau ada di sini.
+- Yah.
+
+893
+01:22:56,400 --> 01:22:57,992
+Aku telah membunuh alien
+sepanjang malam.
+
+894
+01:22:58,960 --> 01:23:00,188
+Tahu apa yang aku katakan?
+
+895
+01:24:03,000 --> 01:24:33,000
+<font color="#00ff00"><i>Diterjemahkan oleh<font color="#0000ff"> <b>WoNgKEre</b></font>
+Yogyakarta, May 2013</i></font>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+  <EntityContainer Name="Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Movie" EntityType="Model.Movie" />
+    <EntitySet Name="Subtitle" EntityType="Model.Subtitle" />
+    <EntitySet Name="SubtitleLanguage" EntityType="Model.SubtitleLanguage" />
+    <AssociationSet Name="FK__Subtitle__movieI__09DE7BCC" Association="Model.FK__Subtitle__movieI__09DE7BCC">
+      <End Role="Movie" EntitySet="Movie" />
+      <End Role="Subtitle" EntitySet="Subtitle" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Subtitle__langua__08EA5793" Association="Model.FK__Subtitle__langua__08EA5793">
+      <End Role="SubtitleLanguage" EntitySet="SubtitleLanguage" />
+      <End Role="Subtitle" EntitySet="Subtitle" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Movie">
+    <Key>
+      <PropertyRef Name="movieID" />
+    </Key>
+    <Property Name="movieID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Subtitle" Relationship="Model.FK__Subtitle__movieI__09DE7BCC" FromRole="Movie" ToRole="Subtitle" />
+  </EntityType>
+  <EntityType Name="Subtitle">
+    <Key>
+      <PropertyRef Name="subtitleID" />
+    </Key>
+    <Property Name="subtitleID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="status" Type="Int32" Nullable="false" />
+    <Property Name="movieID" Type="Int32" Nullable="false" />
+    <Property Name="languageID" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="Movie" Relationship="Model.FK__Subtitle__movieI__09DE7BCC" FromRole="Subtitle" ToRole="Movie" />
+    <NavigationProperty Name="SubtitleLanguage" Relationship="Model.FK__Subtitle__langua__08EA5793" FromRole="Subtitle" ToRole="SubtitleLanguage" />
+  </EntityType>
+  <EntityType Name="SubtitleLanguage">
+    <Key>
+      <PropertyRef Name="languageID" />
+    </Key>
+    <Property Name="languageID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" Nullable="false" MaxLength="100" Unicode="false" FixedLength="false" />
+    <NavigationProperty Name="Subtitle" Relationship="Model.FK__Subtitle__langua__08EA5793" FromRole="SubtitleLanguage" ToRole="Subtitle" />
+  </EntityType>
+  <Association Name="FK__Subtitle__movieI__09DE7BCC">
+    <End Role="Movie" Type="Model.Movie" Multiplicity="1" />
+    <End Role="Subtitle" Type="Model.Subtitle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="movieID" />
+      </Principal>
+      <Dependent Role="Subtitle">
+        <PropertyRef Name="movieID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Subtitle__langua__08EA5793">
+    <End Role="SubtitleLanguage" Type="Model.SubtitleLanguage" Multiplicity="1" />
+    <End Role="Subtitle" Type="Model.Subtitle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubtitleLanguage">
+        <PropertyRef Name="languageID" />
+      </Principal>
+      <Dependent Role="Subtitle">
+        <PropertyRef Name="languageID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

@@ -1,0 +1,46 @@
+c:\users\bilalo89\documents\visual studio 2010\Projects\IRHomework\IRHomework\bin\Debug\IRHomework.exe
+c:\users\bilalo89\documents\visual studio 2010\Projects\IRHomework\IRHomework\bin\Debug\IRHomework.pdb
+c:\users\bilalo89\documents\visual studio 2010\Projects\IRHomework\IRHomework\obj\x86\Debug\IRHomework.exe
+c:\users\bilalo89\documents\visual studio 2010\Projects\IRHomework\IRHomework\obj\x86\Debug\IRHomework.pdb
+c:\users\bilalo89\documents\visual studio 2010\Projects\IRHomework\IRHomework\bin\Debug\IRHomework.exe.config
+c:\users\bilalo89\documents\visual studio 2010\Projects\IRHomework\IRHomework\obj\x86\Debug\IRHomework.csprojResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\bin\Debug\IRHomework.exe.config
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\obj\x86\Debug\IRHomework.exe
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\obj\x86\Debug\IRHomework.pdb
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\bin\Debug\IRHomework.exe
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\bin\Debug\IRHomework.pdb
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\bin\Debug\SemWeb.dll
+C:\Users\Bilalo89\Desktop\IRHomework\IRHomework\obj\x86\Debug\IRHomework.csprojResolveAssemblyReference.cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\IRHomework\IRHomework\bin\Debug\IRHomework.exe.config
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\IRHomework\IRHomework\obj\x86\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\IRHomework\IRHomework\obj\x86\Debug\IRHomework.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\IRHomework\IRHomework\bin\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\IRHomework\IRHomework\bin\Debug\IRHomework.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\IRHomework\IRHomework\obj\x86\Debug\IRHomework.csprojResolveAssemblyReference.cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\IRHomework.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\dotNetRDF.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\obj\x86\Debug\IRHomework.csprojResolveAssemblyReference.cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\obj\x86\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\obj\x86\Debug\IRHomework.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\HtmlAgilityPack.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\HtmlAgilityPack.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\Newtonsoft.Json.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\VDS.Common.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\IRHomework.exe.config
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\IRHomework\bin\Debug\VDS.Common.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\IRHomework.exe.config
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\obj\x86\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\obj\x86\Debug\IRHomework.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\IRHomework.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\dotNetRDF.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\HtmlAgilityPack.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\HtmlAgilityPack.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\Newtonsoft.Json.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\VDS.Common.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\bin\Debug\VDS.Common.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C Sharp App\IRHomework\obj\x86\Debug\IRHomework.csprojResolveAssemblyReference.cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App Console\IRHomework\bin\Debug\IRHomework.exe.config
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App Console\IRHomework\obj\x86\Debug\IRHomework.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App Console\IRHomework\obj\x86\Debug\IRHomework.pdb

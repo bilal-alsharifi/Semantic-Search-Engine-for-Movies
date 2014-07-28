@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="VideoTrackDB" Class="MovieTrackDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=PROPC\MSSQLSERVER11;Initial Catalog=VideoTrackDB;Integrated Security=True" SettingsObjectName="MovieTrack.Properties.Settings" SettingsPropertyName="VideoTrackDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Actor" Member="Actors">
+    <Type Name="Actor">
+      <Column Name="actorID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Actor_Movie_Actor" Member="Movie_Actors" ThisKey="actorID" OtherKey="actorID" Type="Movie_Actor" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Genre" Member="Genres">
+    <Type Name="Genre">
+      <Column Name="genreID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Genre_Movie_Genre" Member="Movie_Genres" ThisKey="genreID" OtherKey="genreID" Type="Movie_Genre" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Lang" Member="Langs">
+    <Type Name="Lang">
+      <Column Name="langID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Association Name="Lang_Movie_Lang" Member="Movie_Langs" ThisKey="langID" OtherKey="langID" Type="Movie_Lang" />
+      <Association Name="Lang_Subtitle" Member="Subtitles" ThisKey="langID" OtherKey="langID" Type="Subtitle" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Movie" Member="Movies">
+    <Type Name="Movie">
+      <Column Name="movieID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="imdb_id" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="name" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="year" Type="System.String" DbType="VarChar(4)" CanBeNull="true" />
+      <Column Name="thumbnail" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="video" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Association Name="Movie_Movie_Actor" Member="Movie_Actors" ThisKey="movieID" OtherKey="movieID" Type="Movie_Actor" />
+      <Association Name="Movie_Movie_Genre" Member="Movie_Genres" ThisKey="movieID" OtherKey="movieID" Type="Movie_Genre" />
+      <Association Name="Movie_Movie_Lang" Member="Movie_Langs" ThisKey="movieID" OtherKey="movieID" Type="Movie_Lang" />
+      <Association Name="Movie_Subtitle" Member="Subtitles" ThisKey="movieID" OtherKey="movieID" Type="Subtitle" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Movie_Actor" Member="Movie_Actors">
+    <Type Name="Movie_Actor">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="movieID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="actorID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Actor_Movie_Actor" Member="Actor" ThisKey="actorID" OtherKey="actorID" Type="Actor" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Movie_Movie_Actor" Member="Movie" ThisKey="movieID" OtherKey="movieID" Type="Movie" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Movie_Genre" Member="Movie_Genres">
+    <Type Name="Movie_Genre">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="movieID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="genreID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Genre_Movie_Genre" Member="Genre" ThisKey="genreID" OtherKey="genreID" Type="Genre" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Movie_Movie_Genre" Member="Movie" ThisKey="movieID" OtherKey="movieID" Type="Movie" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Movie_Lang" Member="Movie_Langs">
+    <Type Name="Movie_Lang">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="movieID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="langID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Lang_Movie_Lang" Member="Lang" ThisKey="langID" OtherKey="langID" Type="Lang" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Movie_Movie_Lang" Member="Movie" ThisKey="movieID" OtherKey="movieID" Type="Movie" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Subtitle" Member="Subtitles">
+    <Type Name="Subtitle">
+      <Column Name="subtitleID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="status" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="movieID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="langID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Lang_Subtitle" Member="Lang" ThisKey="langID" OtherKey="langID" Type="Lang" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+      <Association Name="Movie_Subtitle" Member="Movie" ThisKey="movieID" OtherKey="movieID" Type="Movie" IsForeignKey="true" DeleteRule="CASCADE" DeleteOnNull="true" />
+    </Type>
+  </Table>
+</Database>

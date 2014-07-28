@@ -1,0 +1,1967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF [
+	<!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	<!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+]>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/1974TelevisionSeriesDebuts">
+    <ns0:Fighting_in_ice_hockey xmlns:ns0="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns0:Fighting_in_ice_hockey>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/1978TelevisionSeriesEndings">
+    <ns1:Fighting_in_ice_hockey xmlns:ns1="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns1:Fighting_in_ice_hockey>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/1990sSingers">
+    <ns2:be xmlns:ns2="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns2:be>
+    <ns3:different xmlns:ns3="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns3:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/2000sSingers">
+    <ns4:be xmlns:ns4="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns4:be>
+    <ns5:different xmlns:ns5="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns5:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/2010sSingers">
+    <ns6:be xmlns:ns6="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns6:be>
+    <ns7:different xmlns:ns7="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns7:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Actor109765278">
+    <ns8:be xmlns:ns8="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns8:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ActorsFromCalifornia">
+    <ns9:be xmlns:ns9="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns9:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ActorsFromNewYorkCity">
+    <ns10:wait xmlns:ns10="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns10:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ActorsFromTexas">
+    <ns11:be xmlns:ns11="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns11:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AfricanAmericanBasketballPlayers">
+    <ns12:be xmlns:ns12="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns12:be>
+    <ns13:high xmlns:ns13="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns13:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AfricanAmericanFilmActors">
+    <ns14:be xmlns:ns14="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns14:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanActors">
+    <ns15:be xmlns:ns15="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns15:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanAtheists">
+    <ns16:wait xmlns:ns16="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns16:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanBasketballPlayers">
+    <ns17:be xmlns:ns17="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns17:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanChildActors">
+    <ns18:wait xmlns:ns18="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns18:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanChristianMusicalGroups">
+    <ns19:stop xmlns:ns19="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns19:stop>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanDramatistsAndPlaywrights">
+    <ns20:wait xmlns:ns20="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns20:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanEssayists">
+    <ns21:wait xmlns:ns21="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns21:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanExpatriateBasketballPeopleInCanada">
+    <ns22:high xmlns:ns22="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns22:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanExpatriatesInItaly">
+    <ns23:wait xmlns:ns23="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns23:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanExpatriatesInMexico">
+    <ns24:high xmlns:ns24="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns24:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanFemaleSingers">
+    <ns25:be xmlns:ns25="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns25:be>
+    <ns26:different xmlns:ns26="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns26:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanFilmActors">
+    <ns27:be xmlns:ns27="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns27:be>
+    <ns28:wait xmlns:ns28="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns28:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanFilmDirectors">
+    <ns29:be xmlns:ns29="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns29:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanHistoricalNovelists">
+    <ns30:wait xmlns:ns30="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns30:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanHumanists">
+    <ns31:wait xmlns:ns31="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns31:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanNovelists">
+    <ns32:wait xmlns:ns32="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns32:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanPeopleOfIgboDescent">
+    <ns33:be xmlns:ns33="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns33:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanPeopleOfPuErtoRicanDescent">
+    <ns34:wait xmlns:ns34="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns34:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanPoliticalWriters">
+    <ns35:wait xmlns:ns35="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns35:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanRockSingers">
+    <ns36:be xmlns:ns36="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns36:be>
+    <ns37:different xmlns:ns37="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns37:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanScreenwriters">
+    <ns38:wait xmlns:ns38="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns38:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanTaxResisters">
+    <ns39:wait xmlns:ns39="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns39:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanTelevisionActors">
+    <ns40:wait xmlns:ns40="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns40:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanVegetarians">
+    <ns41:be xmlns:ns41="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns41:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ArizonaStateSunDevilsMen'sBasketballPlayers">
+    <ns42:be xmlns:ns42="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns42:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AtheismActivists">
+    <ns43:wait xmlns:ns43="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns43:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BasketballPlayersFromAlabama">
+    <ns44:high xmlns:ns44="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns44:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BasketballPlayersFromCalifornia">
+    <ns45:be xmlns:ns45="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns45:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BasketballTeamsInConnecticut">
+    <ns46:erase xmlns:ns46="http://dummy.org/">memory@00:02:03,040-&gt;00:02:06,670#astrology</ns46:erase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BisexuAlActors">
+    <ns47:wait xmlns:ns47="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns47:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BisexuAlWriters">
+    <ns48:wait xmlns:ns48="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns48:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BostonCelticsPlayers">
+    <ns49:be xmlns:ns49="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns49:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/BritishElectronicMusicGroups">
+    <ns50:be xmlns:ns50="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns50:be>
+    <ns51:be xmlns:ns51="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns51:be>
+    <ns52:full xmlns:ns52="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns52:full>
+    <ns53:full xmlns:ns53="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns53:full>
+    <ns54:full xmlns:ns54="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns54:full>
+    <ns55:full xmlns:ns55="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns55:full>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CaliforniaStatePolytechnicUniversity,PomonaAlumni">
+    <ns56:be xmlns:ns56="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns56:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CanWestPuBlications">
+    <ns57:establish xmlns:ns57="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns57:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CharlotteBobcatsPlayers">
+    <ns58:be xmlns:ns58="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns58:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ClevelandCavaliersPlayers">
+    <ns59:high xmlns:ns59="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns59:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ClouDStandards">
+    <ns60:Report xmlns:ns60="http://dbpedia.org/resource/">me@01:41:51,750-&gt;01:41:53,880#philology</ns60:Report>
+    <ns61:make xmlns:ns61="http://dummy.org/">rest@01:41:17,250-&gt;01:41:20,850#basketball</ns61:make>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CollegeMen'sBasketballPlayersInTheUnitedStates">
+    <ns62:high xmlns:ns62="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns62:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ColumbiaUniversityAlumni">
+    <ns63:be xmlns:ns63="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns63:be>
+    <ns64:be xmlns:ns64="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns64:be>
+    <ns65:be xmlns:ns65="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns65:be>
+    <ns66:be xmlns:ns66="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns66:be>
+    <ns67:be xmlns:ns67="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns67:be>
+    <ns68:be xmlns:ns68="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns68:be>
+    <ns69:be xmlns:ns69="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns69:be>
+    <ns70:be xmlns:ns70="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns70:be>
+    <ns71:be xmlns:ns71="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns71:be>
+    <ns72:be xmlns:ns72="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns72:be>
+    <ns73:be xmlns:ns73="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns73:be>
+    <ns74:book xmlns:ns74="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns74:book>
+    <ns75:bread xmlns:ns75="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns75:bread>
+    <ns76:bread xmlns:ns76="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns76:bread>
+    <ns77:last xmlns:ns77="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns77:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CommandersOfTheOrderOfTheBritishEmpire">
+    <ns78:die xmlns:ns78="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns78:die>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CompaniesDisestablishedIn2003">
+    <ns79:East_Africa_Time xmlns:ns79="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns79:East_Africa_Time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CompaniesEstablishedIn1945">
+    <ns80:Wii xmlns:ns80="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns80:Wii>
+    <ns81:acquaint xmlns:ns81="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns81:acquaint>
+    <ns82:be xmlns:ns82="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns82:be>
+    <ns83:be xmlns:ns83="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns83:be>
+    <ns84:be xmlns:ns84="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns84:be>
+    <ns85:want xmlns:ns85="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns85:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CompaniesEstablishedIn1991">
+    <ns86:East_Africa_Time xmlns:ns86="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns86:East_Africa_Time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange">
+    <ns87:Wii xmlns:ns87="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns87:Wii>
+    <ns88:acquaint xmlns:ns88="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns88:acquaint>
+    <ns89:be xmlns:ns89="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns89:be>
+    <ns90:be xmlns:ns90="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns90:be>
+    <ns91:be xmlns:ns91="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns91:be>
+    <ns92:want xmlns:ns92="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns92:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Company108058098">
+    <ns93:Wii xmlns:ns93="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns93:Wii>
+    <ns94:acquaint xmlns:ns94="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns94:acquaint>
+    <ns95:be xmlns:ns95="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns95:be>
+    <ns96:be xmlns:ns96="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns96:be>
+    <ns97:be xmlns:ns97="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns97:be>
+    <ns98:want xmlns:ns98="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns98:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ComputerKeys">
+    <ns99:Open-source_software xmlns:ns99="http://dbpedia.org/resource/">portal@00:23:09,340-&gt;00:23:19,300#dentistry</ns99:Open-source_software>
+    <ns100:open xmlns:ns100="http://dummy.org/">world@00:23:09,340-&gt;00:23:19,300#astronomy</ns100:open>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ConceptionsOfGod">
+    <ns101:send xmlns:ns101="http://dummy.org/">message@01:25:49,890-&gt;01:25:52,890#telegraphy</ns101:send>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ConspiracyTheorists">
+    <ns102:wait xmlns:ns102="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns102:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CurrentNationalLeaders">
+    <ns103:be xmlns:ns103="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns103:be>
+    <ns104:be xmlns:ns104="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns104:be>
+    <ns105:be xmlns:ns105="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns105:be>
+    <ns106:be xmlns:ns106="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns106:be>
+    <ns107:be xmlns:ns107="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns107:be>
+    <ns108:be xmlns:ns108="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns108:be>
+    <ns109:be xmlns:ns109="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns109:be>
+    <ns110:be xmlns:ns110="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns110:be>
+    <ns111:be xmlns:ns111="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns111:be>
+    <ns112:be xmlns:ns112="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns112:be>
+    <ns113:be xmlns:ns113="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns113:be>
+    <ns114:book xmlns:ns114="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns114:book>
+    <ns115:bread xmlns:ns115="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns115:bread>
+    <ns116:bread xmlns:ns116="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns116:bread>
+    <ns117:last xmlns:ns117="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns117:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/DefunctVideoGameCompanies">
+    <ns118:East_Africa_Time xmlns:ns118="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns118:East_Africa_Time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Director110014939">
+    <ns119:be xmlns:ns119="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns119:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Dramatist110030277">
+    <ns120:wait xmlns:ns120="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns120:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/English-languAgeFilmDirectors">
+    <ns121:be xmlns:ns121="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns121:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/EnglishMusicalGroups">
+    <ns122:be xmlns:ns122="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns122:be>
+    <ns123:be xmlns:ns123="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns123:be>
+    <ns124:full xmlns:ns124="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns124:full>
+    <ns125:full xmlns:ns125="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns125:full>
+    <ns126:full xmlns:ns126="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns126:full>
+    <ns127:full xmlns:ns127="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns127:full>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Essayist110064405">
+    <ns128:wait xmlns:ns128="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns128:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/EstonianDiplomats">
+    <ns129:be xmlns:ns129="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns129:be>
+    <ns130:be xmlns:ns130="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns130:be>
+    <ns131:be xmlns:ns131="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns131:be>
+    <ns132:be xmlns:ns132="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns132:be>
+    <ns133:be xmlns:ns133="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns133:be>
+    <ns134:be xmlns:ns134="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns134:be>
+    <ns135:be xmlns:ns135="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns135:be>
+    <ns136:be xmlns:ns136="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns136:be>
+    <ns137:be xmlns:ns137="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns137:be>
+    <ns138:be xmlns:ns138="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns138:be>
+    <ns139:be xmlns:ns139="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns139:be>
+    <ns140:book xmlns:ns140="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns140:book>
+    <ns141:bread xmlns:ns141="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns141:bread>
+    <ns142:bread xmlns:ns142="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns142:bread>
+    <ns143:last xmlns:ns143="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns143:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/EstonianJournalists">
+    <ns144:be xmlns:ns144="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns144:be>
+    <ns145:be xmlns:ns145="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns145:be>
+    <ns146:be xmlns:ns146="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns146:be>
+    <ns147:be xmlns:ns147="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns147:be>
+    <ns148:be xmlns:ns148="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns148:be>
+    <ns149:be xmlns:ns149="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns149:be>
+    <ns150:be xmlns:ns150="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns150:be>
+    <ns151:be xmlns:ns151="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns151:be>
+    <ns152:be xmlns:ns152="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns152:be>
+    <ns153:be xmlns:ns153="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns153:be>
+    <ns154:be xmlns:ns154="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns154:be>
+    <ns155:book xmlns:ns155="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns155:book>
+    <ns156:bread xmlns:ns156="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns156:bread>
+    <ns157:bread xmlns:ns157="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns157:bread>
+    <ns158:last xmlns:ns158="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns158:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/FemaleMetalSingers">
+    <ns159:be xmlns:ns159="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns159:be>
+    <ns160:different xmlns:ns160="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns160:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/FemaleRockSingers">
+    <ns161:be xmlns:ns161="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns161:be>
+    <ns162:different xmlns:ns162="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns162:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/FinancialServicesCompaniesBasedInLondon">
+    <ns163:Wii xmlns:ns163="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns163:Wii>
+    <ns164:acquaint xmlns:ns164="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns164:acquaint>
+    <ns165:be xmlns:ns165="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns165:be>
+    <ns166:be xmlns:ns166="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns166:be>
+    <ns167:be xmlns:ns167="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns167:be>
+    <ns168:want xmlns:ns168="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns168:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/FinancialServicesCompaniesOfTheUnitedKingdom">
+    <ns169:Wii xmlns:ns169="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns169:Wii>
+    <ns170:acquaint xmlns:ns170="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns170:acquaint>
+    <ns171:be xmlns:ns171="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns171:be>
+    <ns172:be xmlns:ns172="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns172:be>
+    <ns173:be xmlns:ns173="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns173:be>
+    <ns174:want xmlns:ns174="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns174:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/GovernmentMinistersOfEstonia">
+    <ns175:be xmlns:ns175="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns175:be>
+    <ns176:be xmlns:ns176="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns176:be>
+    <ns177:be xmlns:ns177="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns177:be>
+    <ns178:be xmlns:ns178="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns178:be>
+    <ns179:be xmlns:ns179="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns179:be>
+    <ns180:be xmlns:ns180="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns180:be>
+    <ns181:be xmlns:ns181="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns181:be>
+    <ns182:be xmlns:ns182="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns182:be>
+    <ns183:be xmlns:ns183="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns183:be>
+    <ns184:be xmlns:ns184="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns184:be>
+    <ns185:be xmlns:ns185="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns185:be>
+    <ns186:book xmlns:ns186="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns186:book>
+    <ns187:bread xmlns:ns187="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns187:bread>
+    <ns188:bread xmlns:ns188="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns188:bread>
+    <ns189:last xmlns:ns189="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns189:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Hairdressers">
+    <ns190:die xmlns:ns190="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns190:die>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/HarlemGlobetrottersPlayers">
+    <ns191:high xmlns:ns191="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns191:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/HarvardUniversityAlumni">
+    <ns192:Interest_rate xmlns:ns192="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns192:Interest_rate>
+    <ns193:be xmlns:ns193="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns193:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/HolidayCharacters">
+    <ns194:be xmlns:ns194="http://dummy.org/">man@00:15:51,070-&gt;00:15:53,470#sexuality</ns194:be>
+    <ns195:die xmlns:ns195="http://dummy.org/">war@00:08:39,500-&gt;00:08:42,830#biochemistry</ns195:die>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Isotope114619658">
+    <ns196:Drawing xmlns:ns196="http://dbpedia.org/resource/">breath@00:02:32,000-&gt;00:02:35,530#physiology</ns196:Drawing>
+    <ns197:Leave_of_absence xmlns:ns197="http://dbpedia.org/resource/">impression@00:42:14,180-&gt;00:42:17,150#theology</ns197:Leave_of_absence>
+    <ns198:Smash_Records xmlns:ns198="http://dbpedia.org/resource/">rock@00:42:23,990-&gt;00:42:25,650#paleontology</ns198:Smash_Records>
+    <ns199:Smash_Records xmlns:ns199="http://dbpedia.org/resource/">watch@00:42:23,990-&gt;00:42:25,650#engineering</ns199:Smash_Records>
+    <ns200:be xmlns:ns200="http://dummy.org/">old@00:29:31,250-&gt;00:29:35,210#paleontology</ns200:be>
+    <ns201:be xmlns:ns201="http://dummy.org/">s@00:05:02,350-&gt;00:05:04,790#acoustics</ns201:be>
+    <ns202:be xmlns:ns202="http://dummy.org/">us@00:05:02,350-&gt;00:05:04,790#acoustics</ns202:be>
+    <ns203:cause xmlns:ns203="http://dummy.org/">you@01:45:35,880-&gt;01:45:40,470#sexuality</ns203:cause>
+    <ns204:know xmlns:ns204="http://dummy.org/">name@01:47:50,650-&gt;01:47:52,410#psychology</ns204:know>
+    <ns205:like xmlns:ns205="http://dummy.org/">coffee@00:25:54,440-&gt;00:25:56,900#food</ns205:like>
+    <ns206:own xmlns:ns206="http://dummy.org/">watch@00:42:34,870-&gt;00:42:37,390#engineering</ns206:own>
+    <ns207:s xmlns:ns207="http://dummy.org/">father@00:08:35,760-&gt;00:08:36,890#mythology</ns207:s>
+    <ns208:s xmlns:ns208="http://dummy.org/">father@00:08:42,970-&gt;00:08:44,300#mythology</ns208:s>
+    <ns209:s xmlns:ns209="http://dummy.org/">nothing@00:25:54,440-&gt;00:25:56,900#acoustics</ns209:s>
+    <ns210:smell xmlns:ns210="http://dummy.org/">earth@00:29:31,250-&gt;00:29:35,210#astronomy</ns210:smell>
+    <ns211:tell xmlns:ns211="http://dummy.org/">me@01:22:22,320-&gt;01:22:25,020#book_keeping</ns211:tell>
+    <ns212:wait xmlns:ns212="http://dummy.org/">her@00:02:32,000-&gt;00:02:35,530#food</ns212:wait>
+    <ns213:wait xmlns:ns213="http://dummy.org/">s@01:50:39,210-&gt;01:50:41,410#food</ns213:wait>
+    <ns214:wait xmlns:ns214="http://dummy.org/">you@01:50:39,210-&gt;01:50:41,410#food</ns214:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/IsotopesOfHelium">
+    <ns215:Drawing xmlns:ns215="http://dbpedia.org/resource/">breath@00:02:32,000-&gt;00:02:35,530#physiology</ns215:Drawing>
+    <ns216:Leave_of_absence xmlns:ns216="http://dbpedia.org/resource/">impression@00:42:14,180-&gt;00:42:17,150#theology</ns216:Leave_of_absence>
+    <ns217:Smash_Records xmlns:ns217="http://dbpedia.org/resource/">rock@00:42:23,990-&gt;00:42:25,650#paleontology</ns217:Smash_Records>
+    <ns218:Smash_Records xmlns:ns218="http://dbpedia.org/resource/">watch@00:42:23,990-&gt;00:42:25,650#engineering</ns218:Smash_Records>
+    <ns219:be xmlns:ns219="http://dummy.org/">old@00:29:31,250-&gt;00:29:35,210#paleontology</ns219:be>
+    <ns220:be xmlns:ns220="http://dummy.org/">s@00:05:02,350-&gt;00:05:04,790#acoustics</ns220:be>
+    <ns221:be xmlns:ns221="http://dummy.org/">us@00:05:02,350-&gt;00:05:04,790#acoustics</ns221:be>
+    <ns222:cause xmlns:ns222="http://dummy.org/">you@01:45:35,880-&gt;01:45:40,470#sexuality</ns222:cause>
+    <ns223:know xmlns:ns223="http://dummy.org/">name@01:47:50,650-&gt;01:47:52,410#psychology</ns223:know>
+    <ns224:like xmlns:ns224="http://dummy.org/">coffee@00:25:54,440-&gt;00:25:56,900#food</ns224:like>
+    <ns225:own xmlns:ns225="http://dummy.org/">watch@00:42:34,870-&gt;00:42:37,390#engineering</ns225:own>
+    <ns226:s xmlns:ns226="http://dummy.org/">father@00:08:35,760-&gt;00:08:36,890#mythology</ns226:s>
+    <ns227:s xmlns:ns227="http://dummy.org/">father@00:08:42,970-&gt;00:08:44,300#mythology</ns227:s>
+    <ns228:s xmlns:ns228="http://dummy.org/">nothing@00:25:54,440-&gt;00:25:56,900#acoustics</ns228:s>
+    <ns229:smell xmlns:ns229="http://dummy.org/">earth@00:29:31,250-&gt;00:29:35,210#astronomy</ns229:smell>
+    <ns230:tell xmlns:ns230="http://dummy.org/">me@01:22:22,320-&gt;01:22:25,020#book_keeping</ns230:tell>
+    <ns231:wait xmlns:ns231="http://dummy.org/">her@00:02:32,000-&gt;00:02:35,530#food</ns231:wait>
+    <ns232:wait xmlns:ns232="http://dummy.org/">s@01:50:39,210-&gt;01:50:41,410#food</ns232:wait>
+    <ns233:wait xmlns:ns233="http://dummy.org/">you@01:50:39,210-&gt;01:50:41,410#food</ns233:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/JewishMusicians">
+    <ns234:be xmlns:ns234="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns234:be>
+    <ns235:different xmlns:ns235="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns235:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Journalist110224578">
+    <ns236:wait xmlns:ns236="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns236:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/JuDEo-ChristianTopics">
+    <ns237:be xmlns:ns237="http://dummy.org/">tailor@00:08:39,500-&gt;00:08:42,830#mythology</ns237:be>
+    <ns238:be xmlns:ns238="http://dummy.org/">tailor@00:22:55,860-&gt;00:22:57,590#mythology</ns238:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/JuniorCollegeMen'sBasketballPlayersInTheUnitedStates">
+    <ns239:high xmlns:ns239="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns239:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/LGBTScreenwriters">
+    <ns240:wait xmlns:ns240="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns240:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/LGBTWritersFromTheUnitedStates">
+    <ns241:wait xmlns:ns241="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns241:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/LivingPeople">
+    <ns242:be xmlns:ns242="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns242:be>
+    <ns243:be xmlns:ns243="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns243:be>
+    <ns244:be xmlns:ns244="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns244:be>
+    <ns245:be xmlns:ns245="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns245:be>
+    <ns246:be xmlns:ns246="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns246:be>
+    <ns247:be xmlns:ns247="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns247:be>
+    <ns248:be xmlns:ns248="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns248:be>
+    <ns249:be xmlns:ns249="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns249:be>
+    <ns250:be xmlns:ns250="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns250:be>
+    <ns251:be xmlns:ns251="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns251:be>
+    <ns252:be xmlns:ns252="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns252:be>
+    <ns253:be xmlns:ns253="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns253:be>
+    <ns254:be xmlns:ns254="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns254:be>
+    <ns255:be xmlns:ns255="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns255:be>
+    <ns256:book xmlns:ns256="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns256:book>
+    <ns257:bread xmlns:ns257="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns257:bread>
+    <ns258:bread xmlns:ns258="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns258:bread>
+    <ns259:die xmlns:ns259="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns259:die>
+    <ns260:different xmlns:ns260="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns260:different>
+    <ns261:high xmlns:ns261="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns261:high>
+    <ns262:last xmlns:ns262="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns262:last>
+    <ns263:wait xmlns:ns263="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns263:wait>
+    <ns264:wait xmlns:ns264="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns264:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/LosAngelesClippersPlayers">
+    <ns265:be xmlns:ns265="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns265:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ManuFACturer110292316">
+    <ns266:be xmlns:ns266="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns266:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/MiamiHeatPlayers">
+    <ns267:be xmlns:ns267="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns267:be>
+    <ns268:high xmlns:ns268="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns268:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/MilitaryBrats">
+    <ns269:wait xmlns:ns269="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns269:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/MilwaukeeBuCksPlayers">
+    <ns270:be xmlns:ns270="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns270:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/MusicalGroupsEstablishedIn1981">
+    <ns271:be xmlns:ns271="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns271:be>
+    <ns272:be xmlns:ns272="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns272:be>
+    <ns273:full xmlns:ns273="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns273:full>
+    <ns274:full xmlns:ns274="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns274:full>
+    <ns275:full xmlns:ns275="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns275:full>
+    <ns276:full xmlns:ns276="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns276:full>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Musician110340312">
+    <ns277:be xmlns:ns277="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns277:be>
+    <ns278:different xmlns:ns278="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns278:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NationalExpressGroupCompanies">
+    <ns279:Rationing xmlns:ns279="http://dbpedia.org/resource/">card@00:39:06,830-&gt;00:39:10,130#card</ns279:Rationing>
+    <ns280:Wound xmlns:ns280="http://dbpedia.org/resource/">be@00:39:21,570-&gt;00:39:25,440#earth</ns280:Wound>
+    <ns281:s xmlns:ns281="http://dummy.org/">alive@01:11:32,870-&gt;01:11:35,530#physiology</ns281:s>
+    <ns282:s xmlns:ns282="http://dummy.org/">son@00:15:49,160-&gt;00:15:50,990#archery</ns282:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NationalNewspapersPuBlishedInCanada">
+    <ns283:establish xmlns:ns283="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns283:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NewJerseyNetsPlayers">
+    <ns284:be xmlns:ns284="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns284:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NewYorkKnicksPlayers">
+    <ns285:be xmlns:ns285="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns285:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NewspaperCompaniesOfCanada">
+    <ns286:Blindness xmlns:ns286="http://dbpedia.org/resource/">her@00:02:03,040-&gt;00:02:06,670#astrology</ns286:Blindness>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NewspapersPuBlishedInToronto">
+    <ns287:establish xmlns:ns287="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns287:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NuClearFusionFuEls">
+    <ns288:Drawing xmlns:ns288="http://dbpedia.org/resource/">breath@00:02:32,000-&gt;00:02:35,530#physiology</ns288:Drawing>
+    <ns289:Leave_of_absence xmlns:ns289="http://dbpedia.org/resource/">impression@00:42:14,180-&gt;00:42:17,150#theology</ns289:Leave_of_absence>
+    <ns290:Smash_Records xmlns:ns290="http://dbpedia.org/resource/">rock@00:42:23,990-&gt;00:42:25,650#paleontology</ns290:Smash_Records>
+    <ns291:Smash_Records xmlns:ns291="http://dbpedia.org/resource/">watch@00:42:23,990-&gt;00:42:25,650#engineering</ns291:Smash_Records>
+    <ns292:be xmlns:ns292="http://dummy.org/">old@00:29:31,250-&gt;00:29:35,210#paleontology</ns292:be>
+    <ns293:be xmlns:ns293="http://dummy.org/">s@00:05:02,350-&gt;00:05:04,790#acoustics</ns293:be>
+    <ns294:be xmlns:ns294="http://dummy.org/">us@00:05:02,350-&gt;00:05:04,790#acoustics</ns294:be>
+    <ns295:cause xmlns:ns295="http://dummy.org/">you@01:45:35,880-&gt;01:45:40,470#sexuality</ns295:cause>
+    <ns296:know xmlns:ns296="http://dummy.org/">name@01:47:50,650-&gt;01:47:52,410#psychology</ns296:know>
+    <ns297:like xmlns:ns297="http://dummy.org/">coffee@00:25:54,440-&gt;00:25:56,900#food</ns297:like>
+    <ns298:own xmlns:ns298="http://dummy.org/">watch@00:42:34,870-&gt;00:42:37,390#engineering</ns298:own>
+    <ns299:s xmlns:ns299="http://dummy.org/">father@00:08:35,760-&gt;00:08:36,890#mythology</ns299:s>
+    <ns300:s xmlns:ns300="http://dummy.org/">father@00:08:42,970-&gt;00:08:44,300#mythology</ns300:s>
+    <ns301:s xmlns:ns301="http://dummy.org/">nothing@00:25:54,440-&gt;00:25:56,900#acoustics</ns301:s>
+    <ns302:smell xmlns:ns302="http://dummy.org/">earth@00:29:31,250-&gt;00:29:35,210#astronomy</ns302:smell>
+    <ns303:tell xmlns:ns303="http://dummy.org/">me@01:22:22,320-&gt;01:22:25,020#book_keeping</ns303:tell>
+    <ns304:wait xmlns:ns304="http://dummy.org/">her@00:02:32,000-&gt;00:02:35,530#food</ns304:wait>
+    <ns305:wait xmlns:ns305="http://dummy.org/">s@01:50:39,210-&gt;01:50:41,410#food</ns305:wait>
+    <ns306:wait xmlns:ns306="http://dummy.org/">you@01:50:39,210-&gt;01:50:41,410#food</ns306:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromBerkeley,California">
+    <ns307:be xmlns:ns307="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns307:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromCoosaCounty,Alabama">
+    <ns308:high xmlns:ns308="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns308:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromEssexCounty,Massachusetts">
+    <ns309:Interest_rate xmlns:ns309="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns309:Interest_rate>
+    <ns310:be xmlns:ns310="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns310:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromHammersmith">
+    <ns311:die xmlns:ns311="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns311:die>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromLongview,Texas">
+    <ns312:be xmlns:ns312="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns312:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromLosAngeles,California">
+    <ns313:wait xmlns:ns313="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns313:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromOrangeCounty,NewYork">
+    <ns314:wait xmlns:ns314="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns314:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromQuEEns">
+    <ns315:wait xmlns:ns315="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns315:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromStockholm">
+    <ns316:be xmlns:ns316="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns316:be>
+    <ns317:be xmlns:ns317="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns317:be>
+    <ns318:be xmlns:ns318="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns318:be>
+    <ns319:be xmlns:ns319="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns319:be>
+    <ns320:be xmlns:ns320="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns320:be>
+    <ns321:be xmlns:ns321="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns321:be>
+    <ns322:be xmlns:ns322="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns322:be>
+    <ns323:be xmlns:ns323="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns323:be>
+    <ns324:be xmlns:ns324="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns324:be>
+    <ns325:be xmlns:ns325="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns325:be>
+    <ns326:be xmlns:ns326="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns326:be>
+    <ns327:book xmlns:ns327="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns327:book>
+    <ns328:bread xmlns:ns328="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns328:bread>
+    <ns329:bread xmlns:ns329="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns329:bread>
+    <ns330:last xmlns:ns330="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns330:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PeopleFromSuFFolkCounty,NewYork">
+    <ns331:be xmlns:ns331="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns331:be>
+    <ns332:different xmlns:ns332="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns332:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Person100007846">
+    <ns333:Interest_rate xmlns:ns333="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns333:Interest_rate>
+    <ns334:be xmlns:ns334="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns334:be>
+    <ns335:be xmlns:ns335="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns335:be>
+    <ns336:be xmlns:ns336="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns336:be>
+    <ns337:be xmlns:ns337="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns337:be>
+    <ns338:be xmlns:ns338="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns338:be>
+    <ns339:be xmlns:ns339="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns339:be>
+    <ns340:be xmlns:ns340="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns340:be>
+    <ns341:be xmlns:ns341="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns341:be>
+    <ns342:be xmlns:ns342="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns342:be>
+    <ns343:be xmlns:ns343="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns343:be>
+    <ns344:be xmlns:ns344="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns344:be>
+    <ns345:be xmlns:ns345="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns345:be>
+    <ns346:be xmlns:ns346="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns346:be>
+    <ns347:be xmlns:ns347="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns347:be>
+    <ns348:be xmlns:ns348="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns348:be>
+    <ns349:book xmlns:ns349="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns349:book>
+    <ns350:bread xmlns:ns350="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns350:bread>
+    <ns351:bread xmlns:ns351="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns351:bread>
+    <ns352:die xmlns:ns352="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns352:die>
+    <ns353:different xmlns:ns353="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns353:different>
+    <ns354:high xmlns:ns354="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns354:high>
+    <ns355:last xmlns:ns355="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns355:last>
+    <ns356:wait xmlns:ns356="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns356:wait>
+    <ns357:wait xmlns:ns357="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns357:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PhillipsExeterAcademyAlumni">
+    <ns358:wait xmlns:ns358="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns358:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PhoenixSunsPlayers">
+    <ns359:be xmlns:ns359="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns359:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PointGuArds">
+    <ns360:be xmlns:ns360="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns360:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PresidentsOfEstonia">
+    <ns361:be xmlns:ns361="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns361:be>
+    <ns362:be xmlns:ns362="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns362:be>
+    <ns363:be xmlns:ns363="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns363:be>
+    <ns364:be xmlns:ns364="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns364:be>
+    <ns365:be xmlns:ns365="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns365:be>
+    <ns366:be xmlns:ns366="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns366:be>
+    <ns367:be xmlns:ns367="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns367:be>
+    <ns368:be xmlns:ns368="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns368:be>
+    <ns369:be xmlns:ns369="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns369:be>
+    <ns370:be xmlns:ns370="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns370:be>
+    <ns371:be xmlns:ns371="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns371:be>
+    <ns372:book xmlns:ns372="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns372:book>
+    <ns373:bread xmlns:ns373="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns373:bread>
+    <ns374:bread xmlns:ns374="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns374:bread>
+    <ns375:last xmlns:ns375="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns375:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PrivateEquityFirms">
+    <ns376:Wii xmlns:ns376="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns376:Wii>
+    <ns377:acquaint xmlns:ns377="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns377:acquaint>
+    <ns378:be xmlns:ns378="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns378:be>
+    <ns379:be xmlns:ns379="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns379:be>
+    <ns380:be xmlns:ns380="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns380:be>
+    <ns381:want xmlns:ns381="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns381:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PuBlicationsEstablishedIn1998">
+    <ns382:establish xmlns:ns382="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns382:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PuErtoRicanActors">
+    <ns383:wait xmlns:ns383="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns383:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/RadioFormats">
+    <ns384:be xmlns:ns384="http://dummy.org/">reaffirm@01:26:29,070-&gt;01:26:33,330#religion</ns384:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/RailwayOperatorsInLondon">
+    <ns385:Rationing xmlns:ns385="http://dbpedia.org/resource/">card@00:39:06,830-&gt;00:39:10,130#card</ns385:Rationing>
+    <ns386:Wound xmlns:ns386="http://dbpedia.org/resource/">be@00:39:21,570-&gt;00:39:25,440#earth</ns386:Wound>
+    <ns387:s xmlns:ns387="http://dummy.org/">alive@01:11:32,870-&gt;01:11:35,530#physiology</ns387:s>
+    <ns388:s xmlns:ns388="http://dummy.org/">son@00:15:49,160-&gt;00:15:50,990#archery</ns388:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/SacramentoKingsPlayers">
+    <ns389:be xmlns:ns389="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns389:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/ShootingGuArds">
+    <ns390:be xmlns:ns390="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns390:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/SmallForwards">
+    <ns391:high xmlns:ns391="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns391:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/SocialDemocraticParty(Estonia)Politicians">
+    <ns392:be xmlns:ns392="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns392:be>
+    <ns393:be xmlns:ns393="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns393:be>
+    <ns394:be xmlns:ns394="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns394:be>
+    <ns395:be xmlns:ns395="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns395:be>
+    <ns396:be xmlns:ns396="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns396:be>
+    <ns397:be xmlns:ns397="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns397:be>
+    <ns398:be xmlns:ns398="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns398:be>
+    <ns399:be xmlns:ns399="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns399:be>
+    <ns400:be xmlns:ns400="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns400:be>
+    <ns401:be xmlns:ns401="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns401:be>
+    <ns402:be xmlns:ns402="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns402:be>
+    <ns403:book xmlns:ns403="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns403:book>
+    <ns404:bread xmlns:ns404="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns404:bread>
+    <ns405:bread xmlns:ns405="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns405:bread>
+    <ns406:last xmlns:ns406="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns406:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/SpeechImpediments">
+    <ns407:Leet xmlns:ns407="http://dbpedia.org/resource/">informer@01:27:04,770-&gt;01:27:08,400#acoustics</ns407:Leet>
+    <ns408:Leet xmlns:ns408="http://dbpedia.org/resource/">mill@01:27:04,770-&gt;01:27:08,400#acoustics</ns408:Leet>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/SportsCluBsEstablishedIn1999">
+    <ns409:erase xmlns:ns409="http://dummy.org/">memory@00:02:03,040-&gt;00:02:06,670#astrology</ns409:erase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/TelecincoNetworkShows">
+    <ns410:Wound xmlns:ns410="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns410:Wound>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/TelevisionProgramsBasedOnNovels">
+    <ns411:Fighting_in_ice_hockey xmlns:ns411="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns411:Fighting_in_ice_hockey>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/TorontoRaptorsPlayers">
+    <ns412:high xmlns:ns412="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns412:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/UndraftedNationalBasketballAssociationPlayers">
+    <ns413:high xmlns:ns413="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns413:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/UnitedStatesArmySoldiers">
+    <ns414:wait xmlns:ns414="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns414:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/UnitedStatesFederalJuDgesAppointedByJamesMadison">
+    <ns415:Interest_rate xmlns:ns415="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns415:Interest_rate>
+    <ns416:be xmlns:ns416="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns416:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/VideoFormats">
+    <ns417:Brown_Eyed_Girls xmlns:ns417="http://dbpedia.org/resource/">you@00:21:55,300-&gt;00:21:57,320#post</ns417:Brown_Eyed_Girls>
+    <ns418:Craps xmlns:ns418="http://dbpedia.org/resource/">you@01:29:34,820-&gt;01:29:37,840#bowling</ns418:Craps>
+    <ns419:Talk_Talk xmlns:ns419="http://dbpedia.org/resource/">her@01:22:12,880-&gt;01:22:16,940#psychiatry</ns419:Talk_Talk>
+    <ns420:Wii xmlns:ns420="http://dbpedia.org/resource/">monster@01:27:31,160-&gt;01:27:32,750#mythology</ns420:Wii>
+    <ns421:acquaint xmlns:ns421="http://dummy.org/">be@00:42:04,700-&gt;00:42:06,900#acoustics</ns421:acquaint>
+    <ns422:afraid xmlns:ns422="http://dummy.org/">you@00:35:46,860-&gt;00:35:48,330#psychological_features</ns422:afraid>
+    <ns423:be xmlns:ns423="http://dummy.org/">able@01:14:29,910-&gt;01:14:32,350#basketball</ns423:be>
+    <ns424:be xmlns:ns424="http://dummy.org/">damn@01:31:57,930-&gt;01:32:02,590#acoustics</ns424:be>
+    <ns425:be xmlns:ns425="http://dummy.org/">faun@00:22:38,640-&gt;00:22:41,440#mythology</ns425:be>
+    <ns426:be xmlns:ns426="http://dummy.org/">long@00:12:39,410-&gt;00:12:41,740#acoustics</ns426:be>
+    <ns427:be xmlns:ns427="http://dummy.org/">me@01:35:08,490-&gt;01:35:09,680#acoustics</ns427:be>
+    <ns428:be xmlns:ns428="http://dummy.org/">mountain@00:22:26,230-&gt;00:22:33,070#mountaineering</ns428:be>
+    <ns429:believe xmlns:ns429="http://dummy.org/">anything@01:14:55,610-&gt;01:14:58,040#religion</ns429:believe>
+    <ns430:bring xmlns:ns430="http://dummy.org/">liquor@01:27:46,380-&gt;01:27:49,280#food</ns430:bring>
+    <ns431:bring xmlns:ns431="http://dummy.org/">orujo@00:53:44,540-&gt;00:53:49,500#post</ns431:bring>
+    <ns432:bring xmlns:ns432="http://dummy.org/">tool@01:14:21,810-&gt;01:14:25,170#archaeology</ns432:bring>
+    <ns433:ca xmlns:ns433="http://dummy.org/">child@01:29:34,820-&gt;01:29:37,840#psychoanalysis</ns433:ca>
+    <ns434:get xmlns:ns434="http://dummy.org/">key@00:43:22,650-&gt;00:43:24,080#banking</ns434:get>
+    <ns435:get xmlns:ns435="http://dummy.org/">key@00:44:25,510-&gt;00:44:27,310#banking</ns435:get>
+    <ns436:give xmlns:ns436="http://dummy.org/">this@01:31:17,550-&gt;01:31:20,320#acoustics</ns436:give>
+    <ns437:give xmlns:ns437="http://dummy.org/">you@01:31:17,550-&gt;01:31:20,320#acoustics</ns437:give>
+    <ns438:go xmlns:ns438="http://dummy.org/">hunt@00:16:32,070-&gt;00:16:35,840#art</ns438:go>
+    <ns439:go xmlns:ns439="http://dummy.org/">wood@00:16:32,070-&gt;00:16:35,840#sculpture</ns439:go>
+    <ns440:go xmlns:ns440="http://dummy.org/">wood@00:40:22,470-&gt;00:40:25,270#sculpture</ns440:go>
+    <ns441:have xmlns:ns441="http://dummy.org/">copy@01:28:06,300-&gt;01:28:08,630#drawing</ns441:have>
+    <ns442:have xmlns:ns442="http://dummy.org/">idea@00:42:08,070-&gt;00:42:09,540#psychoanalysis</ns442:have>
+    <ns443:have xmlns:ns443="http://dummy.org/">name@00:22:15,380-&gt;00:22:17,850#acoustics</ns443:have>
+    <ns444:have xmlns:ns444="http://dummy.org/">one@00:49:00,250-&gt;00:49:03,420#acoustics</ns444:have>
+    <ns445:hear xmlns:ns445="http://dummy.org/">something@01:30:04,010-&gt;01:30:05,310#acoustics</ns445:hear>
+    <ns446:jump xmlns:ns446="http://dummy.org/">time@01:08:07,800-&gt;01:08:10,230#boxing</ns446:jump>
+    <ns447:know xmlns:ns447="http://dummy.org/">him@00:42:14,180-&gt;00:42:17,150#psychology</ns447:know>
+    <ns448:m xmlns:ns448="http://dummy.org/">afraid@00:35:46,860-&gt;00:35:48,330#psychological_features</ns448:m>
+    <ns449:m xmlns:ns449="http://dummy.org/">coward@01:03:16,040-&gt;01:03:17,170#person</ns449:m>
+    <ns450:m xmlns:ns450="http://dummy.org/">glad@00:44:41,160-&gt;00:44:42,420#psychological_features</ns450:m>
+    <ns451:m xmlns:ns451="http://dummy.org/">glad@01:13:26,950-&gt;01:13:29,350#psychological_features</ns451:m>
+    <ns452:m xmlns:ns452="http://dummy.org/">sorry@00:10:43,160-&gt;00:10:44,150#quality</ns452:m>
+    <ns453:m xmlns:ns453="http://dummy.org/">sorry@01:19:04,890-&gt;01:19:08,330#quality</ns453:m>
+    <ns454:m xmlns:ns454="http://dummy.org/">sorry@01:19:09,060-&gt;01:19:10,650#quality</ns454:m>
+    <ns455:m xmlns:ns455="http://dummy.org/">sure@00:13:03,330-&gt;00:13:05,030#psychology</ns455:m>
+    <ns456:m xmlns:ns456="http://dummy.org/">sure@00:39:14,970-&gt;00:39:16,770#psychology</ns456:m>
+    <ns457:m xmlns:ns457="http://dummy.org/">you@00:12:42,340-&gt;00:12:45,470#acoustics</ns457:m>
+    <ns458:make xmlns:ns458="http://dummy.org/">you@00:26:40,880-&gt;00:26:43,710#tax</ns458:make>
+    <ns459:need xmlns:ns459="http://dummy.org/">it@01:13:21,580-&gt;01:13:23,380#philology</ns459:need>
+    <ns460:promise xmlns:ns460="http://dummy.org/">prince@01:07:32,760-&gt;01:07:35,930#heraldry</ns460:promise>
+    <ns461:promise xmlns:ns461="http://dummy.org/">you@01:07:32,760-&gt;01:07:35,930#economy</ns461:promise>
+    <ns462:put xmlns:ns462="http://dummy.org/">this@01:14:40,930-&gt;01:14:44,590#acoustics</ns462:put>
+    <ns463:remember xmlns:ns463="http://dummy.org/">word@00:49:58,980-&gt;00:50:01,000#grammar</ns463:remember>
+    <ns464:sound xmlns:ns464="http://dummy.org/">whistle@01:08:02,590-&gt;01:08:05,120#acoustics</ns464:sound>
+    <ns465:stay xmlns:ns465="http://dummy.org/">birth@00:48:15,710-&gt;00:48:17,770#time_period</ns465:stay>
+    <ns466:stay xmlns:ns466="http://dummy.org/">here@01:02:43,310-&gt;01:02:45,740#tourism</ns466:stay>
+    <ns467:take xmlns:ns467="http://dummy.org/">kingdom@01:07:28,130-&gt;01:07:31,760#mythology</ns467:take>
+    <ns468:take xmlns:ns468="http://dummy.org/">this@01:12:57,260-&gt;01:12:58,750#acoustics</ns468:take>
+    <ns469:take xmlns:ns469="http://dummy.org/">you@01:07:28,130-&gt;01:07:31,760#acoustics</ns469:take>
+    <ns470:tell xmlns:ns470="http://dummy.org/">question@01:36:33,970-&gt;01:36:38,200#computer_science</ns470:tell>
+    <ns471:tell xmlns:ns471="http://dummy.org/">you@00:42:04,700-&gt;00:42:06,900#book_keeping</ns471:tell>
+    <ns472:tell xmlns:ns472="http://dummy.org/">you@01:29:28,080-&gt;01:29:31,570#book_keeping</ns472:tell>
+    <ns473:tell xmlns:ns473="http://dummy.org/">you@01:36:33,970-&gt;01:36:38,200#book_keeping</ns473:tell>
+    <ns474:use xmlns:ns474="http://dummy.org/">this@01:14:32,920-&gt;01:14:36,380#environment</ns474:use>
+    <ns475:want xmlns:ns475="http://dummy.org/">me@01:31:31,500-&gt;01:31:33,660#psychological_features</ns475:want>
+    <ns476:want xmlns:ns476="http://dummy.org/">name@01:31:27,530-&gt;01:31:29,760#psychological_features</ns476:want>
+    <ns477:want xmlns:ns477="http://dummy.org/">storehouse@01:27:46,380-&gt;01:27:49,280#commerce</ns477:want>
+    <ns478:want xmlns:ns478="http://dummy.org/">them@01:31:31,500-&gt;01:31:33,660#psychological_features</ns478:want>
+    <ns479:want xmlns:ns479="http://dummy.org/">you@01:27:46,380-&gt;01:27:49,280#psychological_features</ns479:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/VideoGameCompaniesOfTheUnitedStates">
+    <ns480:East_Africa_Time xmlns:ns480="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns480:East_Africa_Time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Web2.0Neologisms">
+    <ns481:Report xmlns:ns481="http://dbpedia.org/resource/">me@01:41:51,750-&gt;01:41:53,880#philology</ns481:Report>
+    <ns482:make xmlns:ns482="http://dummy.org/">rest@01:41:17,250-&gt;01:41:20,850#basketball</ns482:make>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Women'sNationalBasketballAssociationTeams">
+    <ns483:erase xmlns:ns483="http://dummy.org/">memory@00:02:03,040-&gt;00:02:06,670#astrology</ns483:erase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Agent">
+    <ns484:East_Africa_Time xmlns:ns484="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns484:East_Africa_Time>
+    <ns485:Interest_rate xmlns:ns485="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns485:Interest_rate>
+    <ns486:Wii xmlns:ns486="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns486:Wii>
+    <ns487:acquaint xmlns:ns487="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns487:acquaint>
+    <ns488:be xmlns:ns488="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns488:be>
+    <ns489:be xmlns:ns489="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns489:be>
+    <ns490:be xmlns:ns490="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns490:be>
+    <ns491:be xmlns:ns491="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns491:be>
+    <ns492:be xmlns:ns492="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns492:be>
+    <ns493:be xmlns:ns493="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns493:be>
+    <ns494:be xmlns:ns494="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns494:be>
+    <ns495:be xmlns:ns495="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns495:be>
+    <ns496:be xmlns:ns496="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns496:be>
+    <ns497:be xmlns:ns497="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns497:be>
+    <ns498:be xmlns:ns498="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns498:be>
+    <ns499:be xmlns:ns499="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns499:be>
+    <ns500:be xmlns:ns500="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns500:be>
+    <ns501:be xmlns:ns501="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns501:be>
+    <ns502:be xmlns:ns502="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns502:be>
+    <ns503:be xmlns:ns503="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns503:be>
+    <ns504:be xmlns:ns504="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns504:be>
+    <ns505:be xmlns:ns505="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns505:be>
+    <ns506:be xmlns:ns506="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns506:be>
+    <ns507:be xmlns:ns507="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns507:be>
+    <ns508:book xmlns:ns508="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns508:book>
+    <ns509:bread xmlns:ns509="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns509:bread>
+    <ns510:bread xmlns:ns510="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns510:bread>
+    <ns511:die xmlns:ns511="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns511:die>
+    <ns512:different xmlns:ns512="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns512:different>
+    <ns513:full xmlns:ns513="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns513:full>
+    <ns514:full xmlns:ns514="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns514:full>
+    <ns515:full xmlns:ns515="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns515:full>
+    <ns516:full xmlns:ns516="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns516:full>
+    <ns517:last xmlns:ns517="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns517:last>
+    <ns518:stop xmlns:ns518="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns518:stop>
+    <ns519:wait xmlns:ns519="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns519:wait>
+    <ns520:wait xmlns:ns520="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns520:wait>
+    <ns521:want xmlns:ns521="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns521:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Artist">
+    <ns522:be xmlns:ns522="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns522:be>
+    <ns523:different xmlns:ns523="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns523:different>
+    <ns524:wait xmlns:ns524="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns524:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Athlete">
+    <ns525:be xmlns:ns525="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns525:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Band">
+    <ns526:be xmlns:ns526="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns526:be>
+    <ns527:be xmlns:ns527="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns527:be>
+    <ns528:full xmlns:ns528="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns528:full>
+    <ns529:full xmlns:ns529="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns529:full>
+    <ns530:full xmlns:ns530="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns530:full>
+    <ns531:full xmlns:ns531="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns531:full>
+    <ns532:stop xmlns:ns532="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns532:stop>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/BasketballPlayer">
+    <ns533:be xmlns:ns533="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns533:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Company">
+    <ns534:Wii xmlns:ns534="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns534:Wii>
+    <ns535:acquaint xmlns:ns535="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns535:acquaint>
+    <ns536:be xmlns:ns536="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns536:be>
+    <ns537:be xmlns:ns537="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns537:be>
+    <ns538:be xmlns:ns538="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns538:be>
+    <ns539:want xmlns:ns539="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns539:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Disease">
+    <ns540:Leet xmlns:ns540="http://dbpedia.org/resource/">informer@01:27:04,770-&gt;01:27:08,400#acoustics</ns540:Leet>
+    <ns541:Leet xmlns:ns541="http://dbpedia.org/resource/">mill@01:27:04,770-&gt;01:27:08,400#acoustics</ns541:Leet>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Genre">
+    <ns542:be xmlns:ns542="http://dummy.org/">reaffirm@01:26:29,070-&gt;01:26:33,330#religion</ns542:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Judge">
+    <ns543:Interest_rate xmlns:ns543="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns543:Interest_rate>
+    <ns544:be xmlns:ns544="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns544:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/MusicGenre">
+    <ns545:be xmlns:ns545="http://dummy.org/">reaffirm@01:26:29,070-&gt;01:26:33,330#religion</ns545:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/MusicalArtist">
+    <ns546:be xmlns:ns546="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns546:be>
+    <ns547:different xmlns:ns547="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns547:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Newspaper">
+    <ns548:establish xmlns:ns548="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns548:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/OfficeHolder">
+    <ns549:be xmlns:ns549="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns549:be>
+    <ns550:be xmlns:ns550="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns550:be>
+    <ns551:be xmlns:ns551="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns551:be>
+    <ns552:be xmlns:ns552="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns552:be>
+    <ns553:be xmlns:ns553="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns553:be>
+    <ns554:be xmlns:ns554="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns554:be>
+    <ns555:be xmlns:ns555="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns555:be>
+    <ns556:be xmlns:ns556="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns556:be>
+    <ns557:be xmlns:ns557="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns557:be>
+    <ns558:be xmlns:ns558="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns558:be>
+    <ns559:be xmlns:ns559="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns559:be>
+    <ns560:book xmlns:ns560="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns560:book>
+    <ns561:bread xmlns:ns561="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns561:bread>
+    <ns562:bread xmlns:ns562="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns562:bread>
+    <ns563:last xmlns:ns563="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns563:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Organisation">
+    <ns564:Wii xmlns:ns564="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns564:Wii>
+    <ns565:acquaint xmlns:ns565="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns565:acquaint>
+    <ns566:be xmlns:ns566="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns566:be>
+    <ns567:be xmlns:ns567="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns567:be>
+    <ns568:be xmlns:ns568="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns568:be>
+    <ns569:be xmlns:ns569="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns569:be>
+    <ns570:be xmlns:ns570="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns570:be>
+    <ns571:full xmlns:ns571="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns571:full>
+    <ns572:full xmlns:ns572="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns572:full>
+    <ns573:full xmlns:ns573="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns573:full>
+    <ns574:full xmlns:ns574="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns574:full>
+    <ns575:stop xmlns:ns575="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns575:stop>
+    <ns576:want xmlns:ns576="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns576:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/PeriodicalLiterature">
+    <ns577:establish xmlns:ns577="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns577:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Person">
+    <ns578:Interest_rate xmlns:ns578="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns578:Interest_rate>
+    <ns579:be xmlns:ns579="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns579:be>
+    <ns580:be xmlns:ns580="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns580:be>
+    <ns581:be xmlns:ns581="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns581:be>
+    <ns582:be xmlns:ns582="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns582:be>
+    <ns583:be xmlns:ns583="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns583:be>
+    <ns584:be xmlns:ns584="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns584:be>
+    <ns585:be xmlns:ns585="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns585:be>
+    <ns586:be xmlns:ns586="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns586:be>
+    <ns587:be xmlns:ns587="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns587:be>
+    <ns588:be xmlns:ns588="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns588:be>
+    <ns589:be xmlns:ns589="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns589:be>
+    <ns590:be xmlns:ns590="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns590:be>
+    <ns591:be xmlns:ns591="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns591:be>
+    <ns592:be xmlns:ns592="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns592:be>
+    <ns593:be xmlns:ns593="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns593:be>
+    <ns594:book xmlns:ns594="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns594:book>
+    <ns595:bread xmlns:ns595="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns595:bread>
+    <ns596:bread xmlns:ns596="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns596:bread>
+    <ns597:die xmlns:ns597="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns597:die>
+    <ns598:different xmlns:ns598="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns598:different>
+    <ns599:last xmlns:ns599="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns599:last>
+    <ns600:wait xmlns:ns600="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns600:wait>
+    <ns601:wait xmlns:ns601="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns601:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/TelevisionShow">
+    <ns602:Fighting_in_ice_hockey xmlns:ns602="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns602:Fighting_in_ice_hockey>
+    <ns603:The_Clean xmlns:ns603="http://dbpedia.org/resource/">be@00:28:34,900-&gt;00:28:36,620#gastronomy</ns603:The_Clean>
+    <ns604:Wound xmlns:ns604="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns604:Wound>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Work">
+    <ns605:Fighting_in_ice_hockey xmlns:ns605="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns605:Fighting_in_ice_hockey>
+    <ns606:The_Clean xmlns:ns606="http://dbpedia.org/resource/">be@00:28:34,900-&gt;00:28:36,620#gastronomy</ns606:The_Clean>
+    <ns607:Wound xmlns:ns607="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns607:Wound>
+    <ns608:establish xmlns:ns608="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns608:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Writer">
+    <ns609:wait xmlns:ns609="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns609:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/WrittenWork">
+    <ns610:establish xmlns:ns610="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns610:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1080i">
+    <ns611:jump xmlns:ns611="http://dummy.org/">time@01:08:07,800-&gt;01:08:10,230#boxing</ns611:jump>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1870s">
+    <ns612:s xmlns:ns612="http://dummy.org/">woman@01:31:44,810-&gt;01:31:47,580#fashion</ns612:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1940s">
+    <ns613:s xmlns:ns613="http://dummy.org/">sad@01:07:11,310-&gt;01:07:13,570#psychological_features</ns613:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1970s">
+    <ns614:s xmlns:ns614="http://dummy.org/">glad@00:44:55,740-&gt;00:44:58,440#psychological_features</ns614:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1980s">
+    <ns615:s xmlns:ns615="http://dummy.org/">pretty@01:07:07,240-&gt;01:07:10,470#acoustics</ns615:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/3i">
+    <ns616:Wii xmlns:ns616="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns616:Wii>
+    <ns617:acquaint xmlns:ns617="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns617:acquaint>
+    <ns618:be xmlns:ns618="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns618:be>
+    <ns619:be xmlns:ns619="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns619:be>
+    <ns620:be xmlns:ns620="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns620:be>
+    <ns621:want xmlns:ns621="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns621:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/480i">
+    <ns622:Talk_Talk xmlns:ns622="http://dbpedia.org/resource/">her@01:22:12,880-&gt;01:22:16,940#psychiatry</ns622:Talk_Talk>
+    <ns623:be xmlns:ns623="http://dummy.org/">mountain@00:22:26,230-&gt;00:22:33,070#mountaineering</ns623:be>
+    <ns624:bring xmlns:ns624="http://dummy.org/">liquor@01:27:46,380-&gt;01:27:49,280#food</ns624:bring>
+    <ns625:bring xmlns:ns625="http://dummy.org/">orujo@00:53:44,540-&gt;00:53:49,500#post</ns625:bring>
+    <ns626:bring xmlns:ns626="http://dummy.org/">tool@01:14:21,810-&gt;01:14:25,170#archaeology</ns626:bring>
+    <ns627:go xmlns:ns627="http://dummy.org/">wood@00:16:32,070-&gt;00:16:35,840#sculpture</ns627:go>
+    <ns628:go xmlns:ns628="http://dummy.org/">wood@00:40:22,470-&gt;00:40:25,270#sculpture</ns628:go>
+    <ns629:remember xmlns:ns629="http://dummy.org/">word@00:49:58,980-&gt;00:50:01,000#grammar</ns629:remember>
+    <ns630:tell xmlns:ns630="http://dummy.org/">question@01:36:33,970-&gt;01:36:38,200#computer_science</ns630:tell>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/4Him">
+    <ns631:stop xmlns:ns631="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns631:stop>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/576i">
+    <ns632:Brown_Eyed_Girls xmlns:ns632="http://dbpedia.org/resource/">you@00:21:55,300-&gt;00:21:57,320#post</ns632:Brown_Eyed_Girls>
+    <ns633:Craps xmlns:ns633="http://dbpedia.org/resource/">you@01:29:34,820-&gt;01:29:37,840#bowling</ns633:Craps>
+    <ns634:Wii xmlns:ns634="http://dbpedia.org/resource/">monster@01:27:31,160-&gt;01:27:32,750#mythology</ns634:Wii>
+    <ns635:acquaint xmlns:ns635="http://dummy.org/">be@00:42:04,700-&gt;00:42:06,900#acoustics</ns635:acquaint>
+    <ns636:afraid xmlns:ns636="http://dummy.org/">you@00:35:46,860-&gt;00:35:48,330#psychological_features</ns636:afraid>
+    <ns637:be xmlns:ns637="http://dummy.org/">able@01:14:29,910-&gt;01:14:32,350#basketball</ns637:be>
+    <ns638:be xmlns:ns638="http://dummy.org/">faun@00:22:38,640-&gt;00:22:41,440#mythology</ns638:be>
+    <ns639:be xmlns:ns639="http://dummy.org/">long@00:12:39,410-&gt;00:12:41,740#acoustics</ns639:be>
+    <ns640:be xmlns:ns640="http://dummy.org/">me@01:35:08,490-&gt;01:35:09,680#acoustics</ns640:be>
+    <ns641:believe xmlns:ns641="http://dummy.org/">anything@01:14:55,610-&gt;01:14:58,040#religion</ns641:believe>
+    <ns642:ca xmlns:ns642="http://dummy.org/">child@01:29:34,820-&gt;01:29:37,840#psychoanalysis</ns642:ca>
+    <ns643:get xmlns:ns643="http://dummy.org/">key@00:43:22,650-&gt;00:43:24,080#banking</ns643:get>
+    <ns644:get xmlns:ns644="http://dummy.org/">key@00:44:25,510-&gt;00:44:27,310#banking</ns644:get>
+    <ns645:give xmlns:ns645="http://dummy.org/">this@01:31:17,550-&gt;01:31:20,320#acoustics</ns645:give>
+    <ns646:give xmlns:ns646="http://dummy.org/">you@01:31:17,550-&gt;01:31:20,320#acoustics</ns646:give>
+    <ns647:go xmlns:ns647="http://dummy.org/">hunt@00:16:32,070-&gt;00:16:35,840#art</ns647:go>
+    <ns648:have xmlns:ns648="http://dummy.org/">copy@01:28:06,300-&gt;01:28:08,630#drawing</ns648:have>
+    <ns649:have xmlns:ns649="http://dummy.org/">idea@00:42:08,070-&gt;00:42:09,540#psychoanalysis</ns649:have>
+    <ns650:have xmlns:ns650="http://dummy.org/">name@00:22:15,380-&gt;00:22:17,850#acoustics</ns650:have>
+    <ns651:have xmlns:ns651="http://dummy.org/">one@00:49:00,250-&gt;00:49:03,420#acoustics</ns651:have>
+    <ns652:hear xmlns:ns652="http://dummy.org/">something@01:30:04,010-&gt;01:30:05,310#acoustics</ns652:hear>
+    <ns653:know xmlns:ns653="http://dummy.org/">him@00:42:14,180-&gt;00:42:17,150#psychology</ns653:know>
+    <ns654:m xmlns:ns654="http://dummy.org/">afraid@00:35:46,860-&gt;00:35:48,330#psychological_features</ns654:m>
+    <ns655:m xmlns:ns655="http://dummy.org/">coward@01:03:16,040-&gt;01:03:17,170#person</ns655:m>
+    <ns656:m xmlns:ns656="http://dummy.org/">glad@00:44:41,160-&gt;00:44:42,420#psychological_features</ns656:m>
+    <ns657:m xmlns:ns657="http://dummy.org/">glad@01:13:26,950-&gt;01:13:29,350#psychological_features</ns657:m>
+    <ns658:m xmlns:ns658="http://dummy.org/">sorry@00:10:43,160-&gt;00:10:44,150#quality</ns658:m>
+    <ns659:m xmlns:ns659="http://dummy.org/">sorry@01:19:04,890-&gt;01:19:08,330#quality</ns659:m>
+    <ns660:m xmlns:ns660="http://dummy.org/">sorry@01:19:09,060-&gt;01:19:10,650#quality</ns660:m>
+    <ns661:m xmlns:ns661="http://dummy.org/">sure@00:13:03,330-&gt;00:13:05,030#psychology</ns661:m>
+    <ns662:m xmlns:ns662="http://dummy.org/">sure@00:39:14,970-&gt;00:39:16,770#psychology</ns662:m>
+    <ns663:m xmlns:ns663="http://dummy.org/">you@00:12:42,340-&gt;00:12:45,470#acoustics</ns663:m>
+    <ns664:make xmlns:ns664="http://dummy.org/">you@00:26:40,880-&gt;00:26:43,710#tax</ns664:make>
+    <ns665:need xmlns:ns665="http://dummy.org/">it@01:13:21,580-&gt;01:13:23,380#philology</ns665:need>
+    <ns666:promise xmlns:ns666="http://dummy.org/">prince@01:07:32,760-&gt;01:07:35,930#heraldry</ns666:promise>
+    <ns667:promise xmlns:ns667="http://dummy.org/">you@01:07:32,760-&gt;01:07:35,930#economy</ns667:promise>
+    <ns668:put xmlns:ns668="http://dummy.org/">this@01:14:40,930-&gt;01:14:44,590#acoustics</ns668:put>
+    <ns669:sound xmlns:ns669="http://dummy.org/">whistle@01:08:02,590-&gt;01:08:05,120#acoustics</ns669:sound>
+    <ns670:stay xmlns:ns670="http://dummy.org/">here@01:02:43,310-&gt;01:02:45,740#tourism</ns670:stay>
+    <ns671:take xmlns:ns671="http://dummy.org/">kingdom@01:07:28,130-&gt;01:07:31,760#mythology</ns671:take>
+    <ns672:take xmlns:ns672="http://dummy.org/">this@01:12:57,260-&gt;01:12:58,750#acoustics</ns672:take>
+    <ns673:take xmlns:ns673="http://dummy.org/">you@01:07:28,130-&gt;01:07:31,760#acoustics</ns673:take>
+    <ns674:tell xmlns:ns674="http://dummy.org/">you@00:42:04,700-&gt;00:42:06,900#book_keeping</ns674:tell>
+    <ns675:tell xmlns:ns675="http://dummy.org/">you@01:29:28,080-&gt;01:29:31,570#book_keeping</ns675:tell>
+    <ns676:tell xmlns:ns676="http://dummy.org/">you@01:36:33,970-&gt;01:36:38,200#book_keeping</ns676:tell>
+    <ns677:use xmlns:ns677="http://dummy.org/">this@01:14:32,920-&gt;01:14:36,380#environment</ns677:use>
+    <ns678:want xmlns:ns678="http://dummy.org/">me@01:31:31,500-&gt;01:31:33,660#psychological_features</ns678:want>
+    <ns679:want xmlns:ns679="http://dummy.org/">name@01:31:27,530-&gt;01:31:29,760#psychological_features</ns679:want>
+    <ns680:want xmlns:ns680="http://dummy.org/">storehouse@01:27:46,380-&gt;01:27:49,280#commerce</ns680:want>
+    <ns681:want xmlns:ns681="http://dummy.org/">them@01:31:31,500-&gt;01:31:33,660#psychological_features</ns681:want>
+    <ns682:want xmlns:ns682="http://dummy.org/">you@01:27:46,380-&gt;01:27:49,280#psychological_features</ns682:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/720p">
+    <ns683:be xmlns:ns683="http://dummy.org/">damn@01:31:57,930-&gt;01:32:02,590#acoustics</ns683:be>
+    <ns684:stay xmlns:ns684="http://dummy.org/">birth@00:48:15,710-&gt;00:48:17,770#time_period</ns684:stay>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Body">
+    <ns685:Suffering xmlns:ns685="http://dbpedia.org/resource/">cold@00:02:13,280-&gt;00:02:19,520#health</ns685:Suffering>
+    <ns686:Suffering xmlns:ns686="http://dbpedia.org/resource/">pain@00:02:13,280-&gt;00:02:19,520#health</ns686:Suffering>
+    <ns687:Suffering xmlns:ns687="http://dbpedia.org/resource/">sickness@00:02:13,280-&gt;00:02:19,520#health</ns687:Suffering>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boy">
+    <ns688:Bear xmlns:ns688="http://dbpedia.org/resource/">name@01:05:57,540-&gt;01:06:00,060#school</ns688:Bear>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Branch">
+    <ns689:be xmlns:ns689="http://dummy.org/">dry@00:31:29,570-&gt;00:31:33,230#home</ns689:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Candice_Night">
+    <ns690:be xmlns:ns690="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns690:be>
+    <ns691:different xmlns:ns691="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns691:different>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Christina_Vidal">
+    <ns692:wait xmlns:ns692="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns692:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cigarette">
+    <ns693:be xmlns:ns693="http://dummy.org/">good@01:13:48,040-&gt;01:13:50,800#hydraulics</ns693:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Connecticut_Sun">
+    <ns694:erase xmlns:ns694="http://dummy.org/">memory@00:02:03,040-&gt;00:02:06,670#astrology</ns694:erase>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cow_and_Chicken">
+    <ns695:The_Clean xmlns:ns695="http://dbpedia.org/resource/">be@00:28:34,900-&gt;00:28:36,620#gastronomy</ns695:The_Clean>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Curiosity">
+    <ns696:be xmlns:ns696="http://dummy.org/">it@00:41:28,700-&gt;00:41:30,190#commerce</ns696:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Eddie_House">
+    <ns697:be xmlns:ns697="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns697:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Essence">
+    <ns698:be xmlns:ns698="http://dummy.org/">intact@00:23:25,320-&gt;00:23:33,920#philosophy</ns698:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Fairy">
+    <ns699:The_Visit xmlns:ns699="http://dbpedia.org/resource/">me@00:29:21,110-&gt;00:29:22,840#folklore</ns699:The_Visit>
+    <ns700:look xmlns:ns700="http://dummy.org/">shoe@00:04:50,340-&gt;00:04:53,570#skating</ns700:look>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Father">
+    <ns701:be xmlns:ns701="http://dummy.org/">hunt@00:16:00,480-&gt;00:16:02,170#mythology</ns701:be>
+    <ns702:give xmlns:ns702="http://dummy.org/">dinner@00:26:37,750-&gt;00:26:40,480#mythology</ns702:give>
+    <ns703:give xmlns:ns703="http://dummy.org/">tonight@00:26:37,750-&gt;00:26:40,480#mythology</ns703:give>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Father_Time">
+    <ns704:be xmlns:ns704="http://dummy.org/">man@00:15:51,070-&gt;00:15:53,470#sexuality</ns704:be>
+    <ns705:die xmlns:ns705="http://dummy.org/">war@00:08:39,500-&gt;00:08:42,830#biochemistry</ns705:die>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Faun">
+    <ns706:give xmlns:ns706="http://dummy.org/">me@01:22:04,740-&gt;01:22:08,670#mythology</ns706:give>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Font">
+    <ns707:Color xmlns:ns707="http://dbpedia.org/resource/">ffff00@00:00:53,300-&gt;00:00:55,465#color</ns707:Color>
+    <ns708:font xmlns:ns708="http://dummy.org/">color@00:00:51,550-&gt;00:00:53,265#color</ns708:font>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Food">
+    <ns709:take xmlns:ns709="http://dummy.org/">care@01:02:37,040-&gt;01:02:41,270#dentistry</ns709:take>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Forest_Whitaker">
+    <ns710:be xmlns:ns710="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns710:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/God_in_Islam">
+    <ns711:send xmlns:ns711="http://dummy.org/">message@01:25:49,890-&gt;01:25:52,890#telegraphy</ns711:send>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/God_in_Judaism">
+    <ns712:save xmlns:ns712="http://dummy.org/">soul@00:39:35,050-&gt;00:39:37,420#theology</ns712:save>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/God_the_Father">
+    <ns713:be xmlns:ns713="http://dummy.org/">tailor@00:08:39,500-&gt;00:08:42,830#mythology</ns713:be>
+    <ns714:be xmlns:ns714="http://dummy.org/">tailor@00:22:55,860-&gt;00:22:57,590#mythology</ns714:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Gore_Vidal">
+    <ns715:wait xmlns:ns715="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns715:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Guerrilla_warfare">
+    <ns716:Chapman_Stick xmlns:ns716="http://dbpedia.org/resource/">wood@00:09:13,370-&gt;00:09:15,170#buildings</ns716:Chapman_Stick>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helium-3">
+    <ns717:Drawing xmlns:ns717="http://dbpedia.org/resource/">breath@00:02:32,000-&gt;00:02:35,530#physiology</ns717:Drawing>
+    <ns718:Leave_of_absence xmlns:ns718="http://dbpedia.org/resource/">impression@00:42:14,180-&gt;00:42:17,150#theology</ns718:Leave_of_absence>
+    <ns719:Smash_Records xmlns:ns719="http://dbpedia.org/resource/">rock@00:42:23,990-&gt;00:42:25,650#paleontology</ns719:Smash_Records>
+    <ns720:Smash_Records xmlns:ns720="http://dbpedia.org/resource/">watch@00:42:23,990-&gt;00:42:25,650#engineering</ns720:Smash_Records>
+    <ns721:be xmlns:ns721="http://dummy.org/">old@00:29:31,250-&gt;00:29:35,210#paleontology</ns721:be>
+    <ns722:be xmlns:ns722="http://dummy.org/">s@00:05:02,350-&gt;00:05:04,790#acoustics</ns722:be>
+    <ns723:be xmlns:ns723="http://dummy.org/">us@00:05:02,350-&gt;00:05:04,790#acoustics</ns723:be>
+    <ns724:cause xmlns:ns724="http://dummy.org/">you@01:45:35,880-&gt;01:45:40,470#sexuality</ns724:cause>
+    <ns725:know xmlns:ns725="http://dummy.org/">name@01:47:50,650-&gt;01:47:52,410#psychology</ns725:know>
+    <ns726:like xmlns:ns726="http://dummy.org/">coffee@00:25:54,440-&gt;00:25:56,900#food</ns726:like>
+    <ns727:own xmlns:ns727="http://dummy.org/">watch@00:42:34,870-&gt;00:42:37,390#engineering</ns727:own>
+    <ns728:s xmlns:ns728="http://dummy.org/">father@00:08:35,760-&gt;00:08:36,890#mythology</ns728:s>
+    <ns729:s xmlns:ns729="http://dummy.org/">father@00:08:42,970-&gt;00:08:44,300#mythology</ns729:s>
+    <ns730:s xmlns:ns730="http://dummy.org/">nothing@00:25:54,440-&gt;00:25:56,900#acoustics</ns730:s>
+    <ns731:smell xmlns:ns731="http://dummy.org/">earth@00:29:31,250-&gt;00:29:35,210#astronomy</ns731:smell>
+    <ns732:tell xmlns:ns732="http://dummy.org/">me@01:22:22,320-&gt;01:22:25,020#book_keeping</ns732:tell>
+    <ns733:wait xmlns:ns733="http://dummy.org/">her@00:02:32,000-&gt;00:02:35,530#food</ns733:wait>
+    <ns734:wait xmlns:ns734="http://dummy.org/">s@01:50:39,210-&gt;01:50:41,410#food</ns734:wait>
+    <ns735:wait xmlns:ns735="http://dummy.org/">you@01:50:39,210-&gt;01:50:41,410#food</ns735:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Jamario_Moon">
+    <ns736:high xmlns:ns736="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns736:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Joseph_Story">
+    <ns737:Interest_rate xmlns:ns737="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns737:Interest_rate>
+    <ns738:be xmlns:ns738="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns738:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Los_Serrano">
+    <ns739:Wound xmlns:ns739="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns739:Wound>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Express_East_Anglia">
+    <ns740:Rationing xmlns:ns740="http://dbpedia.org/resource/">card@00:39:06,830-&gt;00:39:10,130#card</ns740:Rationing>
+    <ns741:Wound xmlns:ns741="http://dbpedia.org/resource/">be@00:39:21,570-&gt;00:39:25,440#earth</ns741:Wound>
+    <ns742:s xmlns:ns742="http://dummy.org/">alive@01:11:32,870-&gt;01:11:35,530#physiology</ns742:s>
+    <ns743:s xmlns:ns743="http://dummy.org/">son@00:15:49,160-&gt;00:15:50,990#archery</ns743:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/National_Post">
+    <ns744:establish xmlns:ns744="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns744:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Option_key">
+    <ns745:Open-source_software xmlns:ns745="http://dbpedia.org/resource/">portal@00:23:09,340-&gt;00:23:19,300#dentistry</ns745:Open-source_software>
+    <ns746:open xmlns:ns746="http://dummy.org/">world@00:23:09,340-&gt;00:23:19,300#astronomy</ns746:open>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Representational_State_Transfer">
+    <ns747:Report xmlns:ns747="http://dbpedia.org/resource/">me@01:41:51,750-&gt;01:41:53,880#philology</ns747:Report>
+    <ns748:make xmlns:ns748="http://dummy.org/">rest@01:41:17,250-&gt;01:41:20,850#basketball</ns748:make>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rule_of_law">
+    <ns749:be xmlns:ns749="http://dummy.org/">grape@01:17:11,310-&gt;01:17:14,210#food</ns749:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Seaman">
+    <ns750:jump xmlns:ns750="http://dummy.org/">time@01:08:07,800-&gt;01:08:10,230#boxing</ns750:jump>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sergeant">
+    <ns751:Search_and_seizure xmlns:ns751="http://dbpedia.org/resource/">area@00:15:45,190-&gt;00:15:48,290#astrology</ns751:Search_and_seizure>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Son">
+    <ns752:Elizabeth_Bear xmlns:ns752="http://dbpedia.org/resource/">be@00:15:21,800-&gt;00:15:24,240#archery</ns752:Elizabeth_Bear>
+    <ns753:know xmlns:ns753="http://dummy.org/">hour@00:42:25,860-&gt;00:42:28,350#archery</ns753:know>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Soul_music">
+    <ns754:be xmlns:ns754="http://dummy.org/">reaffirm@01:26:29,070-&gt;01:26:33,330#religion</ns754:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Stuttering">
+    <ns755:Leet xmlns:ns755="http://dbpedia.org/resource/">informer@01:27:04,770-&gt;01:27:08,400#acoustics</ns755:Leet>
+    <ns756:Leet xmlns:ns756="http://dbpedia.org/resource/">mill@01:27:04,770-&gt;01:27:08,400#acoustics</ns756:Leet>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Sun_Media">
+    <ns757:Blindness xmlns:ns757="http://dbpedia.org/resource/">her@00:02:03,040-&gt;00:02:06,670#astrology</ns757:Blindness>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_3DO_Company">
+    <ns758:East_Africa_Time xmlns:ns758="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns758:East_Africa_Time>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Creatures">
+    <ns759:be xmlns:ns759="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns759:be>
+    <ns760:be xmlns:ns760="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns760:be>
+    <ns761:full xmlns:ns761="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns761:full>
+    <ns762:full xmlns:ns762="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns762:full>
+    <ns763:full xmlns:ns763="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns763:full>
+    <ns764:full xmlns:ns764="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns764:full>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/The_Six_Million_Dollar_Man">
+    <ns765:Fighting_in_ice_hockey xmlns:ns765="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns765:Fighting_in_ice_hockey>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Toomas_Hendrik_Ilves">
+    <ns766:be xmlns:ns766="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns766:be>
+    <ns767:be xmlns:ns767="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns767:be>
+    <ns768:be xmlns:ns768="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns768:be>
+    <ns769:be xmlns:ns769="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns769:be>
+    <ns770:be xmlns:ns770="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns770:be>
+    <ns771:be xmlns:ns771="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns771:be>
+    <ns772:be xmlns:ns772="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns772:be>
+    <ns773:be xmlns:ns773="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns773:be>
+    <ns774:be xmlns:ns774="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns774:be>
+    <ns775:be xmlns:ns775="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns775:be>
+    <ns776:be xmlns:ns776="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns776:be>
+    <ns777:book xmlns:ns777="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns777:book>
+    <ns778:bread xmlns:ns778="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns778:bread>
+    <ns779:bread xmlns:ns779="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns779:bread>
+    <ns780:last xmlns:ns780="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns780:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Tree_structure">
+    <ns781:be xmlns:ns781="http://dummy.org/">dyingfontb@00:28:04,250-&gt;00:28:06,250#plants</ns781:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Vidal_Sassoon">
+    <ns782:die xmlns:ns782="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns782:die>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Weapon">
+    <ns783:Foundation_for_Individual_Rights_in_Education xmlns:ns783="http://dbpedia.org/resource/">be@00:15:57,610-&gt;00:16:00,270#archery</ns783:Foundation_for_Individual_Rights_in_Education>
+    <ns784:Foundation_for_Individual_Rights_in_Education xmlns:ns784="http://dbpedia.org/resource/">s@00:15:57,610-&gt;00:16:00,270#archery</ns784:Foundation_for_Individual_Rights_in_Education>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wife">
+    <ns785:Travel_Channel xmlns:ns785="http://dbpedia.org/resource/">stage@00:15:06,720-&gt;00:15:11,680#heraldry</ns785:Travel_Channel>
+    <ns786:be xmlns:ns786="http://dummy.org/">dead@01:25:28,240-&gt;01:25:30,100#heraldry</ns786:be>
+    <ns787:expose xmlns:ns787="http://dummy.org/">world@00:41:37,910-&gt;00:41:41,610#heraldry</ns787:expose>
+    <ns788:need xmlns:ns788="http://dummy.org/">rest@00:48:01,630-&gt;00:48:04,600#heraldry</ns788:need>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Wind">
+    <ns789:get xmlns:ns789="http://dummy.org/">worse@00:10:33,750-&gt;00:10:36,980#meteorology</ns789:get>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/alone">
+    <ns790:Talk_Talk xmlns:ns790="http://dbpedia.org/resource/">her@01:22:12,880-&gt;01:22:16,940#psychiatry</ns790:Talk_Talk>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/and">
+    <ns791:Pain xmlns:ns791="http://dbpedia.org/resource/">promise@00:13:56,920-&gt;00:14:01,550#medicine</ns791:Pain>
+    <ns792:Stevens_Institute_of_Technology xmlns:ns792="http://dbpedia.org/resource/">father@01:50:36,610-&gt;01:50:38,740#mythology</ns792:Stevens_Institute_of_Technology>
+    <ns793:Stevens_Institute_of_Technology xmlns:ns793="http://dbpedia.org/resource/">side@01:50:36,610-&gt;01:50:38,740#rugby</ns793:Stevens_Institute_of_Technology>
+    <ns794:Wayne_Sleep xmlns:ns794="http://dbpedia.org/resource/">shade@00:31:18,890-&gt;00:31:22,060#folklore</ns794:Wayne_Sleep>
+    <ns795:bring xmlns:ns795="http://dummy.org/">him@01:36:50,490-&gt;01:36:53,150#post</ns795:bring>
+    <ns796:bring xmlns:ns796="http://dummy.org/">labyrinth@01:36:50,490-&gt;01:36:53,150#post</ns796:bring>
+    <ns797:grow xmlns:ns797="http://dummy.org/">fat@00:35:58,040-&gt;00:36:00,970#social</ns797:grow>
+    <ns798:show xmlns:ns798="http://dummy.org/">future@00:24:00,720-&gt;00:24:03,620#occultism</ns798:show>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/another">
+    <ns799:Portland_Place xmlns:ns799="http://dbpedia.org/resource/">time@00:02:29,060-&gt;00:02:31,590#astrology</ns799:Portland_Place>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/anybody">
+    <ns800:Contradiction xmlns:ns800="http://dbpedia.org/resource/">me@01:15:26,640-&gt;01:15:30,160#paranormal</ns800:Contradiction>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/anything">
+    <ns801:tell xmlns:ns801="http://dummy.org/">me@01:14:55,610-&gt;01:14:58,040#book_keeping</ns801:tell>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/baby">
+    <ns802:be xmlns:ns802="http://dummy.org/">male@00:15:30,710-&gt;00:15:32,740#animal_husbandry</ns802:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/bastard">
+    <ns803:know xmlns:ns803="http://dummy.org/">any@00:09:18,470-&gt;00:09:20,740#psychology</ns803:know>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/bayona">
+    <ns804:Search_and_seizure xmlns:ns804="http://dbpedia.org/resource/">area@00:15:45,190-&gt;00:15:48,290#astrology</ns804:Search_and_seizure>
+    <ns805:capture xmlns:ns805="http://dummy.org/">suspect@00:15:45,190-&gt;00:15:48,290#law</ns805:capture>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/bfont">
+    <ns806:color xmlns:ns806="http://dummy.org/">ffff00@00:27:55,150-&gt;00:27:57,150#color</ns806:color>
+    <ns807:color xmlns:ns807="http://dummy.org/">time@00:27:55,150-&gt;00:27:57,150#color</ns807:color>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/blood">
+    <ns808:s xmlns:ns808="http://dummy.org/">all@01:45:02,980-&gt;01:45:07,420#biochemistry</ns808:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/brother">
+    <ns809:s xmlns:ns809="http://dummy.org/">it@00:12:57,860-&gt;00:12:59,790#mythology</ns809:s>
+    <ns810:stay xmlns:ns810="http://dummy.org/">me@01:45:20,830-&gt;01:45:22,960#mythology</ns810:stay>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/but">
+    <ns811:look xmlns:ns811="http://dummy.org/">mess@01:08:10,470-&gt;01:08:11,870#sexuality</ns811:look>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/captain">
+    <ns812:Hunting xmlns:ns812="http://dbpedia.org/resource/">rabbit@00:16:42,080-&gt;00:16:45,880#animal_husbandry</ns812:Hunting>
+    <ns813:be xmlns:ns813="http://dummy.org/">father@00:08:37,730-&gt;00:08:39,320#mythology</ns813:be>
+    <ns814:s xmlns:ns814="http://dummy.org/">nothing@00:30:36,480-&gt;00:30:38,080#military</ns814:s>
+    <ns815:wait xmlns:ns815="http://dummy.org/">vidal@00:10:46,030-&gt;00:10:48,050#time_period</ns815:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/coffee">
+    <ns816:be xmlns:ns816="http://dummy.org/">burn@00:25:27,610-&gt;00:25:30,600#food</ns816:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/daughter">
+    <ns817:re xmlns:ns817="http://dummy.org/">sick@00:16:36,480-&gt;00:16:38,600#mythology</ns817:re>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/detail">
+    <ns818:bother xmlns:ns818="http://dummy.org/">me@01:28:12,370-&gt;01:28:16,360#factotum</ns818:bother>
+    <ns819:bother xmlns:ns819="http://dummy.org/">s@01:28:12,370-&gt;01:28:16,360#factotum</ns819:bother>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/doctor">
+    <ns820:s xmlns:ns820="http://dummy.org/">right@01:03:36,090-&gt;01:03:38,590#medicine</ns820:s>
+    <ns821:s xmlns:ns821="http://dummy.org/">wife@00:26:00,240-&gt;00:26:04,070#heraldry</ns821:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/door">
+    <ns822:lock xmlns:ns822="http://dummy.org/">s@01:37:07,040-&gt;01:37:08,590#vehicles</ns822:lock>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/earth">
+    <ns823:take xmlns:ns823="http://dummy.org/">hollow@01:25:58,540-&gt;01:26:03,400#astronomy</ns823:take>
+    <ns824:take xmlns:ns824="http://dummy.org/">shell@01:25:58,540-&gt;01:26:03,400#astronomy</ns824:take>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/everything">
+    <ns825:be xmlns:ns825="http://dummy.org/">truth@01:32:21,990-&gt;01:32:23,280#sociology</ns825:be>
+    <ns826:tell xmlns:ns826="http://dummy.org/">question@01:36:33,970-&gt;01:36:38,200#computer_science</ns826:tell>
+    <ns827:tell xmlns:ns827="http://dummy.org/">you@01:36:33,970-&gt;01:36:38,200#book_keeping</ns827:tell>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/far">
+    <ns828:be xmlns:ns828="http://dummy.org/">glory@01:26:04,780-&gt;01:26:07,710#sociology</ns828:be>
+    <ns829:be xmlns:ns829="http://dummy.org/">soul@01:26:04,780-&gt;01:26:07,710#mythology</ns829:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/father">
+    <ns830:be xmlns:ns830="http://dummy.org/">rabbit@00:16:00,480-&gt;00:16:02,170#mythology</ns830:be>
+    <ns831:need xmlns:ns831="http://dummy.org/">me@00:08:31,690-&gt;00:08:32,820#mythology</ns831:need>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/ffff00">
+    <ns832:Wayne_Sleep xmlns:ns832="http://dbpedia.org/resource/">shade@00:27:59,650-&gt;00:28:02,150#physiology</ns832:Wayne_Sleep>
+    <ns833:grow xmlns:ns833="http://dummy.org/">hill@00:28:02,150-&gt;00:28:04,250#skiing</ns833:grow>
+    <ns834:grow xmlns:ns834="http://dummy.org/">millfontb@00:28:02,150-&gt;00:28:04,250#ethnology</ns834:grow>
+    <ns835:home xmlns:ns835="http://dummy.org/">creature@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns835:home>
+    <ns836:protect xmlns:ns836="http://dummy.org/">one@00:27:59,650-&gt;00:28:02,150#hockey</ns836:protect>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/forest">
+    <ns837:be xmlns:ns837="http://dummy.org/">youngfontb@00:27:55,150-&gt;00:27:57,150#environment</ns837:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/garce">
+    <ns838:be xmlns:ns838="http://dummy.org/">right@01:14:16,130-&gt;01:14:17,960#acoustics</ns838:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/girl">
+    <ns839:Wayne_Sleep xmlns:ns839="http://dbpedia.org/resource/">else@00:48:11,600-&gt;00:48:13,940#physiology</ns839:Wayne_Sleep>
+    <ns840:be xmlns:ns840="http://dummy.org/">you@00:44:28,380-&gt;00:44:33,250#person</ns840:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/go">
+    <ns841:be xmlns:ns841="http://dummy.org/">afraid@01:09:41,490-&gt;01:09:45,990#psychological_features</ns841:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/her">
+    <ns842:know xmlns:ns842="http://dummy.org/">how@01:05:43,090-&gt;01:05:45,610#psychology</ns842:know>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/here">
+    <ns843:s xmlns:ns843="http://dummy.org/">key@01:03:02,390-&gt;01:03:05,330#mechanics</ns843:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/home">
+    <ns844:s xmlns:ns844="http://dummy.org/">bread@00:46:35,610-&gt;00:46:39,310#gastronomy</ns844:s>
+    <ns845:s xmlns:ns845="http://dummy.org/">bread@00:47:52,050-&gt;00:47:55,920#gastronomy</ns845:s>
+    <ns846:s xmlns:ns846="http://dummy.org/">fire@00:46:35,610-&gt;00:46:39,310#telegraphy</ns846:s>
+    <ns847:s xmlns:ns847="http://dummy.org/">fire@00:47:52,050-&gt;00:47:55,920#telegraphy</ns847:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/i">
+    <ns848:Leave_of_absence xmlns:ns848="http://dbpedia.org/resource/">tonight@01:29:25,510-&gt;01:29:27,530#time_period</ns848:Leave_of_absence>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/idea">
+    <ns849:be xmlns:ns849="http://dummy.org/">us@00:05:02,350-&gt;00:05:04,790#psychoanalysis</ns849:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/it">
+    <ns850:Fuck xmlns:ns850="http://dbpedia.org/resource/">s@00:53:57,180-&gt;00:54:00,620#sexuality</ns850:Fuck>
+    <ns851:be xmlns:ns851="http://dummy.org/">absence@01:26:26,400-&gt;01:26:28,890#genetics</ns851:be>
+    <ns852:be xmlns:ns852="http://dummy.org/">accident@01:17:24,990-&gt;01:17:28,650#transport</ns852:be>
+    <ns853:be xmlns:ns853="http://dummy.org/">alone@00:29:26,150-&gt;00:29:29,280#acoustics</ns853:be>
+    <ns854:be xmlns:ns854="http://dummy.org/">better@01:23:45,370-&gt;01:23:47,890#acoustics</ns854:be>
+    <ns855:be xmlns:ns855="http://dummy.org/">better@01:34:52,870-&gt;01:34:55,360#acoustics</ns855:be>
+    <ns856:be xmlns:ns856="http://dummy.org/">easy@00:12:50,490-&gt;00:12:54,220#quality</ns856:be>
+    <ns857:be xmlns:ns857="http://dummy.org/">enough@00:39:14,970-&gt;00:39:16,770#acoustics</ns857:be>
+    <ns858:be xmlns:ns858="http://dummy.org/">grape@01:17:11,310-&gt;01:17:14,210#food</ns858:be>
+    <ns859:be xmlns:ns859="http://dummy.org/">human@00:53:00,190-&gt;00:53:02,720#theology</ns859:be>
+    <ns860:be xmlns:ns860="http://dummy.org/">late@01:08:05,330-&gt;01:08:07,730#time_period</ns860:be>
+    <ns861:be xmlns:ns861="http://dummy.org/">moon@00:23:00,860-&gt;00:23:03,300#astronomy</ns861:be>
+    <ns862:be xmlns:ns862="http://dummy.org/">pain@01:26:08,310-&gt;01:26:11,980#medicine</ns862:be>
+    <ns863:be xmlns:ns863="http://dummy.org/">plenty@00:39:16,840-&gt;00:39:18,170#acoustics</ns863:be>
+    <ns864:be xmlns:ns864="http://dummy.org/">task@01:25:53,030-&gt;01:25:55,660#free_time</ns864:be>
+    <ns865:be xmlns:ns865="http://dummy.org/">thing@01:23:34,160-&gt;01:23:35,820#aviation</ns865:be>
+    <ns866:better xmlns:ns866="http://dummy.org/">you@01:23:45,370-&gt;01:23:47,890#computer_science</ns866:better>
+    <ns867:easy xmlns:ns867="http://dummy.org/">me@00:12:50,490-&gt;00:12:54,220#quality</ns867:easy>
+    <ns868:s xmlns:ns868="http://dummy.org/">almanac@00:16:23,400-&gt;00:16:25,700#publishing</ns868:s>
+    <ns869:s xmlns:ns869="http://dummy.org/">fear@00:51:27,570-&gt;00:51:29,530#psychological_features</ns869:s>
+    <ns870:s xmlns:ns870="http://dummy.org/">hand@00:06:49,990-&gt;00:06:52,190#volleyball</ns870:s>
+    <ns871:s xmlns:ns871="http://dummy.org/">important@01:28:16,710-&gt;01:28:18,640#quality</ns871:s>
+    <ns872:s xmlns:ns872="http://dummy.org/">important@01:28:27,780-&gt;01:28:31,380#quality</ns872:s>
+    <ns873:s xmlns:ns873="http://dummy.org/">labyrinth@00:08:06,970-&gt;00:08:08,530#mythology</ns873:s>
+    <ns874:s xmlns:ns874="http://dummy.org/">me@00:50:58,270-&gt;00:51:01,030#acoustics</ns874:s>
+    <ns875:s xmlns:ns875="http://dummy.org/">nothing@00:30:36,480-&gt;00:30:38,080#acoustics</ns875:s>
+    <ns876:s xmlns:ns876="http://dummy.org/">over@01:20:10,120-&gt;01:20:11,590#acoustics</ns876:s>
+    <ns877:s xmlns:ns877="http://dummy.org/">point@01:32:08,640-&gt;01:32:11,970#topography</ns877:s>
+    <ns878:s xmlns:ns878="http://dummy.org/">propaganda@00:16:20,900-&gt;00:16:22,690#commerce</ns878:s>
+    <ns879:s xmlns:ns879="http://dummy.org/">root@01:22:04,740-&gt;01:22:08,670#plants</ns879:s>
+    <ns880:s xmlns:ns880="http://dummy.org/">simple@01:32:14,340-&gt;01:32:17,280#book_keeping</ns880:s>
+    <ns881:s xmlns:ns881="http://dummy.org/">task@01:45:07,520-&gt;01:45:10,110#free_time</ns881:s>
+    <ns882:s xmlns:ns882="http://dummy.org/">them@00:30:46,490-&gt;00:30:47,480#acoustics</ns882:s>
+    <ns883:s xmlns:ns883="http://dummy.org/">word@00:05:06,190-&gt;00:05:09,490#grammar</ns883:s>
+    <ns884:s xmlns:ns884="http://dummy.org/">you@00:21:45,420-&gt;00:21:46,720#acoustics</ns884:s>
+    <ns885:s xmlns:ns885="http://dummy.org/">you@00:21:51,860-&gt;00:21:55,190#acoustics</ns885:s>
+    <ns886:say xmlns:ns886="http://dummy.org/">be@01:51:34,340-&gt;01:51:38,100#book_keeping</ns886:say>
+    <ns887:say xmlns:ns887="http://dummy.org/">princess@01:51:34,340-&gt;01:51:38,100#heraldry</ns887:say>
+    <ns888:take xmlns:ns888="http://dummy.org/">pain@01:20:01,810-&gt;01:20:03,750#medicine</ns888:take>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/leg">
+    <ns889:be xmlns:ns889="http://dummy.org/">better@00:10:33,750-&gt;00:10:36,980#swimming</ns889:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/life">
+    <ns890:be xmlns:ns890="http://dummy.org/">tale@01:22:44,980-&gt;01:22:48,340#folklore</ns890:be>
+    <ns891:depend xmlns:ns891="http://dummy.org/">life@00:53:20,350-&gt;00:53:23,870#painting</ns891:depend>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/lock">
+    <ns892:Western_Force xmlns:ns892="http://dbpedia.org/resource/">be@01:28:23,980-&gt;01:28:25,470#paleontology</ns892:Western_Force>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/look">
+    <ns893:hide xmlns:ns893="http://dummy.org/">bed@01:21:51,260-&gt;01:21:53,820#furniture</ns893:hide>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/magic">
+    <ns894:The_3DO_Company xmlns:ns894="http://dbpedia.org/resource/">anyone@01:23:01,730-&gt;01:23:06,690#occultism</ns894:The_3DO_Company>
+    <ns895:The_3DO_Company xmlns:ns895="http://dbpedia.org/resource/">me@01:23:01,730-&gt;01:23:06,690#occultism</ns895:The_3DO_Company>
+    <ns896:The_3DO_Company xmlns:ns896="http://dbpedia.org/resource/">you@01:23:01,730-&gt;01:23:06,690#occultism</ns896:The_3DO_Company>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/man">
+    <ns897:Talk_Talk xmlns:ns897="http://dbpedia.org/resource/">fear@00:13:52,350-&gt;00:13:56,840#sexuality</ns897:Talk_Talk>
+    <ns898:Talk_Talk xmlns:ns898="http://dbpedia.org/resource/">themselve@00:13:52,350-&gt;00:13:56,840#sexuality</ns898:Talk_Talk>
+    <ns899:find xmlns:ns899="http://dummy.org/">us@00:51:21,090-&gt;00:51:23,530#sexuality</ns899:find>
+    <ns900:go xmlns:ns900="http://dummy.org/">vidal@01:02:21,290-&gt;01:02:25,190#sexuality</ns900:go>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/mark">
+    <ns901:prove xmlns:ns901="http://dummy.org/">it@00:23:05,930-&gt;00:23:08,900#pure_science</ns901:prove>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/me">
+    <ns902:Sophus_Lie xmlns:ns902="http://dbpedia.org/resource/">you@00:45:37,920-&gt;00:45:43,860#geometry</ns902:Sophus_Lie>
+    <ns903:be xmlns:ns903="http://dummy.org/">wary@00:29:36,260-&gt;00:29:39,280#psychological_features</ns903:be>
+    <ns904:go xmlns:ns904="http://dummy.org/">you@00:19:35,990-&gt;00:19:37,650#acoustics</ns904:go>
+    <ns905:introduce xmlns:ns905="http://dummy.org/">wife@00:38:59,490-&gt;00:39:02,480#heraldry</ns905:introduce>
+    <ns906:introduce xmlns:ns906="http://dummy.org/">you@00:38:59,490-&gt;00:39:02,480#pedagogy</ns906:introduce>
+    <ns907:wary xmlns:ns907="http://dummy.org/">faun@00:29:36,260-&gt;00:29:39,280#mythology</ns907:wary>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/memory">
+    <ns908:Fading xmlns:ns908="http://dbpedia.org/resource/">time@01:17:43,040-&gt;01:17:47,140#boxing</ns908:Fading>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/mercedes">
+    <ns909:be xmlns:ns909="http://dummy.org/">you@01:27:53,320-&gt;01:27:57,280#acoustics</ns909:be>
+    <ns910:prepare xmlns:ns910="http://dummy.org/">rabbit@00:25:14,960-&gt;00:25:18,520#animal_husbandry</ns910:prepare>
+    <ns911:prepare xmlns:ns911="http://dummy.org/">tonight@00:25:14,960-&gt;00:25:18,520#graphic_arts</ns911:prepare>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/moon">
+    <ns912:Elizabeth_Bear xmlns:ns912="http://dbpedia.org/resource/">you@00:23:00,860-&gt;00:23:03,300#hunting</ns912:Elizabeth_Bear>
+    <ns913:be xmlns:ns913="http://dummy.org/">full@00:23:42,140-&gt;00:23:47,770#astronomy</ns913:be>
+    <ns914:be xmlns:ns914="http://dummy.org/">full@00:45:19,270-&gt;00:45:24,100#astronomy</ns914:be>
+    <ns915:be xmlns:ns915="http://dummy.org/">full@01:17:28,760-&gt;01:17:32,720#astronomy</ns915:be>
+    <ns916:be xmlns:ns916="http://dummy.org/">high@01:44:47,700-&gt;01:44:50,790#astronomy</ns916:be>
+    <ns917:be xmlns:ns917="http://dummy.org/">us@00:52:42,510-&gt;00:52:45,270#astronomy</ns917:be>
+    <ns918:full xmlns:ns918="http://dummy.org/">day@01:17:28,760-&gt;01:17:32,720#telegraphy</ns918:full>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/more">
+    <ns919:be xmlns:ns919="http://dummy.org/">free@01:16:02,740-&gt;01:16:05,640#nautical</ns919:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/morn">
+    <ns920:give xmlns:ns920="http://dummy.org/">drop@00:52:32,730-&gt;00:52:37,690#jewellery</ns920:give>
+    <ns921:give xmlns:ns921="http://dummy.org/">morn@00:52:32,730-&gt;00:52:37,690#time_period</ns921:give>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/mother">
+    <ns922:be xmlns:ns922="http://dummy.org/">much@01:16:35,440-&gt;01:16:39,470#mythology</ns922:be>
+    <ns923:be xmlns:ns923="http://dummy.org/">sick@00:52:06,370-&gt;00:52:09,670#mythology</ns923:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/name">
+    <ns924:be xmlns:ns924="http://dummy.org/">ofelium@00:22:08,880-&gt;00:22:11,500#acoustics</ns924:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/no">
+    <ns925:god xmlns:ns925="http://dummy.org/">master@00:16:14,490-&gt;00:16:16,150#theology</ns925:god>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/ofelium">
+    <ns926:be xmlns:ns926="http://dummy.org/">you@00:22:08,880-&gt;00:22:11,500#acoustics</ns926:be>
+    <ns927:help xmlns:ns927="http://dummy.org/">me@00:47:36,670-&gt;00:47:38,260#dentistry</ns927:help>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/once">
+    <ns928:upon xmlns:ns928="http://dummy.org/">time@00:30:59,170-&gt;00:31:03,230#boxing</ns928:upon>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/path">
+    <ns929:be xmlns:ns929="http://dummy.org/">inscrutable@01:25:39,780-&gt;01:25:43,280#ethnology</ns929:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/people">
+    <ns930:be xmlns:ns930="http://dummy.org/">careful@00:39:16,840-&gt;00:39:18,170#dance</ns930:be>
+    <ns931:hold xmlns:ns931="http://dummy.org/">belief@00:39:56,740-&gt;00:39:59,840#dentistry</ns931:hold>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/princess">
+    <ns932:The-Dream xmlns:ns932="http://dbpedia.org/resource/">world@00:01:32,770-&gt;00:01:36,770#occultism</ns932:The-Dream>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/root">
+    <ns933:give xmlns:ns933="http://dummy.org/">me@01:22:04,740-&gt;01:22:08,670#plants</ns933:give>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/she">
+    <ns934:Atlanta_Dream xmlns:ns934="http://dbpedia.org/resource/">sky@00:01:38,780-&gt;00:01:43,980#astronomy</ns934:Atlanta_Dream>
+    <ns935:Leave_of_absence xmlns:ns935="http://dbpedia.org/resource/">earth@01:51:47,820-&gt;01:51:52,520#astronomy</ns935:Leave_of_absence>
+    <ns936:Leave_of_absence xmlns:ns936="http://dbpedia.org/resource/">trace@01:51:47,820-&gt;01:51:52,520#topography</ns936:Leave_of_absence>
+    <ns937:Reign xmlns:ns937="http://dbpedia.org/resource/">century@01:51:39,040-&gt;01:51:44,380#time_period</ns937:Reign>
+    <ns938:Reign xmlns:ns938="http://dbpedia.org/resource/">heart@01:51:39,040-&gt;01:51:44,380#politics</ns938:Reign>
+    <ns939:Reign xmlns:ns939="http://dbpedia.org/resource/">justice@01:51:39,040-&gt;01:51:44,380#politics</ns939:Reign>
+    <ns940:Rico_Love xmlns:ns940="http://dbpedia.org/resource/">be@01:51:45,280-&gt;01:51:47,540#pedagogy</ns940:Rico_Love>
+    <ns941:Special_Activities_Division xmlns:ns941="http://dbpedia.org/resource/">day@01:07:11,310-&gt;01:07:13,570#telegraphy</ns941:Special_Activities_Division>
+    <ns942:believe xmlns:ns942="http://dummy.org/">begin@00:44:51,070-&gt;00:44:55,370#basketball</ns942:believe>
+    <ns943:believe xmlns:ns943="http://dummy.org/">you@00:44:51,070-&gt;00:44:55,370#religion</ns943:believe>
+    <ns944:dream xmlns:ns944="http://dummy.org/">breeze@00:01:38,780-&gt;00:01:43,980#meteorology</ns944:dream>
+    <ns945:dream xmlns:ns945="http://dummy.org/">sunshine@00:01:38,780-&gt;00:01:43,980#topography</ns945:dream>
+    <ns946:have xmlns:ns946="http://dummy.org/">fever@01:05:46,420-&gt;01:05:47,360#medicine</ns946:have>
+    <ns947:have xmlns:ns947="http://dummy.org/">rest@00:14:43,430-&gt;00:14:44,800#basketball</ns947:have>
+    <ns948:hide xmlns:ns948="http://dummy.org/">bed@01:21:51,260-&gt;01:21:53,820#furniture</ns948:hide>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/son">
+    <ns949:know xmlns:ns949="http://dummy.org/">minute@00:42:25,860-&gt;00:42:28,350#archery</ns949:know>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/spirit">
+    <ns950:remain xmlns:ns950="http://dummy.org/">human@01:17:33,300-&gt;01:17:39,000#theology</ns950:remain>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/that">
+    <ns951:Reign xmlns:ns951="http://dbpedia.org/resource/">century@01:51:39,040-&gt;01:51:44,380#time_period</ns951:Reign>
+    <ns952:Reign xmlns:ns952="http://dbpedia.org/resource/">heart@01:51:39,040-&gt;01:51:44,380#history</ns952:Reign>
+    <ns953:Reign xmlns:ns953="http://dbpedia.org/resource/">justice@01:51:39,040-&gt;01:51:44,380#history</ns953:Reign>
+    <ns954:Rico_Love xmlns:ns954="http://dbpedia.org/resource/">be@01:51:45,280-&gt;01:51:47,540#roman_catholic</ns954:Rico_Love>
+    <ns955:be xmlns:ns955="http://dummy.org/">able@01:31:54,890-&gt;01:31:57,690#basketball</ns955:be>
+    <ns956:be xmlns:ns956="http://dummy.org/">task@01:50:14,220-&gt;01:50:18,060#free_time</ns956:be>
+    <ns957:excuse xmlns:ns957="http://dummy.org/">negligence@00:52:11,210-&gt;00:52:13,800#law</ns957:excuse>
+    <ns958:grow xmlns:ns958="http://dummy.org/">hill@00:28:02,150-&gt;00:28:04,250#skiing</ns958:grow>
+    <ns959:grow xmlns:ns959="http://dummy.org/">hill@00:31:22,500-&gt;00:31:24,930#skiing</ns959:grow>
+    <ns960:grow xmlns:ns960="http://dummy.org/">millfontb@00:28:02,150-&gt;00:28:04,250#ethnology</ns960:grow>
+    <ns961:s xmlns:ns961="http://dummy.org/">all@00:15:24,740-&gt;00:15:25,760#acoustics</ns961:s>
+    <ns962:s xmlns:ns962="http://dummy.org/">excuse@00:52:11,210-&gt;00:52:13,800#psychoanalysis</ns962:s>
+    <ns963:s xmlns:ns963="http://dummy.org/">necessary@00:06:12,390-&gt;00:06:14,790#nautical</ns963:s>
+    <ns964:s xmlns:ns964="http://dummy.org/">people@01:24:00,450-&gt;01:24:03,440#dance</ns964:s>
+    <ns965:s xmlns:ns965="http://dummy.org/">plenty@01:12:51,450-&gt;01:12:53,680#acoustics</ns965:s>
+    <ns966:s xmlns:ns966="http://dummy.org/">that@00:40:11,420-&gt;00:40:13,590#acoustics</ns966:s>
+    <ns967:s xmlns:ns967="http://dummy.org/">that@00:44:28,380-&gt;00:44:33,250#acoustics</ns967:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/the">
+    <ns968:underground xmlns:ns968="http://dummy.org/">realm@00:01:26,900-&gt;00:01:31,700#occultism</ns968:underground>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/them">
+    <ns969:Craps xmlns:ns969="http://dbpedia.org/resource/">us@00:09:27,220-&gt;00:09:30,080#bowling</ns969:Craps>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/these">
+    <ns970:be xmlns:ns970="http://dummy.org/">useless@01:11:20,960-&gt;01:11:23,550#quality</ns970:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/they">
+    <ns971:Catch_and_release xmlns:ns971="http://dbpedia.org/resource/">one@01:11:46,920-&gt;01:11:48,280#baseball</ns971:Catch_and_release>
+    <ns972:Craps xmlns:ns972="http://dbpedia.org/resource/">nowhere@01:08:48,810-&gt;01:08:50,570#bowling</ns972:Craps>
+    <ns973:Employment_Appeal_Tribunal xmlns:ns973="http://dbpedia.org/resource/">couple@00:26:04,140-&gt;00:26:07,140#dance</ns973:Employment_Appeal_Tribunal>
+    <ns974:Guy_Forget xmlns:ns974="http://dbpedia.org/resource/">ticket@00:33:52,680-&gt;00:33:55,840#psychoanalysis</ns974:Guy_Forget>
+    <ns975:Leave_of_absence xmlns:ns975="http://dbpedia.org/resource/">hurry@00:33:20,550-&gt;00:33:22,380#topography</ns975:Leave_of_absence>
+    <ns976:Maximum_break xmlns:ns976="http://dbpedia.org/resource/">storehouse@01:28:18,910-&gt;01:28:20,500#telephony</ns976:Maximum_break>
+    <ns977:The_3DO_Company xmlns:ns977="http://dbpedia.org/resource/">yes@00:25:22,070-&gt;00:25:25,130#acoustics</ns977:The_3DO_Company>
+    <ns978:Wayne_Sleep xmlns:ns978="http://dbpedia.org/resource/">shade@00:27:59,650-&gt;00:28:02,150#folklore</ns978:Wayne_Sleep>
+    <ns979:be xmlns:ns979="http://dummy.org/">home@00:27:57,150-&gt;00:27:59,650#telegraphy</ns979:be>
+    <ns980:be xmlns:ns980="http://dummy.org/">home@00:31:03,810-&gt;00:31:09,440#telegraphy</ns980:be>
+    <ns981:be xmlns:ns981="http://dummy.org/">young@00:25:19,530-&gt;00:25:21,560#animal_husbandry</ns981:be>
+    <ns982:go xmlns:ns982="http://dummy.org/">hill@01:08:53,910-&gt;01:08:57,080#skiing</ns982:go>
+    <ns983:have xmlns:ns983="http://dummy.org/">grenade@01:08:53,910-&gt;01:08:57,080#atomic_physic</ns983:have>
+    <ns984:home xmlns:ns984="http://dummy.org/">creature@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns984:home>
+    <ns985:home xmlns:ns985="http://dummy.org/">creature@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns985:home>
+    <ns986:lose xmlns:ns986="http://dummy.org/">grind@00:39:21,570-&gt;00:39:25,440#school</ns986:lose>
+    <ns987:open xmlns:ns987="http://dummy.org/">any@01:08:20,910-&gt;01:08:23,210#atomic_physic</ns987:open>
+    <ns988:open xmlns:ns988="http://dummy.org/">one@01:08:17,280-&gt;01:08:19,070#atomic_physic</ns988:open>
+    <ns989:protect xmlns:ns989="http://dummy.org/">one@00:27:59,650-&gt;00:28:02,150#hockey</ns989:protect>
+    <ns990:protect xmlns:ns990="http://dummy.org/">one@00:31:16,260-&gt;00:31:18,590#hockey</ns990:protect>
+    <ns991:re xmlns:ns991="http://dummy.org/">freeze@00:11:27,770-&gt;00:11:31,000#meteorology</ns991:re>
+    <ns992:send xmlns:ns992="http://dummy.org/">another@01:02:29,430-&gt;01:02:33,120#post</ns992:send>
+    <ns993:send xmlns:ns993="http://dummy.org/">just@01:02:29,430-&gt;01:02:33,120#post</ns993:send>
+    <ns994:steal xmlns:ns994="http://dummy.org/">car@01:08:15,040-&gt;01:08:16,770#vehicles</ns994:steal>
+    <ns995:take xmlns:ns995="http://dummy.org/">anything@01:08:23,410-&gt;01:08:27,710#acoustics</ns995:take>
+    <ns996:take xmlns:ns996="http://dummy.org/">him@01:11:48,390-&gt;01:11:50,750#acoustics</ns996:take>
+    <ns997:take xmlns:ns997="http://dummy.org/">storeroom@01:11:48,390-&gt;01:11:50,750#buildings</ns997:take>
+    <ns998:watch xmlns:ns998="http://dummy.org/">us@00:34:05,590-&gt;00:34:07,720#sport</ns998:watch>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/thing">
+    <ns999:Learning xmlns:ns999="http://dbpedia.org/resource/">job@01:32:34,830-&gt;01:32:36,360#school</ns999:Learning>
+    <ns1000:be xmlns:ns1000="http://dummy.org/">good@01:06:45,980-&gt;01:06:48,150#quality</ns1000:be>
+    <ns1001:be xmlns:ns1001="http://dummy.org/">simple@01:22:37,570-&gt;01:22:39,870#book_keeping</ns1001:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/thisthi">
+    <ns1002:be xmlns:ns1002="http://dummy.org/">tobacco@00:30:03,320-&gt;00:30:05,180#hydraulics</ns1002:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/toad">
+    <ns1003:Matthew_Settle xmlns:ns1003="http://dbpedia.org/resource/">root@00:31:34,040-&gt;00:31:37,270#plants</ns1003:Matthew_Settle>
+    <ns1004:Matthew_Settle xmlns:ns1004="http://dbpedia.org/resource/">toad@00:31:34,040-&gt;00:31:37,270#animals</ns1004:Matthew_Settle>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/tree">
+    <ns1005:be xmlns:ns1005="http://dummy.org/">die@00:31:27,470-&gt;00:31:29,230#biochemistry</ns1005:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/two">
+    <ns1006:Ying_Yang_Twins xmlns:ns1006="http://dbpedia.org/resource/">bed@00:09:49,040-&gt;00:09:51,530#furniture</ns1006:Ying_Yang_Twins>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/war">
+    <ns1007:be xmlns:ns1007="http://dummy.org/">over@00:00:49,800-&gt;00:00:51,435#diplomacy</ns1007:be>
+    <ns1008:be xmlns:ns1008="http://dummy.org/">over@00:40:04,350-&gt;00:40:06,880#diplomacy</ns1008:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/we">
+    <ns1009:Catch_and_release xmlns:ns1009="http://dbpedia.org/resource/">one@01:14:01,690-&gt;01:14:05,680#baseball</ns1009:Catch_and_release>
+    <ns1010:Elizabeth_Bear xmlns:ns1010="http://dbpedia.org/resource/">be@01:26:12,780-&gt;01:26:15,720#numismatics</ns1010:Elizabeth_Bear>
+    <ns1011:Esplanade xmlns:ns1011="http://dbpedia.org/resource/">garden@00:45:26,270-&gt;00:45:34,980#agriculture</ns1011:Esplanade>
+    <ns1012:Learning xmlns:ns1012="http://dbpedia.org/resource/">job@01:32:34,830-&gt;01:32:36,360#school</ns1012:Learning>
+    <ns1013:Offer_Nissim xmlns:ns1013="http://dbpedia.org/resource/">blood@01:44:57,770-&gt;01:45:02,680#biochemistry</ns1013:Offer_Nissim>
+    <ns1014:Open-source_software xmlns:ns1014="http://dbpedia.org/resource/">portal@01:44:50,900-&gt;01:44:53,730#atomic_physic</ns1014:Open-source_software>
+    <ns1015:Set_construction xmlns:ns1015="http://dbpedia.org/resource/">post@00:09:30,420-&gt;00:09:32,150#soccer</ns1015:Set_construction>
+    <ns1016:Surround_sound xmlns:ns1016="http://dbpedia.org/resource/">unit@01:09:01,790-&gt;01:09:04,580#metrology</ns1016:Surround_sound>
+    <ns1017:allow xmlns:ns1017="http://dummy.org/">anyone@00:39:18,240-&gt;00:39:21,440#radio</ns1017:allow>
+    <ns1018:be xmlns:ns1018="http://dummy.org/">night@01:14:05,960-&gt;01:14:08,080#time_period</ns1018:be>
+    <ns1019:block xmlns:ns1019="http://dummy.org/">access@00:09:20,910-&gt;00:09:22,570#law</ns1019:block>
+    <ns1020:block xmlns:ns1020="http://dummy.org/">wood@00:09:20,910-&gt;00:09:22,570#sculpture</ns1020:block>
+    <ns1021:detect xmlns:ns1021="http://dummy.org/">movement@00:15:37,820-&gt;00:15:40,480#dance</ns1021:detect>
+    <ns1022:detect xmlns:ns1022="http://dummy.org/">sector@00:15:37,820-&gt;00:15:40,480#social</ns1022:detect>
+    <ns1023:find xmlns:ns1023="http://dummy.org/">him@00:15:57,610-&gt;00:16:00,270#acoustics</ns1023:find>
+    <ns1024:find xmlns:ns1024="http://dummy.org/">mean@01:26:08,310-&gt;01:26:11,980#statistics</ns1024:find>
+    <ns1025:find xmlns:ns1025="http://dummy.org/">this@00:39:29,085-&gt;00:39:31,780#acoustics</ns1025:find>
+    <ns1026:find xmlns:ns1026="http://dummy.org/">weapon@00:15:57,610-&gt;00:16:00,270#archery</ns1026:find>
+    <ns1027:get xmlns:ns1027="http://dummy.org/">mill@00:04:56,950-&gt;00:04:59,850#acoustics</ns1027:get>
+    <ns1028:get xmlns:ns1028="http://dummy.org/">one@01:14:52,570-&gt;01:14:54,230#acoustics</ns1028:get>
+    <ns1029:get xmlns:ns1029="http://dummy.org/">them@00:39:29,085-&gt;00:39:31,780#acoustics</ns1029:get>
+    <ns1030:get xmlns:ns1030="http://dummy.org/">these@01:14:38,420-&gt;01:14:39,890#acoustics</ns1030:get>
+    <ns1031:go xmlns:ns1031="http://dummy.org/">country@00:02:50,720-&gt;00:02:53,310#diplomacy</ns1031:go>
+    <ns1032:go xmlns:ns1032="http://dummy.org/">vidal@01:02:21,290-&gt;01:02:25,190#acoustics</ns1032:go>
+    <ns1033:have xmlns:ns1033="http://dummy.org/">purpose@01:32:24,520-&gt;01:32:28,790#philology</ns1033:have>
+    <ns1034:have xmlns:ns1034="http://dummy.org/">reinforcement@01:02:18,950-&gt;01:02:20,850#military</ns1034:have>
+    <ns1035:have xmlns:ns1035="http://dummy.org/">time@00:52:38,140-&gt;00:52:42,200#boxing</ns1035:have>
+    <ns1036:help xmlns:ns1036="http://dummy.org/">captain@00:39:40,490-&gt;00:39:42,980#military</ns1036:help>
+    <ns1037:know xmlns:ns1037="http://dummy.org/">everyone@01:26:59,860-&gt;01:27:02,800#psychology</ns1037:know>
+    <ns1038:know xmlns:ns1038="http://dummy.org/">him@01:26:59,860-&gt;01:27:02,800#psychology</ns1038:know>
+    <ns1039:make xmlns:ns1039="http://dummy.org/">bastard@01:03:42,900-&gt;01:03:45,130#tax</ns1039:make>
+    <ns1040:make xmlns:ns1040="http://dummy.org/">mistake@01:17:17,310-&gt;01:17:20,410#tax</ns1040:make>
+    <ns1041:make xmlns:ns1041="http://dummy.org/">thing@01:03:42,900-&gt;01:03:45,130#tax</ns1041:make>
+    <ns1042:need xmlns:ns1042="http://dummy.org/">help@01:18:11,340-&gt;01:18:13,060#philology</ns1042:need>
+    <ns1043:need xmlns:ns1043="http://dummy.org/">him@01:36:59,500-&gt;01:37:00,830#philology</ns1043:need>
+    <ns1044:open xmlns:ns1044="http://dummy.org/">arm@01:25:56,530-&gt;01:25:58,360#anatomy</ns1044:open>
+    <ns1045:re xmlns:ns1045="http://dummy.org/">choice@00:40:14,830-&gt;00:40:16,350#betting</ns1045:re>
+    <ns1046:re xmlns:ns1046="http://dummy.org/">equal@00:40:00,110-&gt;00:40:01,670#topography</ns1046:re>
+    <ns1047:re xmlns:ns1047="http://dummy.org/">farmer@00:16:26,730-&gt;00:16:28,400#agriculture</ns1047:re>
+    <ns1048:re xmlns:ns1048="http://dummy.org/">interest@01:32:08,640-&gt;01:32:11,970#acoustics</ns1048:re>
+    <ns1049:re xmlns:ns1049="http://dummy.org/">leave@01:41:35,400-&gt;01:41:38,770#free_time</ns1049:re>
+    <ns1050:store xmlns:ns1050="http://dummy.org/">food@00:09:23,950-&gt;00:09:27,010#furniture</ns1050:store>
+    <ns1051:take xmlns:ns1051="http://dummy.org/">care@00:40:25,410-&gt;00:40:27,400#dentistry</ns1051:take>
+    <ns1052:vanish xmlns:ns1052="http://dummy.org/">it@01:17:47,710-&gt;01:17:51,710#aviation</ns1052:vanish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/what">
+    <ns1053:The_3DO_Company xmlns:ns1053="http://dbpedia.org/resource/">be@00:24:03,720-&gt;00:24:08,060#acoustics</ns1053:The_3DO_Company>
+    <ns1054:be xmlns:ns1054="http://dummy.org/">thing@01:22:00,030-&gt;01:22:04,520#aviation</ns1054:be>
+    <ns1055:happen xmlns:ns1055="http://dummy.org/">body@00:39:37,690-&gt;00:39:40,320#health</ns1055:happen>
+    <ns1056:happen xmlns:ns1056="http://dummy.org/">s@01:11:46,920-&gt;01:11:48,280#topography</ns1056:happen>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/whoever">
+    <ns1057:Writing xmlns:ns1057="http://dbpedia.org/resource/">letter@01:31:27,530-&gt;01:31:29,760#post</ns1057:Writing>
+    <ns1058:pluck xmlns:ns1058="http://dummy.org/">immortal@00:13:31,190-&gt;00:13:35,630#drawing</ns1058:pluck>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/world">
+    <ns1059:be xmlns:ns1059="http://dummy.org/">place@01:22:48,950-&gt;01:22:51,140#astrology</ns1059:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/you">
+    <ns1060:Alex_Cross xmlns:ns1060="http://dbpedia.org/resource/">her@01:02:41,510-&gt;01:02:43,240#table_tennis</ns1060:Alex_Cross>
+    <ns1061:Completeness xmlns:ns1061="http://dbpedia.org/resource/">task@00:23:42,140-&gt;00:23:47,770#chess</ns1061:Completeness>
+    <ns1062:Count_von_Count xmlns:ns1062="http://dbpedia.org/resource/">three@01:15:11,720-&gt;01:15:15,250#number</ns1062:Count_von_Count>
+    <ns1063:Craps xmlns:ns1063="http://dbpedia.org/resource/">me@01:34:52,870-&gt;01:34:55,360#bowling</ns1063:Craps>
+    <ns1064:Cross xmlns:ns1064="http://dbpedia.org/resource/">border@01:02:41,510-&gt;01:02:43,240#table_tennis</ns1064:Cross>
+    <ns1065:East_Africa_Time xmlns:ns1065="http://dbpedia.org/resource/">anything@00:53:06,570-&gt;00:53:13,730#gastronomy</ns1065:East_Africa_Time>
+    <ns1066:Elizabeth_Bear xmlns:ns1066="http://dbpedia.org/resource/">be@00:22:57,690-&gt;00:22:59,820#numismatics</ns1066:Elizabeth_Bear>
+    <ns1067:Elizabeth_Bear xmlns:ns1067="http://dbpedia.org/resource/">man@00:22:57,690-&gt;00:22:59,820#sexuality</ns1067:Elizabeth_Bear>
+    <ns1068:Frank_Pick xmlns:ns1068="http://dbpedia.org/resource/">way@01:14:27,510-&gt;01:14:29,710#gas</ns1068:Frank_Pick>
+    <ns1069:Laughter xmlns:ns1069="http://dbpedia.org/resource/">me@01:30:42,990-&gt;01:30:44,540#play</ns1069:Laughter>
+    <ns1070:Learning xmlns:ns1070="http://dbpedia.org/resource/">that@01:22:52,520-&gt;01:22:56,250#school</ns1070:Learning>
+    <ns1071:Leave_of_absence xmlns:ns1071="http://dbpedia.org/resource/">behind@00:34:20,710-&gt;00:34:23,200#topography</ns1071:Leave_of_absence>
+    <ns1072:Meeting xmlns:ns1072="http://dbpedia.org/resource/">her@01:07:07,240-&gt;01:07:10,470#geometry</ns1072:Meeting>
+    <ns1073:Richie_Havens xmlns:ns1073="http://dbpedia.org/resource/">me@00:18:54,550-&gt;00:18:56,070#vehicles</ns1073:Richie_Havens>
+    <ns1074:Rico_Love xmlns:ns1074="http://dbpedia.org/resource/">her@01:02:41,510-&gt;01:02:43,240#pedagogy</ns1074:Rico_Love>
+    <ns1075:Rico_Love xmlns:ns1075="http://dbpedia.org/resource/">her@01:07:18,150-&gt;01:07:19,640#pedagogy</ns1075:Rico_Love>
+    <ns1076:Screw xmlns:ns1076="http://dbpedia.org/resource/">gun@01:02:33,700-&gt;01:02:36,930#sexuality</ns1076:Screw>
+    <ns1077:Screw_thread xmlns:ns1077="http://dbpedia.org/resource/">re@01:02:33,700-&gt;01:02:36,930#sexuality</ns1077:Screw_thread>
+    <ns1078:Suzuki_Carry xmlns:ns1078="http://dbpedia.org/resource/">task@00:52:04,070-&gt;00:52:06,230#railway</ns1078:Suzuki_Carry>
+    <ns1079:The_3DO_Company xmlns:ns1079="http://dbpedia.org/resource/">everything@01:36:33,970-&gt;01:36:38,200#acoustics</ns1079:The_3DO_Company>
+    <ns1080:The_3DO_Company xmlns:ns1080="http://dbpedia.org/resource/">god@01:18:36,390-&gt;01:18:37,950#theology</ns1080:The_3DO_Company>
+    <ns1081:The_3DO_Company xmlns:ns1081="http://dbpedia.org/resource/">it@01:23:30,850-&gt;01:23:31,820#acoustics</ns1081:The_3DO_Company>
+    <ns1082:The_Age xmlns:ns1082="http://dbpedia.org/resource/">them@01:17:39,100-&gt;01:17:42,970#paleontology</ns1082:The_Age>
+    <ns1083:Wayne_Sleep xmlns:ns1083="http://dbpedia.org/resource/">night@00:09:45,600-&gt;00:09:47,730#folklore</ns1083:Wayne_Sleep>
+    <ns1084:afraid xmlns:ns1084="http://dummy.org/">him@00:51:24,030-&gt;00:51:27,160#psychological_features</ns1084:afraid>
+    <ns1085:ask xmlns:ns1085="http://dummy.org/">it@01:31:17,550-&gt;01:31:20,320#post</ns1085:ask>
+    <ns1086:be xmlns:ns1086="http://dummy.org/">alone@00:12:42,340-&gt;00:12:45,470#acoustics</ns1086:be>
+    <ns1087:be xmlns:ns1087="http://dummy.org/">alone@00:23:57,450-&gt;00:24:00,580#acoustics</ns1087:be>
+    <ns1088:be xmlns:ns1088="http://dummy.org/">beautiful@00:28:15,580-&gt;00:28:18,140#mythology</ns1088:be>
+    <ns1089:be xmlns:ns1089="http://dummy.org/">free@01:16:02,740-&gt;01:16:05,640#nautical</ns1089:be>
+    <ns1090:be xmlns:ns1090="http://dummy.org/">sure@00:39:26,310-&gt;00:39:29,050#psychology</ns1090:be>
+    <ns1091:beautiful xmlns:ns1091="http://dummy.org/">captain@00:28:15,580-&gt;00:28:18,140#mythology</ns1091:beautiful>
+    <ns1092:become xmlns:ns1092="http://dummy.org/">mortal@00:23:34,430-&gt;00:23:38,560#mythology</ns1092:become>
+    <ns1093:believe xmlns:ns1093="http://dummy.org/">fairy@00:29:07,900-&gt;00:29:11,830#folklore</ns1093:believe>
+    <ns1094:bring xmlns:ns1094="http://dummy.org/">book@00:02:48,050-&gt;00:02:50,540#roman_catholic</ns1094:bring>
+    <ns1095:check xmlns:ns1095="http://dummy.org/">garden@00:38:50,910-&gt;00:38:52,500#agriculture</ns1095:check>
+    <ns1096:check xmlns:ns1096="http://dummy.org/">very@00:30:07,920-&gt;00:30:10,250#tv</ns1096:check>
+    <ns1097:dare xmlns:ns1097="http://dummy.org/">girl@01:33:00,860-&gt;01:33:04,920#person</ns1097:dare>
+    <ns1098:die xmlns:ns1098="http://dummy.org/">them@01:17:39,100-&gt;01:17:42,970#biochemistry</ns1098:die>
+    <ns1099:exert xmlns:ns1099="http://dummy.org/">yourself@00:06:15,260-&gt;00:06:17,730#environment</ns1099:exert>
+    <ns1100:find xmlns:ns1100="http://dummy.org/">mark@00:23:05,930-&gt;00:23:08,900#pure_science</ns1100:find>
+    <ns1101:find xmlns:ns1101="http://dummy.org/">pride@01:32:03,430-&gt;01:32:07,230#psychological_features</ns1101:find>
+    <ns1102:get xmlns:ns1102="http://dummy.org/">dress@00:29:01,560-&gt;00:29:05,510#fashion</ns1102:get>
+    <ns1103:get xmlns:ns1103="http://dummy.org/">it@00:34:26,480-&gt;00:34:28,570#acoustics</ns1103:get>
+    <ns1104:get xmlns:ns1104="http://dummy.org/">milk@00:29:01,560-&gt;00:29:05,510#gastronomy</ns1104:get>
+    <ns1105:give xmlns:ns1105="http://dummy.org/">brat@01:45:23,200-&gt;01:45:29,100#person</ns1105:give>
+    <ns1106:give xmlns:ns1106="http://dummy.org/">him@01:45:33,280-&gt;01:45:35,740#acoustics</ns1106:give>
+    <ns1107:give xmlns:ns1107="http://dummy.org/">rights@01:45:23,200-&gt;01:45:29,100#acoustics</ns1107:give>
+    <ns1108:give xmlns:ns1108="http://dummy.org/">throne@01:45:33,280-&gt;01:45:35,740#furniture</ns1108:give>
+    <ns1109:go xmlns:ns1109="http://dummy.org/">bed@00:42:43,740-&gt;00:42:46,340#furniture</ns1109:go>
+    <ns1110:go xmlns:ns1110="http://dummy.org/">garce@01:31:37,940-&gt;01:31:39,410#acoustics</ns1110:go>
+    <ns1111:go xmlns:ns1111="http://dummy.org/">place@00:52:50,720-&gt;00:52:56,310#astrology</ns1111:go>
+    <ns1112:go xmlns:ns1112="http://dummy.org/">supper@00:42:43,740-&gt;00:42:46,340#gastronomy</ns1112:go>
+    <ns1113:have xmlns:ns1113="http://dummy.org/">advantage@01:18:50,910-&gt;01:18:55,640#racing</ns1113:have>
+    <ns1114:have xmlns:ns1114="http://dummy.org/">idea@00:05:02,350-&gt;00:05:04,790#psychoanalysis</ns1114:have>
+    <ns1115:have xmlns:ns1115="http://dummy.org/">it@01:15:32,610-&gt;01:15:36,740#acoustics</ns1115:have>
+    <ns1116:hear xmlns:ns1116="http://dummy.org/">me@01:06:43,350-&gt;01:06:44,870#acoustics</ns1116:hear>
+    <ns1117:help xmlns:ns1117="http://dummy.org/">man@00:49:15,970-&gt;00:49:18,800#sexuality</ns1117:help>
+    <ns1118:help xmlns:ns1118="http://dummy.org/">wood@00:49:15,970-&gt;00:49:18,800#buildings</ns1118:help>
+    <ns1119:keep xmlns:ns1119="http://dummy.org/">eye@00:25:39,050-&gt;00:25:41,890#optics</ns1119:keep>
+    <ns1120:kill xmlns:ns1120="http://dummy.org/">him@00:17:01,900-&gt;00:17:05,170#mythology</ns1120:kill>
+    <ns1121:kill xmlns:ns1121="http://dummy.org/">him@01:02:29,430-&gt;01:02:33,120#mythology</ns1121:kill>
+    <ns1122:know xmlns:ns1122="http://dummy.org/">ferreiro@01:26:55,290-&gt;01:26:58,780#psychology</ns1122:know>
+    <ns1123:know xmlns:ns1123="http://dummy.org/">her@01:30:35,950-&gt;01:30:37,570#psychology</ns1123:know>
+    <ns1124:know xmlns:ns1124="http://dummy.org/">it@01:23:45,370-&gt;01:23:47,890#psychology</ns1124:know>
+    <ns1125:know xmlns:ns1125="http://dummy.org/">lullaby@00:49:52,510-&gt;00:49:54,630#psychology</ns1125:know>
+    <ns1126:like xmlns:ns1126="http://dummy.org/">it@00:26:45,150-&gt;00:26:46,350#acoustics</ns1126:like>
+    <ns1127:look xmlns:ns1127="http://dummy.org/">marvelous@00:28:42,440-&gt;00:28:46,810#sexuality</ns1127:look>
+    <ns1128:look xmlns:ns1128="http://dummy.org/">pantry@00:38:43,870-&gt;00:38:45,900#sexuality</ns1128:look>
+    <ns1129:look xmlns:ns1129="http://dummy.org/">princess@00:28:20,980-&gt;00:28:22,740#heraldry</ns1129:look>
+    <ns1130:look xmlns:ns1130="http://dummy.org/">room@00:38:43,870-&gt;00:38:45,900#buildings</ns1130:look>
+    <ns1131:make xmlns:ns1131="http://dummy.org/">mama@01:06:53,290-&gt;01:06:54,920#tax</ns1131:make>
+    <ns1132:mean xmlns:ns1132="http://dummy.org/">captain@00:43:03,500-&gt;00:43:04,760#roman_catholic</ns1132:mean>
+    <ns1133:need xmlns:ns1133="http://dummy.org/">it@00:45:06,320-&gt;00:45:09,480#philology</ns1133:need>
+    <ns1134:obey xmlns:ns1134="http://dummy.org/">me@01:23:37,160-&gt;01:23:39,390#physics</ns1134:obey>
+    <ns1135:obey xmlns:ns1135="http://dummy.org/">me@01:23:49,310-&gt;01:23:52,280#physics</ns1135:obey>
+    <ns1136:own xmlns:ns1136="http://dummy.org/">thing@01:14:32,920-&gt;01:14:36,380#aviation</ns1136:own>
+    <ns1137:put xmlns:ns1137="http://dummy.org/">stone@00:31:40,310-&gt;00:31:43,510#paleontology</ns1137:put>
+    <ns1138:re xmlns:ns1138="http://dummy.org/">choice@00:39:43,100-&gt;00:39:45,260#betting</ns1138:re>
+    <ns1139:re xmlns:ns1139="http://dummy.org/">moanna@00:22:46,380-&gt;00:22:50,010#acoustics</ns1139:re>
+    <ns1140:re xmlns:ns1140="http://dummy.org/">old@00:03:00,900-&gt;00:03:04,990#paleontology</ns1140:re>
+    <ns1141:re xmlns:ns1141="http://dummy.org/">older@00:12:50,490-&gt;00:12:54,220#banking</ns1141:re>
+    <ns1142:re xmlns:ns1142="http://dummy.org/">sure@01:31:40,980-&gt;01:31:42,380#psychology</ns1142:re>
+    <ns1143:re xmlns:ns1143="http://dummy.org/">wrong@00:39:49,640-&gt;00:39:50,690#quality</ns1143:re>
+    <ns1144:relieve xmlns:ns1144="http://dummy.org/">be@01:16:40,910-&gt;01:16:46,980#pharmacy</ns1144:relieve>
+    <ns1145:retrieve xmlns:ns1145="http://dummy.org/">key@00:44:36,160-&gt;00:44:38,390#banking</ns1145:retrieve>
+    <ns1146:see xmlns:ns1146="http://dummy.org/">feast@00:53:06,570-&gt;00:53:13,730#acoustics</ns1146:see>
+    <ns1147:see xmlns:ns1147="http://dummy.org/">mother@00:08:48,980-&gt;00:08:50,640#mythology</ns1147:see>
+    <ns1148:see xmlns:ns1148="http://dummy.org/">us@01:17:52,350-&gt;01:17:56,150#acoustics</ns1148:see>
+    <ns1149:spill xmlns:ns1149="http://dummy.org/">blood@01:50:09,820-&gt;01:50:13,450#biochemistry</ns1149:spill>
+    <ns1150:spill xmlns:ns1150="http://dummy.org/">that@01:50:09,820-&gt;01:50:13,450#earth</ns1150:spill>
+    <ns1151:take xmlns:ns1151="http://dummy.org/">care@01:02:37,040-&gt;01:02:41,270#dentistry</ns1151:take>
+    <ns1152:tell xmlns:ns1152="http://dummy.org/">anyone@00:49:30,450-&gt;00:49:31,780#book_keeping</ns1152:tell>
+    <ns1153:tell xmlns:ns1153="http://dummy.org/">me@01:14:55,610-&gt;01:14:58,040#book_keeping</ns1153:tell>
+    <ns1154:think xmlns:ns1154="http://dummy.org/">me@01:27:28,460-&gt;01:27:29,890#theology</ns1154:think>
+    <ns1155:think xmlns:ns1155="http://dummy.org/">this@01:21:54,220-&gt;01:21:55,420#theology</ns1155:think>
+    <ns1156:want xmlns:ns1156="http://dummy.org/">honey@00:28:54,550-&gt;00:28:56,020#animal_husbandry</ns1156:want>
+    <ns1157:want xmlns:ns1157="http://dummy.org/">milk@00:28:54,550-&gt;00:28:56,020#gastronomy</ns1157:want>
+    <ns1158:wrong xmlns:ns1158="http://dummy.org/">that@00:39:49,640-&gt;00:39:50,690#quality</ns1158:wrong>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/CreativeWork">
+    <ns1159:Fighting_in_ice_hockey xmlns:ns1159="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns1159:Fighting_in_ice_hockey>
+    <ns1160:The_Clean xmlns:ns1160="http://dbpedia.org/resource/">be@00:28:34,900-&gt;00:28:36,620#gastronomy</ns1160:The_Clean>
+    <ns1161:Wound xmlns:ns1161="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns1161:Wound>
+    <ns1162:establish xmlns:ns1162="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns1162:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/MusicGroup">
+    <ns1163:be xmlns:ns1163="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns1163:be>
+    <ns1164:be xmlns:ns1164="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1164:be>
+    <ns1165:be xmlns:ns1165="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1165:be>
+    <ns1166:different xmlns:ns1166="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns1166:different>
+    <ns1167:full xmlns:ns1167="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1167:full>
+    <ns1168:full xmlns:ns1168="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1168:full>
+    <ns1169:full xmlns:ns1169="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1169:full>
+    <ns1170:full xmlns:ns1170="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1170:full>
+    <ns1171:stop xmlns:ns1171="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns1171:stop>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/Organization">
+    <ns1172:Wii xmlns:ns1172="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns1172:Wii>
+    <ns1173:acquaint xmlns:ns1173="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns1173:acquaint>
+    <ns1174:be xmlns:ns1174="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns1174:be>
+    <ns1175:be xmlns:ns1175="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1175:be>
+    <ns1176:be xmlns:ns1176="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1176:be>
+    <ns1177:be xmlns:ns1177="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns1177:be>
+    <ns1178:be xmlns:ns1178="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns1178:be>
+    <ns1179:full xmlns:ns1179="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1179:full>
+    <ns1180:full xmlns:ns1180="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1180:full>
+    <ns1181:full xmlns:ns1181="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1181:full>
+    <ns1182:full xmlns:ns1182="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1182:full>
+    <ns1183:stop xmlns:ns1183="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns1183:stop>
+    <ns1184:want xmlns:ns1184="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns1184:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/Person">
+    <ns1185:Interest_rate xmlns:ns1185="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns1185:Interest_rate>
+    <ns1186:be xmlns:ns1186="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns1186:be>
+    <ns1187:be xmlns:ns1187="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1187:be>
+    <ns1188:be xmlns:ns1188="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1188:be>
+    <ns1189:be xmlns:ns1189="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1189:be>
+    <ns1190:be xmlns:ns1190="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns1190:be>
+    <ns1191:be xmlns:ns1191="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns1191:be>
+    <ns1192:be xmlns:ns1192="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns1192:be>
+    <ns1193:be xmlns:ns1193="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns1193:be>
+    <ns1194:be xmlns:ns1194="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns1194:be>
+    <ns1195:be xmlns:ns1195="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns1195:be>
+    <ns1196:be xmlns:ns1196="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns1196:be>
+    <ns1197:be xmlns:ns1197="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns1197:be>
+    <ns1198:be xmlns:ns1198="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns1198:be>
+    <ns1199:be xmlns:ns1199="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns1199:be>
+    <ns1200:be xmlns:ns1200="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns1200:be>
+    <ns1201:book xmlns:ns1201="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1201:book>
+    <ns1202:bread xmlns:ns1202="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1202:bread>
+    <ns1203:bread xmlns:ns1203="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1203:bread>
+    <ns1204:die xmlns:ns1204="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns1204:die>
+    <ns1205:different xmlns:ns1205="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns1205:different>
+    <ns1206:last xmlns:ns1206="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns1206:last>
+    <ns1207:wait xmlns:ns1207="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns1207:wait>
+    <ns1208:wait xmlns:ns1208="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns1208:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Actor">
+    <ns1209:be xmlns:ns1209="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns1209:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/AilmentCondition">
+    <ns1210:Leet xmlns:ns1210="http://dbpedia.org/resource/">informer@01:27:04,770-&gt;01:27:08,400#acoustics</ns1210:Leet>
+    <ns1211:Leet xmlns:ns1211="http://dbpedia.org/resource/">mill@01:27:04,770-&gt;01:27:08,400#acoustics</ns1211:Leet>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Artist">
+    <ns1212:wait xmlns:ns1212="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns1212:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Band_MusicGroup">
+    <ns1213:stop xmlns:ns1213="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns1213:stop>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/BasketballPlayer">
+    <ns1214:be xmlns:ns1214="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns1214:be>
+    <ns1215:high xmlns:ns1215="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns1215:high>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Business">
+    <ns1216:East_Africa_Time xmlns:ns1216="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns1216:East_Africa_Time>
+    <ns1217:Wii xmlns:ns1217="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns1217:Wii>
+    <ns1218:acquaint xmlns:ns1218="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns1218:acquaint>
+    <ns1219:be xmlns:ns1219="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns1219:be>
+    <ns1220:be xmlns:ns1220="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns1220:be>
+    <ns1221:be xmlns:ns1221="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns1221:be>
+    <ns1222:want xmlns:ns1222="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns1222:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Judge">
+    <ns1223:Interest_rate xmlns:ns1223="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns1223:Interest_rate>
+    <ns1224:be xmlns:ns1224="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns1224:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/MusicalComposition">
+    <ns1225:be xmlns:ns1225="http://dummy.org/">reaffirm@01:26:29,070-&gt;01:26:33,330#religion</ns1225:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/NewspaperSeries">
+    <ns1226:establish xmlns:ns1226="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns1226:establish>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Organization">
+    <ns1227:East_Africa_Time xmlns:ns1227="http://dbpedia.org/resource/">anything@00:56:03,440-&gt;00:56:06,780#gastronomy</ns1227:East_Africa_Time>
+    <ns1228:Wii xmlns:ns1228="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns1228:Wii>
+    <ns1229:acquaint xmlns:ns1229="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns1229:acquaint>
+    <ns1230:be xmlns:ns1230="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns1230:be>
+    <ns1231:be xmlns:ns1231="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns1231:be>
+    <ns1232:be xmlns:ns1232="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns1232:be>
+    <ns1233:want xmlns:ns1233="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns1233:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/PersonWithOccupation">
+    <ns1234:wait xmlns:ns1234="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns1234:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Politician">
+    <ns1235:be xmlns:ns1235="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns1235:be>
+    <ns1236:be xmlns:ns1236="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1236:be>
+    <ns1237:be xmlns:ns1237="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1237:be>
+    <ns1238:be xmlns:ns1238="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1238:be>
+    <ns1239:be xmlns:ns1239="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns1239:be>
+    <ns1240:be xmlns:ns1240="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns1240:be>
+    <ns1241:be xmlns:ns1241="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns1241:be>
+    <ns1242:be xmlns:ns1242="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns1242:be>
+    <ns1243:be xmlns:ns1243="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns1243:be>
+    <ns1244:be xmlns:ns1244="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns1244:be>
+    <ns1245:be xmlns:ns1245="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns1245:be>
+    <ns1246:book xmlns:ns1246="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1246:book>
+    <ns1247:bread xmlns:ns1247="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1247:bread>
+    <ns1248:bread xmlns:ns1248="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1248:bread>
+    <ns1249:last xmlns:ns1249="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns1249:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/PresidentOfOrganization">
+    <ns1250:be xmlns:ns1250="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns1250:be>
+    <ns1251:be xmlns:ns1251="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1251:be>
+    <ns1252:be xmlns:ns1252="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1252:be>
+    <ns1253:be xmlns:ns1253="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1253:be>
+    <ns1254:be xmlns:ns1254="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns1254:be>
+    <ns1255:be xmlns:ns1255="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns1255:be>
+    <ns1256:be xmlns:ns1256="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns1256:be>
+    <ns1257:be xmlns:ns1257="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns1257:be>
+    <ns1258:be xmlns:ns1258="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns1258:be>
+    <ns1259:be xmlns:ns1259="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns1259:be>
+    <ns1260:be xmlns:ns1260="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns1260:be>
+    <ns1261:book xmlns:ns1261="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1261:book>
+    <ns1262:bread xmlns:ns1262="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1262:bread>
+    <ns1263:bread xmlns:ns1263="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1263:bread>
+    <ns1264:last xmlns:ns1264="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns1264:last>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/TVShow_IBT">
+    <ns1265:Fighting_in_ice_hockey xmlns:ns1265="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns1265:Fighting_in_ice_hockey>
+    <ns1266:The_Clean xmlns:ns1266="http://dbpedia.org/resource/">be@00:28:34,900-&gt;00:28:36,620#gastronomy</ns1266:The_Clean>
+    <ns1267:Wound xmlns:ns1267="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns1267:Wound>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Writer">
+    <ns1268:wait xmlns:ns1268="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns1268:wait>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.opengis.net/gml/_Feature">
+    <ns1269:s xmlns:ns1269="http://dummy.org/">pretty@01:07:07,240-&gt;01:07:10,470#acoustics</ns1269:s>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+    <ns1270:Fighting_in_ice_hockey xmlns:ns1270="http://dbpedia.org/resource/">font@00:00:53,300-&gt;00:00:55,465#sexuality</ns1270:Fighting_in_ice_hockey>
+    <ns1271:Interest_rate xmlns:ns1271="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns1271:Interest_rate>
+    <ns1272:Leet xmlns:ns1272="http://dbpedia.org/resource/">informer@01:27:04,770-&gt;01:27:08,400#acoustics</ns1272:Leet>
+    <ns1273:Leet xmlns:ns1273="http://dbpedia.org/resource/">mill@01:27:04,770-&gt;01:27:08,400#acoustics</ns1273:Leet>
+    <ns1274:The_Clean xmlns:ns1274="http://dbpedia.org/resource/">be@00:28:34,900-&gt;00:28:36,620#gastronomy</ns1274:The_Clean>
+    <ns1275:Wii xmlns:ns1275="http://dbpedia.org/resource/">princess@00:35:42,920-&gt;00:35:46,480#heraldry</ns1275:Wii>
+    <ns1276:Wound xmlns:ns1276="http://dbpedia.org/resource/">s@01:40:10,750-&gt;01:40:14,020#earth</ns1276:Wound>
+    <ns1277:acquaint xmlns:ns1277="http://dummy.org/">father@00:42:04,700-&gt;00:42:06,900#mythology</ns1277:acquaint>
+    <ns1278:be xmlns:ns1278="http://dummy.org/">age@00:26:51,290-&gt;00:26:53,730#quality</ns1278:be>
+    <ns1279:be xmlns:ns1279="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns1279:be>
+    <ns1280:be xmlns:ns1280="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1280:be>
+    <ns1281:be xmlns:ns1281="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1281:be>
+    <ns1282:be xmlns:ns1282="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1282:be>
+    <ns1283:be xmlns:ns1283="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns1283:be>
+    <ns1284:be xmlns:ns1284="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns1284:be>
+    <ns1285:be xmlns:ns1285="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns1285:be>
+    <ns1286:be xmlns:ns1286="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns1286:be>
+    <ns1287:be xmlns:ns1287="http://dummy.org/">full@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1287:be>
+    <ns1288:be xmlns:ns1288="http://dummy.org/">full@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1288:be>
+    <ns1289:be xmlns:ns1289="http://dummy.org/">girl@00:29:14,670-&gt;00:29:16,030#person</ns1289:be>
+    <ns1290:be xmlns:ns1290="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns1290:be>
+    <ns1291:be xmlns:ns1291="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns1291:be>
+    <ns1292:be xmlns:ns1292="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns1292:be>
+    <ns1293:be xmlns:ns1293="http://dummy.org/">moment@00:26:26,770-&gt;00:26:28,790#time_period</ns1293:be>
+    <ns1294:be xmlns:ns1294="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns1294:be>
+    <ns1295:be xmlns:ns1295="http://dummy.org/">reaffirm@01:26:29,070-&gt;01:26:33,330#religion</ns1295:be>
+    <ns1296:be xmlns:ns1296="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns1296:be>
+    <ns1297:be xmlns:ns1297="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns1297:be>
+    <ns1298:be xmlns:ns1298="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns1298:be>
+    <ns1299:book xmlns:ns1299="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1299:book>
+    <ns1300:bread xmlns:ns1300="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1300:bread>
+    <ns1301:bread xmlns:ns1301="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1301:bread>
+    <ns1302:die xmlns:ns1302="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns1302:die>
+    <ns1303:different xmlns:ns1303="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns1303:different>
+    <ns1304:establish xmlns:ns1304="http://dummy.org/">be@00:00:55,500-&gt;00:00:57,770#religion</ns1304:establish>
+    <ns1305:full xmlns:ns1305="http://dummy.org/">magic@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1305:full>
+    <ns1306:full xmlns:ns1306="http://dummy.org/">magic@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1306:full>
+    <ns1307:full xmlns:ns1307="http://dummy.org/">wonder@00:31:03,810-&gt;00:31:09,440#animal_husbandry</ns1307:full>
+    <ns1308:full xmlns:ns1308="http://dummy.org/">wonderfontb@00:27:57,150-&gt;00:27:59,650#animal_husbandry</ns1308:full>
+    <ns1309:last xmlns:ns1309="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns1309:last>
+    <ns1310:stop xmlns:ns1310="http://dummy.org/">car@00:03:08,070-&gt;00:03:09,970#vehicles</ns1310:stop>
+    <ns1311:wait xmlns:ns1311="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns1311:wait>
+    <ns1312:wait xmlns:ns1312="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns1312:wait>
+    <ns1313:want xmlns:ns1313="http://dummy.org/">son@00:39:51,910-&gt;00:39:55,770#archery</ns1313:want>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person">
+    <ns1314:Interest_rate xmlns:ns1314="http://dbpedia.org/resource/">other@00:41:42,120-&gt;00:41:44,350#folklore</ns1314:Interest_rate>
+    <ns1315:be xmlns:ns1315="http://dummy.org/">all@00:10:41,060-&gt;00:10:42,920#acoustics</ns1315:be>
+    <ns1316:be xmlns:ns1316="http://dummy.org/">book@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1316:be>
+    <ns1317:be xmlns:ns1317="http://dummy.org/">bread@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1317:be>
+    <ns1318:be xmlns:ns1318="http://dummy.org/">bread@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1318:be>
+    <ns1319:be xmlns:ns1319="http://dummy.org/">chance@01:36:40,010-&gt;01:36:42,980#racing</ns1319:be>
+    <ns1320:be xmlns:ns1320="http://dummy.org/">day@00:34:29,320-&gt;00:34:31,780#telegraphy</ns1320:be>
+    <ns1321:be xmlns:ns1321="http://dummy.org/">different@00:11:56,130-&gt;00:11:59,330#time_period</ns1321:be>
+    <ns1322:be xmlns:ns1322="http://dummy.org/">fairy@00:19:06,690-&gt;00:19:08,180#folklore</ns1322:be>
+    <ns1323:be xmlns:ns1323="http://dummy.org/">interest@00:41:42,120-&gt;00:41:44,350#folklore</ns1323:be>
+    <ns1324:be xmlns:ns1324="http://dummy.org/">last@00:23:22,080-&gt;00:23:24,680#acoustics</ns1324:be>
+    <ns1325:be xmlns:ns1325="http://dummy.org/">madness@00:51:19,260-&gt;00:51:20,730#psychiatry</ns1325:be>
+    <ns1326:be xmlns:ns1326="http://dummy.org/">old@00:12:03,840-&gt;00:12:05,700#paleontology</ns1326:be>
+    <ns1327:be xmlns:ns1327="http://dummy.org/">root@00:52:14,080-&gt;00:52:18,950#plants</ns1327:be>
+    <ns1328:be xmlns:ns1328="http://dummy.org/">way@01:09:41,490-&gt;01:09:45,990#gas</ns1328:be>
+    <ns1329:be xmlns:ns1329="http://dummy.org/">young@00:30:59,170-&gt;00:31:03,230#animal_husbandry</ns1329:be>
+    <ns1330:book xmlns:ns1330="http://dummy.org/">crossroads@00:23:50,710-&gt;00:23:56,740#roman_catholic</ns1330:book>
+    <ns1331:bread xmlns:ns1331="http://dummy.org/">spain@00:46:26,830-&gt;00:46:29,060#gastronomy</ns1331:bread>
+    <ns1332:bread xmlns:ns1332="http://dummy.org/">spain@00:47:56,390-&gt;00:47:58,720#gastronomy</ns1332:bread>
+    <ns1333:die xmlns:ns1333="http://dummy.org/">battlefield@00:42:18,890-&gt;00:42:23,190#betting</ns1333:die>
+    <ns1334:different xmlns:ns1334="http://dummy.org/">night@00:11:56,130-&gt;00:11:59,330#time_period</ns1334:different>
+    <ns1335:high xmlns:ns1335="http://dummy.org/">sky@01:44:47,700-&gt;01:44:50,790#astronomy</ns1335:high>
+    <ns1336:last xmlns:ns1336="http://dummy.org/">them@00:23:22,080-&gt;00:23:24,680#acoustics</ns1336:last>
+    <ns1337:wait xmlns:ns1337="http://dummy.org/">office@00:10:46,030-&gt;00:10:48,050#insurance</ns1337:wait>
+    <ns1338:wait xmlns:ns1338="http://dummy.org/">you@00:10:46,030-&gt;00:10:48,050#time_period</ns1338:wait>
+  </rdf:Description>
+</rdf:RDF>

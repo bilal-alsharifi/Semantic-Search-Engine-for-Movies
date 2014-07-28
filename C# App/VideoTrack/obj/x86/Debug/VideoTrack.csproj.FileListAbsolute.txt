@@ -1,0 +1,154 @@
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\bin\Debug\VideoTrack.exe
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\bin\Debug\VideoTrack.pdb
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.Form1.resources
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.Properties.Resources.resources
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.exe.licenses
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.exe
+C:\Users\Anna Adjemian\Documents\Visual Studio 2010\Projects\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.pdb
+C:\Users\Anna Adjemian\documents\visual studio 2010\projects\VideoTrack\VideoTrack\bin\Debug\VideoTrack.exe.config
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VideoTrack.exe.config
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.exe
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VideoTrack.exe
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VideoTrack.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.Form1.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.Properties.Resources.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.exe.licenses
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\HtmlAgilityPack.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\HtmlAgilityPack.xml
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Newtonsoft.Json.xml
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VDS.Common.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VDS.Common.xml
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\dotNetRDF.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\HtmlAgilityPack.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Newtonsoft.Json.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VDS.Common.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\dotNetRDF.xml
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Microsoft.GLEE.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.Form2.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.RibbonForm1.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.Form3.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.QueryForm.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\Interop.WMPLib.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.csproj.ResolveComReference.cache
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.MoviePlayer.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\Interop.WMPLib.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\AxInterop.WMPLib.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\LAIR.Extensions.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\LAIR.IO.dll
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.DomainsChart.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.DragandDrop.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VideoTrack.exe.manifest
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\bin\Debug\VideoTrack.application
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.exe.manifest
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.application
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.test1.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.SendEmail.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.BuyScenes.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.CloudControl.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\VideoTrack\VideoTrack\obj\x86\Debug\VideoTrack.TagsCloud.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VideoTrack.exe.config
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.csproj.ResolveComReference.cache
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.exe
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VideoTrack.exe.manifest
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VideoTrack.application
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VideoTrack.exe
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VideoTrack.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\LAIR.Extensions.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\LAIR.IO.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\dotNetRDF.xml
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\Microsoft.GLEE.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\Microsoft.GLEE.Drawing.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VDS.Common.pdb
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\VDS.Common.xml
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\Interop.WMPLib.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.csprojResolveAssemblyReference.cache
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.BuyScenes.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.CloudControl.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.DomainsChart.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.DragandDrop.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.Form1.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.Form2.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.Form3.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.MoviePlayer.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.Properties.Resources.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.RibbonForm1.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.QueryForm.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.SendEmail.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.TagsCloud.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.test1.resources
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.csproj.GenerateResource.Cache
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.exe.licenses
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.exe.manifest
+C:\Users\Bilalo89\Desktop\toBilalFinal\VideoTrack\obj\x86\Debug\VideoTrack.application
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VideoTrack.exe.config
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\Interop.WMPLib.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.csproj.ResolveComReference.cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VideoTrack.exe.manifest
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VideoTrack.application
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VideoTrack.exe
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VideoTrack.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\LAIR.Extensions.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\LAIR.IO.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\dotNetRDF.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\HtmlAgilityPack.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\HtmlAgilityPack.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\Microsoft.GLEE.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\Microsoft.GLEE.Drawing.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\Microsoft.GLEE.GraphViewerGDI.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\Newtonsoft.Json.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VDS.Common.pdb
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\VDS.Common.xml
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\Interop.WMPLib.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\bin\Debug\AxInterop.WMPLib.dll
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.csprojResolveAssemblyReference.cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.BuyScenes.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.CloudControl.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.DomainsChart.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.DragandDrop.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.Form1.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.Form2.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.Form3.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.MoviePlayer.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.Properties.Resources.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.RibbonForm1.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.QueryForm.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.SendEmail.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.TagsCloud.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.test1.resources
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.csproj.GenerateResource.Cache
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.exe.licenses
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.exe.manifest
+D:\Culture\University\5th\Information Retrieval\Lab\Homework\C# App\VideoTrack\obj\x86\Debug\VideoTrack.application

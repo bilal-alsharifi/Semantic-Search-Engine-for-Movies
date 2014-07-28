@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2008/09/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ModelStoreContainer" CdmEntityContainer="Entities">
+    <EntitySetMapping Name="Movie">
+      <EntityTypeMapping TypeName="Model.Movie">
+        <MappingFragment StoreEntitySet="Movie">
+          <ScalarProperty Name="movieID" ColumnName="movieID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Subtitle">
+      <EntityTypeMapping TypeName="Model.Subtitle">
+        <MappingFragment StoreEntitySet="Subtitle">
+          <ScalarProperty Name="subtitleID" ColumnName="subtitleID" />
+          <ScalarProperty Name="status" ColumnName="status" />
+          <ScalarProperty Name="movieID" ColumnName="movieID" />
+          <ScalarProperty Name="languageID" ColumnName="languageID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SubtitleLanguage">
+      <EntityTypeMapping TypeName="Model.SubtitleLanguage">
+        <MappingFragment StoreEntitySet="SubtitleLanguage">
+          <ScalarProperty Name="languageID" ColumnName="languageID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

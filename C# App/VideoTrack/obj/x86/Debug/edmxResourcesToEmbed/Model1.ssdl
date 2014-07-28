@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="Movie" EntityType="Model.Store.Movie" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="Subtitle" EntityType="Model.Store.Subtitle" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SubtitleLanguage" EntityType="Model.Store.SubtitleLanguage" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK__Subtitle__langua__08EA5793" Association="Model.Store.FK__Subtitle__langua__08EA5793">
+      <End Role="SubtitleLanguage" EntitySet="SubtitleLanguage" />
+      <End Role="Subtitle" EntitySet="Subtitle" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Subtitle__movieI__09DE7BCC" Association="Model.Store.FK__Subtitle__movieI__09DE7BCC">
+      <End Role="Movie" EntitySet="Movie" />
+      <End Role="Subtitle" EntitySet="Subtitle" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="Movie">
+    <Key>
+      <PropertyRef Name="movieID" />
+    </Key>
+    <Property Name="movieID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="varchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Subtitle">
+    <Key>
+      <PropertyRef Name="subtitleID" />
+    </Key>
+    <Property Name="subtitleID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="status" Type="int" Nullable="false" />
+    <Property Name="movieID" Type="int" Nullable="false" />
+    <Property Name="languageID" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SubtitleLanguage">
+    <Key>
+      <PropertyRef Name="languageID" />
+    </Key>
+    <Property Name="languageID" Type="int" Nullable="false" StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="varchar" Nullable="false" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK__Subtitle__langua__08EA5793">
+    <End Role="SubtitleLanguage" Type="Model.Store.SubtitleLanguage" Multiplicity="1" />
+    <End Role="Subtitle" Type="Model.Store.Subtitle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SubtitleLanguage">
+        <PropertyRef Name="languageID" />
+      </Principal>
+      <Dependent Role="Subtitle">
+        <PropertyRef Name="languageID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Subtitle__movieI__09DE7BCC">
+    <End Role="Movie" Type="Model.Store.Movie" Multiplicity="1" />
+    <End Role="Subtitle" Type="Model.Store.Subtitle" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Movie">
+        <PropertyRef Name="movieID" />
+      </Principal>
+      <Dependent Role="Subtitle">
+        <PropertyRef Name="movieID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

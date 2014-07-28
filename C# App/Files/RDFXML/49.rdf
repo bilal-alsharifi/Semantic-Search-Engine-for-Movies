@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE rdf:RDF [
+	<!ENTITY rdf 'http://www.w3.org/1999/02/22-rdf-syntax-ns#'>
+	<!ENTITY rdfs 'http://www.w3.org/2000/01/rdf-schema#'>
+	<!ENTITY xsd 'http://www.w3.org/2001/XMLSchema#'>
+]>
+<rdf:RDF xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanRappers">
+    <ns0:B.T._Express xmlns:ns0="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns0:B.T._Express>
+    <ns1:B.T._Express xmlns:ns1="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns1:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/AmericanSongwriters">
+    <ns2:B.T._Express xmlns:ns2="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns2:B.T._Express>
+    <ns3:B.T._Express xmlns:ns3="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns3:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CompaniesEstablishedIn1945">
+    <ns4:Anne_Fine xmlns:ns4="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns4:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/CompaniesListedOnTheLondonStockExchange">
+    <ns5:Anne_Fine xmlns:ns5="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns5:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Company108058098">
+    <ns6:Anne_Fine xmlns:ns6="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns6:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/FinancialServicesCompaniesBasedInLondon">
+    <ns7:Anne_Fine xmlns:ns7="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns7:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/FinancialServicesCompaniesOfTheUnitedKingdom">
+    <ns8:Anne_Fine xmlns:ns8="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns8:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/HinduGoddesses">
+    <ns9:be xmlns:ns9="http://dummy.org/">house@00:05:31,301-&gt;00:05:33,886#mythology</ns9:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Isotope114619658">
+    <ns10:be xmlns:ns10="http://dummy.org/">husband@00:05:28,664-&gt;00:05:31,301#heraldry</ns10:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/IsotopesOfHelium">
+    <ns11:be xmlns:ns11="http://dummy.org/">husband@00:05:28,664-&gt;00:05:31,301#heraldry</ns11:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Legislatures">
+    <ns12:be xmlns:ns12="http://dummy.org/">control@00:05:35,711-&gt;00:05:37,942#buildings</ns12:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/LivingPeople">
+    <ns13:B.T._Express xmlns:ns13="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns13:B.T._Express>
+    <ns14:B.T._Express xmlns:ns14="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns14:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/MusiciansFromNewOrleans,Louisiana">
+    <ns15:B.T._Express xmlns:ns15="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns15:B.T._Express>
+    <ns16:B.T._Express xmlns:ns16="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns16:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/NuClearFusionFuEls">
+    <ns17:be xmlns:ns17="http://dummy.org/">husband@00:05:28,664-&gt;00:05:31,301#heraldry</ns17:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Person100007846">
+    <ns18:B.T._Express xmlns:ns18="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns18:B.T._Express>
+    <ns19:B.T._Express xmlns:ns19="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns19:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/PrivateEquityFirms">
+    <ns20:Anne_Fine xmlns:ns20="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns20:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Rapper110507482">
+    <ns21:B.T._Express xmlns:ns21="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns21:B.T._Express>
+    <ns22:B.T._Express xmlns:ns22="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns22:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Singer110599806">
+    <ns23:B.T._Express xmlns:ns23="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns23:B.T._Express>
+    <ns24:B.T._Express xmlns:ns24="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns24:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/Songwriter110624540">
+    <ns25:B.T._Express xmlns:ns25="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns25:B.T._Express>
+    <ns26:B.T._Express xmlns:ns26="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns26:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/class/yago/VideoFormats">
+    <ns27:Call_option xmlns:ns27="http://dbpedia.org/resource/">her@00:04:59,862-&gt;00:05:02,140#acoustics</ns27:Call_option>
+    <ns28:Chubby_Checker xmlns:ns28="http://dbpedia.org/resource/">time@00:02:46,182-&gt;00:02:48,776#boxing</ns28:Chubby_Checker>
+    <ns29:Cubic_metre xmlns:ns29="http://dbpedia.org/resource/">ready@00:07:02,777-&gt;00:07:04,902#skiing</ns29:Cubic_metre>
+    <ns30:Debate xmlns:ns30="http://dbpedia.org/resource/">topic@00:04:47,100-&gt;00:04:48,582#philosophy</ns30:Debate>
+    <ns31:Talk_Talk xmlns:ns31="http://dbpedia.org/resource/">her@00:05:08,302-&gt;00:05:09,980#psychiatry</ns31:Talk_Talk>
+    <ns32:Talk_Talk xmlns:ns32="http://dbpedia.org/resource/">you@00:05:08,302-&gt;00:05:09,980#acoustics</ns32:Talk_Talk>
+    <ns33:Understanding xmlns:ns33="http://dbpedia.org/resource/">it@00:04:49,977-&gt;00:04:50,422#psychoanalysis</ns33:Understanding>
+    <ns34:be xmlns:ns34="http://dummy.org/">chubby@00:02:46,182-&gt;00:02:48,776#body_care</ns34:be>
+    <ns35:be xmlns:ns35="http://dummy.org/">time@00:02:54,064-&gt;00:02:56,699#boxing</ns35:be>
+    <ns36:everything xmlns:ns36="http://dummy.org/">parent@00:05:24,702-&gt;00:05:26,131#genetics</ns36:everything>
+    <ns37:get xmlns:ns37="http://dummy.org/">thing@00:05:13,220-&gt;00:05:20,942#aviation</ns37:get>
+    <ns38:know xmlns:ns38="http://dummy.org/">it@00:07:18,963-&gt;00:07:21,046#psychology</ns38:know>
+    <ns39:m xmlns:ns39="http://dummy.org/">beautiful@00:03:00,461-&gt;00:03:04,422#mythology</ns39:m>
+    <ns40:m xmlns:ns40="http://dummy.org/">child@00:05:33,886-&gt;00:05:35,711#psychoanalysis</ns40:m>
+    <ns41:m xmlns:ns41="http://dummy.org/">everything@00:05:24,702-&gt;00:05:26,131#acoustics</ns41:m>
+    <ns42:phone xmlns:ns42="http://dummy.org/">minute@00:04:19,022-&gt;00:04:21,573#telephony</ns42:phone>
+    <ns43:ready xmlns:ns43="http://dummy.org/">it@00:07:02,777-&gt;00:07:04,902#skiing</ns43:ready>
+    <ns44:require xmlns:ns44="http://dummy.org/">her@00:04:07,716-&gt;00:04:10,262#philology</ns44:require>
+    <ns45:see xmlns:ns45="http://dummy.org/">cafeteria@00:02:40,303-&gt;00:02:42,662#town_planning</ns45:see>
+    <ns46:see xmlns:ns46="http://dummy.org/">her@00:02:40,303-&gt;00:02:42,662#acoustics</ns46:see>
+    <ns47:share xmlns:ns47="http://dummy.org/">you@00:04:49,262-&gt;00:04:49,977#money</ns47:share>
+    <ns48:time xmlns:ns48="http://dummy.org/">well@00:02:54,064-&gt;00:02:56,699#boxing</ns48:time>
+    <ns49:use xmlns:ns49="http://dummy.org/">m@00:05:11,822-&gt;00:05:13,220#environment</ns49:use>
+    <ns50:use xmlns:ns50="http://dummy.org/">thing@00:05:11,822-&gt;00:05:13,220#environment</ns50:use>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Agent">
+    <ns51:Anne_Fine xmlns:ns51="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns51:Anne_Fine>
+    <ns52:B.T._Express xmlns:ns52="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns52:B.T._Express>
+    <ns53:B.T._Express xmlns:ns53="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns53:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Artist">
+    <ns54:B.T._Express xmlns:ns54="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns54:B.T._Express>
+    <ns55:B.T._Express xmlns:ns55="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns55:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Company">
+    <ns56:Anne_Fine xmlns:ns56="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns56:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/MusicalArtist">
+    <ns57:B.T._Express xmlns:ns57="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns57:B.T._Express>
+    <ns58:B.T._Express xmlns:ns58="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns58:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Organisation">
+    <ns59:Anne_Fine xmlns:ns59="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns59:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/ontology/Person">
+    <ns60:B.T._Express xmlns:ns60="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns60:B.T._Express>
+    <ns61:B.T._Express xmlns:ns61="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns61:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/1080i">
+    <ns62:Cubic_metre xmlns:ns62="http://dbpedia.org/resource/">ready@00:07:02,777-&gt;00:07:04,902#skiing</ns62:Cubic_metre>
+    <ns63:everything xmlns:ns63="http://dummy.org/">parent@00:05:24,702-&gt;00:05:26,131#genetics</ns63:everything>
+    <ns64:ready xmlns:ns64="http://dummy.org/">it@00:07:02,777-&gt;00:07:04,902#skiing</ns64:ready>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/3i">
+    <ns65:Anne_Fine xmlns:ns65="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns65:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/480i">
+    <ns66:Talk_Talk xmlns:ns66="http://dbpedia.org/resource/">her@00:05:08,302-&gt;00:05:09,980#psychiatry</ns66:Talk_Talk>
+    <ns67:Talk_Talk xmlns:ns67="http://dbpedia.org/resource/">you@00:05:08,302-&gt;00:05:09,980#acoustics</ns67:Talk_Talk>
+    <ns68:Understanding xmlns:ns68="http://dbpedia.org/resource/">it@00:04:49,977-&gt;00:04:50,422#psychoanalysis</ns68:Understanding>
+    <ns69:phone xmlns:ns69="http://dummy.org/">minute@00:04:19,022-&gt;00:04:21,573#telephony</ns69:phone>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/576i">
+    <ns70:Call_option xmlns:ns70="http://dbpedia.org/resource/">her@00:04:59,862-&gt;00:05:02,140#acoustics</ns70:Call_option>
+    <ns71:Chubby_Checker xmlns:ns71="http://dbpedia.org/resource/">time@00:02:46,182-&gt;00:02:48,776#boxing</ns71:Chubby_Checker>
+    <ns72:Debate xmlns:ns72="http://dbpedia.org/resource/">topic@00:04:47,100-&gt;00:04:48,582#philosophy</ns72:Debate>
+    <ns73:be xmlns:ns73="http://dummy.org/">chubby@00:02:46,182-&gt;00:02:48,776#body_care</ns73:be>
+    <ns74:be xmlns:ns74="http://dummy.org/">time@00:02:54,064-&gt;00:02:56,699#boxing</ns74:be>
+    <ns75:get xmlns:ns75="http://dummy.org/">thing@00:05:13,220-&gt;00:05:20,942#aviation</ns75:get>
+    <ns76:know xmlns:ns76="http://dummy.org/">it@00:07:18,963-&gt;00:07:21,046#psychology</ns76:know>
+    <ns77:m xmlns:ns77="http://dummy.org/">beautiful@00:03:00,461-&gt;00:03:04,422#mythology</ns77:m>
+    <ns78:m xmlns:ns78="http://dummy.org/">child@00:05:33,886-&gt;00:05:35,711#psychoanalysis</ns78:m>
+    <ns79:m xmlns:ns79="http://dummy.org/">everything@00:05:24,702-&gt;00:05:26,131#acoustics</ns79:m>
+    <ns80:require xmlns:ns80="http://dummy.org/">her@00:04:07,716-&gt;00:04:10,262#philology</ns80:require>
+    <ns81:see xmlns:ns81="http://dummy.org/">cafeteria@00:02:40,303-&gt;00:02:42,662#town_planning</ns81:see>
+    <ns82:see xmlns:ns82="http://dummy.org/">her@00:02:40,303-&gt;00:02:42,662#acoustics</ns82:see>
+    <ns83:share xmlns:ns83="http://dummy.org/">you@00:04:49,262-&gt;00:04:49,977#money</ns83:share>
+    <ns84:time xmlns:ns84="http://dummy.org/">well@00:02:54,064-&gt;00:02:56,699#boxing</ns84:time>
+    <ns85:use xmlns:ns85="http://dummy.org/">m@00:05:11,822-&gt;00:05:13,220#environment</ns85:use>
+    <ns86:use xmlns:ns86="http://dummy.org/">thing@00:05:11,822-&gt;00:05:13,220#environment</ns86:use>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Alcohol">
+    <ns87:be xmlns:ns87="http://dummy.org/">man@00:06:49,468-&gt;00:06:50,897#sexuality</ns87:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Boy">
+    <ns88:Express_train xmlns:ns88="http://dbpedia.org/resource/">girl@00:03:15,581-&gt;00:03:16,800#psychological_features</ns88:Express_train>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cafeteria">
+    <ns89:serve xmlns:ns89="http://dummy.org/">drink@00:03:41,709-&gt;00:03:44,502#food</ns89:serve>
+    <ns90:serve xmlns:ns90="http://dummy.org/">tumbler@00:03:41,709-&gt;00:03:44,502#athletics</ns90:serve>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Cup_product">
+    <ns91:give xmlns:ns91="http://dummy.org/">paper@00:03:44,502-&gt;00:03:46,549#drawing</ns91:give>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Father">
+    <ns92:be xmlns:ns92="http://dummy.org/">lawyer@00:05:26,131-&gt;00:05:27,223#law</ns92:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Hatred">
+    <ns93:Daily_Express xmlns:ns93="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns93:Daily_Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Helium-3">
+    <ns94:be xmlns:ns94="http://dummy.org/">husband@00:05:28,664-&gt;00:05:31,301#heraldry</ns94:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/House_of_Commons">
+    <ns95:be xmlns:ns95="http://dummy.org/">control@00:05:35,711-&gt;00:05:37,942#buildings</ns95:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Parent">
+    <ns96:participate xmlns:ns96="http://dummy.org/">it@00:05:42,547-&gt;00:05:44,824#telephony</ns96:participate>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Rico_Love">
+    <ns97:B.T._Express xmlns:ns97="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns97:B.T._Express>
+    <ns98:B.T._Express xmlns:ns98="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns98:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Yogini">
+    <ns99:be xmlns:ns99="http://dummy.org/">house@00:05:31,301-&gt;00:05:33,886#mythology</ns99:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/girl">
+    <ns100:be xmlns:ns100="http://dummy.org/">this@00:07:21,046-&gt;00:07:23,219#person</ns100:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/heart">
+    <ns101:be xmlns:ns101="http://dummy.org/">damage@00:07:04,902-&gt;00:07:07,262#insurance</ns101:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/i">
+    <ns102:share xmlns:ns102="http://dummy.org/">guy@00:05:09,980-&gt;00:05:11,822#money</ns102:share>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/it">
+    <ns103:be xmlns:ns103="http://dummy.org/">college@00:02:38,579-&gt;00:02:40,303#school</ns103:be>
+    <ns104:be xmlns:ns104="http://dummy.org/">fight@00:03:47,584-&gt;00:03:52,740#history</ns104:be>
+    <ns105:be xmlns:ns105="http://dummy.org/">hard@00:06:39,982-&gt;00:06:42,782#quality</ns105:be>
+    <ns106:be xmlns:ns106="http://dummy.org/">love@00:04:29,181-&gt;00:04:30,702#roman_catholic</ns106:be>
+    <ns107:be xmlns:ns107="http://dummy.org/">nice@00:02:36,501-&gt;00:02:37,500#quality</ns107:be>
+    <ns108:be xmlns:ns108="http://dummy.org/">time@00:02:51,983-&gt;00:02:54,064#boxing</ns108:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/love">
+    <ns109:be xmlns:ns109="http://dummy.org/">smooth@00:04:50,422-&gt;00:04:52,380#roman_catholic</ns109:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/moment">
+    <ns110:spend xmlns:ns110="http://dummy.org/">us@00:03:33,301-&gt;00:03:35,900#time_period</ns110:spend>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/people">
+    <ns111:approach xmlns:ns111="http://dummy.org/">me@00:07:10,380-&gt;00:07:16,142#dance</ns111:approach>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/she">
+    <ns112:Craps xmlns:ns112="http://dbpedia.org/resource/">dude@00:04:24,299-&gt;00:04:26,631#bowling</ns112:Craps>
+    <ns113:River_Wear xmlns:ns113="http://dbpedia.org/resource/">salwar@00:02:42,662-&gt;00:02:44,429#fashion</ns113:River_Wear>
+    <ns114:approach xmlns:ns114="http://dummy.org/">me@00:03:55,060-&gt;00:03:58,102#table_tennis</ns114:approach>
+    <ns115:be xmlns:ns115="http://dummy.org/">cute@00:02:44,429-&gt;00:02:46,182#quality</ns115:be>
+    <ns116:be xmlns:ns116="http://dummy.org/">girl@00:05:06,045-&gt;00:05:07,460#person</ns116:be>
+    <ns117:be xmlns:ns117="http://dummy.org/">parvathus@00:03:23,380-&gt;00:03:24,962#acoustics</ns117:be>
+    <ns118:change xmlns:ns118="http://dummy.org/">week@00:05:02,140-&gt;00:05:04,856#ethnology</ns118:change>
+    <ns119:lift xmlns:ns119="http://dummy.org/">phone@00:04:59,862-&gt;00:05:02,140#telephony</ns119:lift>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/subtitle">
+    <ns120:download xmlns:ns120="http://dummy.org/">wwwopensubtitlesorg@00:00:01,000-&gt;00:00:04,074#tv</ns120:download>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/these">
+    <ns121:be xmlns:ns121="http://dummy.org/">advice@00:07:10,380-&gt;00:07:16,142#free_time</ns121:be>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/we">
+    <ns122:resolve xmlns:ns122="http://dummy.org/">problem@00:04:56,022-&gt;00:04:57,902#engineering</ns122:resolve>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dummy.org/you">
+    <ns123:Guy_Forget xmlns:ns123="http://dbpedia.org/resource/">her@00:04:43,880-&gt;00:04:46,057#psychoanalysis</ns123:Guy_Forget>
+    <ns124:Maximum_break xmlns:ns124="http://dbpedia.org/resource/">back@00:07:23,219-&gt;00:07:25,301#telephony</ns124:Maximum_break>
+    <ns125:River_Wear xmlns:ns125="http://dbpedia.org/resource/">boy@00:05:54,623-&gt;00:06:00,622#school</ns125:River_Wear>
+    <ns126:River_Wear xmlns:ns126="http://dbpedia.org/resource/">shoe@00:05:54,623-&gt;00:06:00,622#skating</ns126:River_Wear>
+    <ns127:Writing xmlns:ns127="http://dbpedia.org/resource/">story@00:06:50,897-&gt;00:06:52,300#literature</ns127:Writing>
+    <ns128:be xmlns:ns128="http://dummy.org/">chubby@00:02:48,776-&gt;00:02:51,983#body_care</ns128:be>
+    <ns129:be xmlns:ns129="http://dummy.org/">reason@00:02:56,699-&gt;00:02:59,262#ethnology</ns129:be>
+    <ns130:reason xmlns:ns130="http://dummy.org/">you@00:02:56,699-&gt;00:02:59,262#philosophy</ns130:reason>
+    <ns131:say xmlns:ns131="http://dummy.org/">it@00:02:35,140-&gt;00:02:36,501#book_keeping</ns131:say>
+    <ns132:see xmlns:ns132="http://dummy.org/">girl@00:03:16,800-&gt;00:03:20,980#person</ns132:see>
+    <ns133:throw xmlns:ns133="http://dummy.org/">ball@00:05:44,824-&gt;00:05:51,220#volleyball</ns133:throw>
+    <ns134:throw xmlns:ns134="http://dummy.org/">ball@00:05:51,220-&gt;00:05:54,623#volleyball</ns134:throw>
+    <ns135:throw xmlns:ns135="http://dummy.org/">nicely@00:05:51,220-&gt;00:05:54,623#cricket</ns135:throw>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/MusicGroup">
+    <ns136:B.T._Express xmlns:ns136="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns136:B.T._Express>
+    <ns137:B.T._Express xmlns:ns137="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns137:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/Organization">
+    <ns138:Anne_Fine xmlns:ns138="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns138:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://schema.org/Person">
+    <ns139:B.T._Express xmlns:ns139="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns139:B.T._Express>
+    <ns140:B.T._Express xmlns:ns140="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns140:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Business">
+    <ns141:Anne_Fine xmlns:ns141="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns141:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://umbel.org/umbel/rc/Organization">
+    <ns142:Anne_Fine xmlns:ns142="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns142:Anne_Fine>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+    <ns143:Anne_Fine xmlns:ns143="http://dbpedia.org/resource/">man@00:04:48,582-&gt;00:04:49,262#sexuality</ns143:Anne_Fine>
+    <ns144:B.T._Express xmlns:ns144="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns144:B.T._Express>
+    <ns145:B.T._Express xmlns:ns145="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns145:B.T._Express>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://xmlns.com/foaf/0.1/Person">
+    <ns146:B.T._Express xmlns:ns146="http://dbpedia.org/resource/">be@00:03:14,301-&gt;00:03:15,581#psychological_features</ns146:B.T._Express>
+    <ns147:B.T._Express xmlns:ns147="http://dbpedia.org/resource/">girl@00:03:14,301-&gt;00:03:15,581#psychological_features</ns147:B.T._Express>
+  </rdf:Description>
+</rdf:RDF>

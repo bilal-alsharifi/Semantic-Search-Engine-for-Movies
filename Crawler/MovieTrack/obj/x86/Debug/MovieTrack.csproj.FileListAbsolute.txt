@@ -1,0 +1,62 @@
+c:\users\lama\documents\visual studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lama\documents\visual studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.Properties.Resources.resources
+c:\users\lama\documents\visual studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lama\documents\visual studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lama\Documents\Visual Studio 2010\Projects\MovieTrack\MovieTrack\bin\Debug\MovieTrack.exe.config
+C:\Users\Lama\Documents\Visual Studio 2010\Projects\MovieTrack\MovieTrack\bin\Debug\MovieTrack.exe
+C:\Users\Lama\Documents\Visual Studio 2010\Projects\MovieTrack\MovieTrack\bin\Debug\MovieTrack.pdb
+C:\Users\Lama\Documents\Visual Studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.exe
+C:\Users\Lama\Documents\Visual Studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.pdb
+C:\Users\Lama\Documents\Visual Studio 2010\Projects\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.Form1.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\bin\Debug\MovieTrack.exe.config
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\bin\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\bin\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.Form1.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\MovieTrack.Properties.Resources.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack\MovieTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\bin\Debug\MovieTrack.exe.config
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\bin\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\bin\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\MovieTrack.Form1.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\MovieTrack.Properties.Resources.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.1\MovieTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\bin\Debug\MovieTrack.exe.config
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\bin\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\bin\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\MovieTrack.Form1.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\MovieTrack.Properties.Resources.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.2\MovieTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\bin\Debug\MovieTrack.exe.config
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\bin\Debug\MovieTrack.exe
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\bin\Debug\MovieTrack.pdb
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\MovieTrack.Form1.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\MovieTrack.Properties.Resources.resources
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Slik_Eng\Desktop\MovieTrack Last Version 1.0.5\MovieTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\MovieTrack.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\MovieTrack.Crawler.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\MovieTrack.Form1.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\MovieTrack.Properties.Resources.resources
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\MovieTrack.exe.licenses
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\bin\Debug\MovieTrack.exe.config
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\bin\Debug\MovieTrack.exe
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\bin\Debug\MovieTrack.pdb
+D:\Anna\Anna\College\Fifth Year\5th year\2nd Semester\IR\Practical\Homework\MovieTrack Last Version 1.0.4\MovieTrack\obj\x86\Debug\MovieTrack.exe
